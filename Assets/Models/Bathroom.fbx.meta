@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: e932fc10eea88064a94a0dca82a976d4
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_End-Shelf-Planks-Wood-Paint-White_0.1_0_0.001
+    second: {fileID: 2100000, guid: 5c18d63ebd484184f8baf99f7c1ceb31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Bathroom-Cabinets-White_0.1_0_0.001
+    second: {fileID: 2100000, guid: d1f71513bbb4dcc4ba2fa0b441438a68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Bathroom-Cabinets-Wood_0.1_0_0.000
+    second: {fileID: 2100000, guid: cdc15fc588599604f914aa724477de5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Bathroom-Cabinets_0.1_0_0.000
+    second: {fileID: 2100000, guid: 592424a6db4980647863da29cbf38d17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Carpet_0.1_0_0.001
+    second: {fileID: 2100000, guid: 335da8b273ed1424dafbcc41b30efdc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Door_0.1_0_0.001
+    second: {fileID: 2100000, guid: a2b8f724466e22b4fab83eff27e9a371, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Smoke-Detector_0.1_0_0.000
+    second: {fileID: 2100000, guid: b3b923dcb3923d645ae2f8c74724472f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Toilet-Residential_0.1_0_0.000
+    second: {fileID: 2100000, guid: 487793f98c7b32642962d38a05b2f26f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Toilet-Sink-Single_0.1_0_0.001
+    second: {fileID: 2100000, guid: 769640b0ddcec5b4da65025be54ab875, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Vanity-Light-Fixture_0.1_0_0.001
+    second: {fileID: 2100000, guid: f3fb6ef23e32e7d44a2deec27358560f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Wood-Trim.material01_0.1_0_0.001
+    second: {fileID: -1787737952546654919, guid: 7d1b91b7602470c429646b8791787fec, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ac-Vents-Panels_0.1
+    second: {fileID: 2100000, guid: 65cb1c765a50f994ba910a8f91b2feca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen-Bench_0.1
+    second: {fileID: 2100000, guid: 304ea8c269b732c4cb48242a95166b47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen-Cabinets-Wood_0.1
+    second: {fileID: 2100000, guid: 38b2896144f733d46abfdbf74d22a15e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen-Countertop_0.1
+    second: {fileID: 2100000, guid: 02e5752449a5c2541b629a6e993591c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen-Electric-Outlets_0.1
+    second: {fileID: 2100000, guid: 9d63bcdaabc3d8a41b37f3e73a48e2b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen-Glass-Smear-Basic_0.1
+    second: {fileID: 2100000, guid: 5a633d1a500388d4cbc96c573b15174b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen-Ind-Metal-Beams-01-Painted-White_0.1
+    second: {fileID: 2100000, guid: 18ef5ec6b4ac62349acc399b9154393f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen-Picture-Art-Nature_0.1
+    second: {fileID: 2100000, guid: ddf1ba9c04bb26c4a946260471af0ba8, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

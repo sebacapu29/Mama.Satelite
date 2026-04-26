@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 40b0cf2d6a03dcf4591f7d279738a56f
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_End-Indoor-Plant-02-C_0.1_0_0.001
+    second: {fileID: 2100000, guid: fa9593b4d40803b448bac9b79bb21f2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Col-Ceramic-Pot-G_0.1_0_0.000
+    second: {fileID: 2100000, guid: 80950522b14929f42bbfe3c9a89c8a39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Carpet_0.1_0_0.001
+    second: {fileID: 2100000, guid: 335da8b273ed1424dafbcc41b30efdc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Chandelier_0.1_0_0.000
+    second: {fileID: 2100000, guid: 6a71450dc2d8090459e00538a1affe18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Curtain-Green_0.1_0_0.001
+    second: {fileID: 2100000, guid: 7c14b8295585c2b408e3887dd6faf0b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Curtain-White_0.1_0_0.001
+    second: {fileID: 2100000, guid: a51924d66216bf545953ff2f51d20a2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Curtains.material01_0.1_0_0.000
+    second: {fileID: 2100000, guid: ceb15806d0debeb4591788a2309bed88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Dining-Set-Iron-Chair_0.1_0_0.000
+    second: {fileID: 2100000, guid: d648edddffbbb6c4bb3be790d17c62e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Dining-Set-Iron-Table_0.1_0_0.000
+    second: {fileID: 2100000, guid: e880038e8119a584e9bfdefb48291c95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Dishrack_0.1_0_0.000
+    second: {fileID: 2100000, guid: f71799fa9a319c84da913ff321afaffa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Door_0.1_0_0.001
+    second: {fileID: 2100000, guid: a2b8f724466e22b4fab83eff27e9a371, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Killim-Rugs-Style-01_0.1_0_0.001
+    second: {fileID: 2100000, guid: 606207f3a116250439f836941c72e56a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Smoke-Detector_0.1_0_0.000
+    second: {fileID: 2100000, guid: b3b923dcb3923d645ae2f8c74724472f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Towels_0.1_0_0.000
+    second: {fileID: 2100000, guid: 30fb1df2c7f9a8b419efc282c8396af7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Trim-Basic-Door_0.1_0_0.001
+    second: {fileID: 2100000, guid: 09edf753da226ec49b4e6fd7f67c3695, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Trim-Basic_0.1_0_0.001
+    second: {fileID: 2100000, guid: a7853b6db8146c3438c7a1460262b8f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Man-Placemats-Round_0.1_0_0.000
+    second: {fileID: 2100000, guid: 6389bff258c4a214b93e720d82c86e90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Pas-Dirt-Ground-01_0.1_0_0.001
+    second: {fileID: 2100000, guid: a36ec48361e06bb4b9227ba95ea15c97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 41_Bush-Sumac_0.1_0_0.000
+    second: {fileID: 2100000, guid: e46a68e1120c2e541ae6d12faec02928, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ac-Vents-Panels_0.1
+    second: {fileID: 2100000, guid: 65cb1c765a50f994ba910a8f91b2feca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen-Cabinets-Wood-Dark_0.1
+    second: {fileID: 2100000, guid: 65cb1c765a50f994ba910a8f91b2feca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen-Cabinets-Wood_0.1
+    second: {fileID: 2100000, guid: c1d0fff696b99754f9529aec461675ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen-Cabinets_0.1
+    second: {fileID: 2100000, guid: 38b2896144f733d46abfdbf74d22a15e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen-Cell-Lamps_0.1
+    second: {fileID: 2100000, guid: 397bbbefdde68a844a86ce6f70cbec3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen-Cell-Lamps_0.2
+    second: {fileID: 2100000, guid: a426c5acdc7f756449c0959fd57732fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen-Electric-Outlets_0.1
+    second: {fileID: 2100000, guid: 9d63bcdaabc3d8a41b37f3e73a48e2b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen-Glass-Smear-Basic_0.1
+    second: {fileID: 2100000, guid: 5a633d1a500388d4cbc96c573b15174b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: b29649535de83c04d93f435bca0ef3a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 16ce1bac6182dec4fb38f7fcc1503661, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
