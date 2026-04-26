@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: 87704034c20e54148baae0fcb42fb52a
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 24_Hom-Electric-Outlets_0.1_0_0.000
+    second: {fileID: 2100000, guid: ba33902ebc953234c8e214d75a29a384, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_End-Indoor-Plant-02-A_0.1_0_0.000
+    second: {fileID: 2100000, guid: 0161800ec6b6a094696899a86c97800d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_End-Indoor-Plant-02-C_0.1_0_0.001
+    second: {fileID: 2100000, guid: 6acbb622650cc4748acbc59763993b65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_Hom-Potted-Plant-Cactus_0.1_0_0.000
+    second: {fileID: 2100000, guid: 4f165f3afcfde5e4e8bd3bfcf586b6d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Au-Cell-Brickwall_0.1_0_0.001
+    second: {fileID: 2100000, guid: 11319640279d8254996b293c4cc1ad98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Auc-Parv-Terrace-Tile-Slate_0.1_0_0.001
+    second: {fileID: 2100000, guid: 7c86382f4f5f5544490d59ff62c36c14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Auc-Storage-Room-Products-Bottles-Labels_0.1_0_0.000
+    second: {fileID: 2100000, guid: 43469a2b17e482a4c8f36b951e9dc2da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Auc-Storage-Room-Products-Cans_0.1_0_0.000
+    second: {fileID: 2100000, guid: f96ffe18ae66b91438a1873664277a9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Auc-Storage-Room-Products-Jar_0.1_0_0.000
+    second: {fileID: 2100000, guid: 1d92e1227965300429eabee95527acb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Auc-Table-Lamp-B_0.1_0_0.000
+    second: {fileID: 2100000, guid: b09c9c745b094d14796fdedd3bbded8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Cit-Ind-Metal-Beams-01-Painted-White_0.1_0_0.000
+    second: {fileID: 2100000, guid: 33d84cd8c58e7e84ab804cef58c2e52e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Col-Ceramic-Pot-G_0.1_0_0.000
+    second: {fileID: 2100000, guid: e2ad91bc80b20f14ea691dd7793a5790, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Div-Painted-Metal_0.1_0_0.000
+    second: {fileID: 2100000, guid: 7941f85971fdccf4ab7640058fd2ce1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_End Baskets Shelf2_0.1_0_0.000
+    second: {fileID: 2100000, guid: 87315a1223fb3b147a282f505f62efec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_End-Baskets-Shelf.material01_0.1_0_0.000
+    second: {fileID: 2100000, guid: 5709d84543056974f8e280fe5f2a7028, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_End-Baskets-Shelf.material02_0.1_0_0.000
+    second: {fileID: 2100000, guid: bb67d8643c3e88846986931d8e12e7b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_End-Baskets-Shelf.material04_0.1_0_0.000
+    second: {fileID: 2100000, guid: f284475b7a5a7fd4885b6e01cba4c849, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_End-Bath-anity-Wood-Dark_0.1_0_1.001
+    second: {fileID: 2100000, guid: da57c3ddc5a1ffc4a84b3e4067466be4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_End-Cassie-Magazines_0.1_0_1.000
+    second: {fileID: 2100000, guid: 290fc6cd409149646b2edfe5b53e2ff1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_End-Cassie-Moroccan-Shelf_0.1_0_1.000
+    second: {fileID: 2100000, guid: e4efd97b8a5ebe34c899d636e7f4bc9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_End-Glass-Knob_0.1_0_0.000
+    second: {fileID: 2100000, guid: 3c9b5d71ef8752840928d4d3ec66ff04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_End-Shelf-Panel-Wood-Paint-White_0.1_0_0.000
+    second: {fileID: 2100000, guid: 2c05a36b30c67e0488b64a0eede915ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_End-Shelf-Planks-Wood-Paint-White_0.1_0_0.001
+    second: {fileID: 2100000, guid: 4e1b023ad5ee3994182e1766ed1bf848, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_End-Shelf-Planks-Wood-Paint_0.1_0_0.000
+    second: {fileID: 2100000, guid: 3d91e63850d7a764d940a97c8946501b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_End-Small-Curtain_0.1_0_0.001
+    second: {fileID: 2100000, guid: e8177511d023b754dbb0a621bb98909e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Ac-Vents-Panels_0.1_0_0.000
+    second: {fileID: 2100000, guid: e34266e10d1f41942a5a05b942bf5ed9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Bath-Towels_0.1_0_0.001
+    second: {fileID: 2100000, guid: b30887a6104ee2249b38330a5d543c7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Bath-Wall-Tile-Alt_0.1_0_0.001
+    second: {fileID: 2100000, guid: a000238771010044faf9b319da6b4e70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Bath-Wall-Tile_0.1_0_0.001
+    second: {fileID: 2100000, guid: 350d62b033f759a499563d6b1e2ecc08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Bathroom-Cabinets-White_0.1_0_0.001
+    second: {fileID: 2100000, guid: af4aa54e93441d2439dfd7126a3680f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Bathroom-Cabinets-Wood_0.1_0_0.000
+    second: {fileID: 2100000, guid: f97c7138afea847409162a19cc11f531, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Bathroom-Cabinets_0.1_0_0.000
+    second: {fileID: 2100000, guid: c7c67cb203fe3974695d84e00f3ff7ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Bench_0.1_0_0.000
+    second: {fileID: 2100000, guid: 1a2627838aae230438601a242d54bd7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Big-Screen-TV_0.1_0_0.000
+    second: {fileID: 2100000, guid: 00b18150a7739d341bb4e5e3213a0d0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Blender_0.1_0_0.000
+    second: {fileID: 2100000, guid: e1c8e6ba5b3f92d44ac9afca2ac37335, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Blowdryer_0.1_0_0.000
+    second: {fileID: 2100000, guid: 85ed8eb4616225c49b97e70974c8ba10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Bookshelf-Stereo_0.1_0_0.000
+    second: {fileID: 2100000, guid: 70700b169a65e1647ae7195716c90110, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Bottle-Set-A_0.1_0_0.001
+    second: {fileID: 2100000, guid: 9def808d1abbb9c41a508fe2a0422397, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Bread_0.1_0_0.000
+    second: {fileID: 2100000, guid: 7dd0be4c6dd6bab46b7d2fe1b02b134b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Candlestick-Lamp_0.1_0_0.000
+    second: {fileID: 2100000, guid: bc26f320da0ab7643be8cf7e624b338b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Carpet_0.1_0_0.001
+    second: {fileID: 2100000, guid: 75795c8358c21594fa37d71d3b943592, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Ceiling-Light_0.1_0_0.000
+    second: {fileID: 2100000, guid: d5ce0d92684b9654c91fe384433a4952, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Cell-Lamps_0.1_0_0.000
+    second: {fileID: 2100000, guid: 6a505116af9f57241af55492e4f14b3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Ceramics-Bath-Containers_0.1_0_0.000
+    second: {fileID: 2100000, guid: e2416da383731ae46966075414238094, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Chandelier_0.1_0_0.000
+    second: {fileID: 2100000, guid: 0df31c5513bdc3c4f9d8c1aadc12fdfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Clothes-Attic_0.1_0_0.000
+    second: {fileID: 2100000, guid: e7100b0d4cdd098458700afb9cd9b609, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Clothes-Hanging-01_0.1_0_0.000
+    second: {fileID: 2100000, guid: ff4d15b9231f6214991a1653c317f887, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Curtain-Green-Geometric_0.1_0_1.001
+    second: {fileID: 2100000, guid: 894298d94d111404ca22a43958f7e888, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Curtain-Green_0.1_0_0.001
+    second: {fileID: 2100000, guid: acfca6ddbc3795e43b1a17d96890f962, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Curtain-White_0.1_0_0.001
+    second: {fileID: 2100000, guid: 3ac85382be0691f41a24cd547acbd1b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Curtains.material01_0.1_0_0.000
+    second: {fileID: 2100000, guid: e9b993be6c558534991f8451817a4be4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Dining-Set-Iron-Chair_0.1_0_0.000
+    second: {fileID: 2100000, guid: 51642c8a6f803914a8c835c4c743a190, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Dining-Set-Iron-Table_0.1_0_0.000
+    second: {fileID: 2100000, guid: 96b755f380cebb746bd01f5b737a8b40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Dish-Cloth_0.1_0_0.001
+    second: {fileID: 2100000, guid: 70194d54c886908439c76cbbbd68692d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Dishrack_0.1_0_0.000
+    second: {fileID: 2100000, guid: b341b7f6b1179f7449bcacce2175f7e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Door_0.1_0_0.001
+    second: {fileID: 2100000, guid: c71f7d5b094e2564d8173a0873d0b902, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Eiffel-Towel-Keepsake_0.1_0_0.000
+    second: {fileID: 2100000, guid: c9fbb095b726b304fa7c97811f692a03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Electric-Kettle_0.1_0_0.000
+    second: {fileID: 2100000, guid: 75f672ce906a95c40bc2129e1b98b3eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Elena-Binder-Box-Alt_0.1_0_0.000
+    second: {fileID: 2100000, guid: 71c437515158e5144b83d67091eb8904, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Elena-Binder-Box_0.1_0_0.001
+    second: {fileID: 2100000, guid: 18184ab65a8aafb4aa32ef19b85ac4e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Elena-Clothes-Folded_0.1_0_0.001
+    second: {fileID: 2100000, guid: c5326125620ce6242abe3453a4eac664, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Elena-Sofa.B_0.1_0_0.001
+    second: {fileID: 2100000, guid: 9db7d562fa66da4468aae5c3cb400c4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Elena-Sofa_0.1_0_0.001
+    second: {fileID: 2100000, guid: 3cd781c55ed446e4592228b3c501962a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Floral-Rugs-Style-02_0.1_0_0.001
+    second: {fileID: 2100000, guid: b6a56fa4bd03e7c429bda57b5ef02ba6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Foyer-Table_0.1_0_0.000
+    second: {fileID: 2100000, guid: 652151a72fd224e459fd93274159d4b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Fridge-Contents-01_0.1_0_0.000
+    second: {fileID: 2100000, guid: 9d7b74b9046ccea479756039457c7190, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Fridge-Contents-02_0.1_0_0.001
+    second: {fileID: 2100000, guid: 9fff70b27265ea841a7db8b09002a5d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Fridge-Contents-03_0.1_0_0.001
+    second: {fileID: 2100000, guid: 6913ae13da84623438ef379f16d39d53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Fridge-Exterior-Door_0.1_0_0.000
+    second: {fileID: 2100000, guid: 3c829fe6017107f4280b7faefbba1715, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Fridge-Exterior_0.1_0_0.001
+    second: {fileID: 2100000, guid: cb9ca92837ce9ac4e9b668c68cd9681d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Fridge-Interior-Door2_0.1_0_0.001
+    second: {fileID: 2100000, guid: 6baad17eb9b0876429d0bcd0deaec535, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Fridge-Interior_0.1_0_0.000
+    second: {fileID: 2100000, guid: 36949a914241c73488544e5aa6629be0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Front-Door_0.1_0_0.001
+    second: {fileID: 2100000, guid: c98d312463258c04995cb0d75062b67d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Fruit-Bowl_0.1_0_0.000
+    second: {fileID: 2100000, guid: c74cd50ba55ae5c48a0a45b9c7f6dd9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Hoodie_0.1_0_0.000
+    second: {fileID: 2100000, guid: 5fae74ed967de284493abc8ef56ba1c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Kilim-Rugs-Runner-Style-02_0.1_0_0.000
+    second: {fileID: 2100000, guid: b05ee35f012861441b63678d62907124, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Killim-Rugs-Style-01_0.1_0_0.001
+    second: {fileID: 2100000, guid: d00aa5a47cde7ca488da5cd194a7d9ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Killim-Rugs-Style-02_0.1_0_0.001
+    second: {fileID: 2100000, guid: 23274d5a2cc51984b801e2f4ffcbf781, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Kitchen-Cabinets-Wood-Dark_0.1_0_0.000
+    second: {fileID: 2100000, guid: ef9373f5b32101f41b9864ff8f9b95db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Kitchen-Cabinets-Wood_0.1_0_0.001
+    second: {fileID: 2100000, guid: ce54977ae56d8014683f3e5d4cceea66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Kitchen-Cabinets_0.1_0_0.001
+    second: {fileID: 2100000, guid: 86013b08ec73c4948b58982d557e4d52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Kitchen-Countertop_0.1_0_0.001
+    second: {fileID: 2100000, guid: a9dfcb8c7115f2943b3cb1ea184c8329, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Kitchen-Knifeblock_0.1_0_0.000
+    second: {fileID: 2100000, guid: 1af21d509413e334f92547497aa6c38d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Kitchen-Products_0.1_0_0.000
+    second: {fileID: 2100000, guid: 9bf69cdfae7a4114294fbfae11aa56d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Kitchen-Sink_0.1_0_0.000
+    second: {fileID: 2100000, guid: 4de6760263881304aa428b97a92f1a77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Kitchen-Timer_0.1_0_0.000
+    second: {fileID: 2100000, guid: 85e183944094ef54ebd04f2e57f34e8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Laundry-Sliding-Door_0.1_0_0.000
+    second: {fileID: 2100000, guid: 62e8a42ca4479c440b0fe0ba43867364, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Magazine-Rack_0.1_0_0.000
+    second: {fileID: 2100000, guid: e5cf53bdaefa54848ad33340b8bb421e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Papertowel-Rack_0.1_0_0.000
+    second: {fileID: 2100000, guid: ae917b87b7e0b114ea50168e0fcc771e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Picture-Art-Nature_0.1_0_0.000
+    second: {fileID: 2100000, guid: 7b603c56ff1936249893fa0fa89f9e1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Picture-Family-Photo_0.1_0_0.000
+    second: {fileID: 2100000, guid: 8e57c43d90e0ea74f9160ec9accfbd29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Picture-Travel_0.1_0_0.000
+    second: {fileID: 2100000, guid: ad39732cfde4f2c47b2796c2301e42c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Pillows-Floral-Green_0.1_0_0.000
+    second: {fileID: 2100000, guid: ee0acd2d9fbddca45851c2b4d2913c12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Plastic-Cuttingboard_0.1_0_0.000
+    second: {fileID: 2100000, guid: 265ad63e89bc02d4992b011053c041c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Potholder_0.1_0_0.000
+    second: {fileID: 2100000, guid: 31f06cceb8c000f4084997e1f4c93d2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Pots-Pans_0.1_0_0.001
+    second: {fileID: 2100000, guid: 169969acb10f9094ab6efc00e6738379, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Product-Bottles_0.1_0_0.000
+    second: {fileID: 2100000, guid: c54b1dd86a7396740b2642d0cda6e91b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Rangehood_0.1_0_0.000
+    second: {fileID: 2100000, guid: 1fa39f23d1285ac4e9fcf6177c28ccc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Recycle-Bin_0.1_0_0.000
+    second: {fileID: 2100000, guid: 78a520da3be5add4f94e289d5cfaaed6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Rug-Killim-Orange_0.1_0_0.001
+    second: {fileID: 2100000, guid: 6904834da245910448f46fd5bb6fd25e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Salt-Pepper-Shakers_0.1_0_0.000
+    second: {fileID: 2100000, guid: 6da536ebf5aa0f64aa05f35e6f73f25f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Shoes-Elena-01_0.1_0_0.000
+    second: {fileID: 2100000, guid: 744b179cecab54945a6ba15493d7e9e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Shoes-Nate-01_0.1_0_0.000
+    second: {fileID: 2100000, guid: adc0aad2ff8fc3c4a8cdc83f70c3ffb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Shoes-Nate-04_0.1_0_0.000
+    second: {fileID: 2100000, guid: 8d8ee6f443c4337449d236d792d322a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Smoke-Detector_0.1_0_0.000
+    second: {fileID: 2100000, guid: ba1a5e23154431e4eb7c3ed77de5b184, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Stack-Mail_0.1_0_0.000
+    second: {fileID: 2100000, guid: 01d368ae2ec52564587d12c9c6cbf7b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Stove-Tile-Deco_0.1_0_0.000
+    second: {fileID: 2100000, guid: b42511c01925d2b4fba6ad0df16e0fd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Stove_0.1_0_0.000
+    second: {fileID: 2100000, guid: 163e0893bb701cf44a879a941c98361c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-TissueBox_0.1_0_0.000
+    second: {fileID: 2100000, guid: 16d77ba3765cd6f4fbf67376fd66cbef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Toaster_0.1_0_0.000
+    second: {fileID: 2100000, guid: dd4851d41dd80ec4ea6e4fb090b4af9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Toilet-Residential_0.1_0_0.000
+    second: {fileID: 2100000, guid: e9674146b758b03478b1edbc3ceb7136, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Toilet-Sink-Single_0.1_0_0.001
+    second: {fileID: 2100000, guid: 32a813b85a1552648b69672a33c5254d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Towels-Hanging_0.1_0_0.000
+    second: {fileID: 2100000, guid: a4cbc2469c0a5ac47bd175bcbdb24e48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Towels_0.1_0_0.000
+    second: {fileID: 2100000, guid: b940eac9b5e576442a333bfa2e3ae194, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Trash-Bin_0.1_0_0.001
+    second: {fileID: 2100000, guid: 9f96e40628ac7e947bd80ae2df4b54e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Trashcan-Kitchen_0.1_0_0.000
+    second: {fileID: 2100000, guid: 63bfee709357b8449831e428de9ecb9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Travel-Posters-A_0.1_0_0.000
+    second: {fileID: 2100000, guid: 9631d11e00b2b1e43b8a11dc7f53d03a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Trim-Basic-Black-Color_0.1_0_0.000
+    second: {fileID: 2100000, guid: 04f7f9e989b6f1347951e308bb400e89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Trim-Basic-Color_0.1_0_0.001
+    second: {fileID: 2100000, guid: 1d0aed08ac638484ca9ddd52906c0a27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Trim-Basic-Door_0.1_0_0.001
+    second: {fileID: 2100000, guid: 411a57137d3877c4c9659189c8e1b7e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Trim-Basic-Windows_0.1_0_0.001
+    second: {fileID: 2100000, guid: 0a7e0d104a049c04390976afef36daf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Umbrella-Container-Container_0.1_0_0.000
+    second: {fileID: 2100000, guid: 5c59a066fd1e4f14a98e20911b0be84a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Umbrella-Container_0.1_0_0.000
+    second: {fileID: 2100000, guid: c158367c809de7c46b07877f653f51f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Vanity-Light-Fixture_0.1_0_0.001
+    second: {fileID: 2100000, guid: 59f0c89d55d28f245a0064b8df92275b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Vintage-Books-Adventure_0.1_0_0.000
+    second: {fileID: 2100000, guid: 4861c2fb96929a24eb6cd7cf3994452c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Vintage-Books_0.1_0_0.001
+    second: {fileID: 2100000, guid: 702645e97e9cbe644821fb0009ea43d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Vintage-Reflex-Camera_0.1_0_0.000
+    second: {fileID: 2100000, guid: 6b2fbae49a3e29046b72d90b3969d1a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Vintage-Tins_0.1_0_0.000
+    second: {fileID: 2100000, guid: a5e1d85c553ee444ca993ee6862fae8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Wall-Sconce_0.1_0_0.000
+    second: {fileID: 2100000, guid: cf377b3a987d83047888f60c9086b656, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Water-Cooler_0.1_0_0.000
+    second: {fileID: 2100000, guid: cfeff315cc5d22549a469c3abaf2f7be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-White-Subway-Tile_0.1_0_0.001
+    second: {fileID: 2100000, guid: dd758229d855d2545a4a4e4444a4dde2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Wine-Rack_0.1_0_0.000
+    second: {fileID: 2100000, guid: dea0ded9f517d154f933ea6c57d3335a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Wood-Cuttingboard_0.1_0_0.000
+    second: {fileID: 2100000, guid: b19f7fdda86efa946a5777ca715fcd6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Wood-LivingShelf_0.1_0_0.001
+    second: {fileID: 2100000, guid: e613871807201e9459a8d06921ce96eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Hom-Woodspoon-Holder_0.1_0_0.000
+    second: {fileID: 2100000, guid: 4d43f64173990d846bf04cc623820959, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Man-Dust-01_0.1_0_0.000
+    second: {fileID: 2100000, guid: 7074510279744ca4cb5adbf5f337037e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Man-Placemats-Round_0.1_0_0.000
+    second: {fileID: 2100000, guid: 4f1d8f9c57b64064c9523ac176d2f0df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Off-Wall-Clutter-01_0.1_0_3.001
+    second: {fileID: 2100000, guid: a68ad3c8adf60474380e4cd5540eb096, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Pas-Dirt-Ground-01_0.1_0_0.001
+    second: {fileID: 2100000, guid: 9cd025f0e0f545148aec412764ee9546, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Prop-Bar-Stool_0.1_0_0.000
+    second: {fileID: 2100000, guid: 01eb55834469f594786e6fd8ff49fea9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Prop-Livingroom-Tables-01_0.1_0_0.001
+    second: {fileID: 2100000, guid: 3cbcf6c490dbc6d4fa627a5ffe91eb39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_Prop-Microwave-Oven-03_0.1_0_0.000
+    second: {fileID: 2100000, guid: 89e6b8127b4c4e045b32de1ceec349d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 41_Bush-Sumac_0.1_0_0.000
+    second: {fileID: 2100000, guid: 826040a5ed273a441b833eb41f4b34a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 41_Off-Glass-Smear-Basic_0.1_0_0.000
+    second: {fileID: 2100000, guid: 5ad5ac166c4aaa9409c92532a63f501b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 2fcedec2ab6b7a24d9531bbaf2727ca1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: e9ba9532c6d6c1b4e93c165261638de2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: ffc35ddbc06bb024eae295d1d420bf71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 7f30af1be1679ed40a15676f23041a84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 37e43293229491e4599ea25ed534d348, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: 2fee3b84f4edbef4c9f4462abbb65d2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 29d376496943a6d4e80c3c028380a733, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: 95941ec264193fd4a810e9f10d80081c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: f83dd5cc0d3f73844bbcbfe3875ca7e7, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 1
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
