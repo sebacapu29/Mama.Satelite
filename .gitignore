@@ -93,11 +93,7 @@ InitTestScene*.unity*
 # /Assets/AddressableAssetsData/OSX/addressables_content_state.bin
 /[Aa]ssets/AddressableAssetsData/*/*.bin*
 /Assets/Textures/*
-/Assets/Materials/*
-/Assets/Models/Floor1/Materials/*
-/Assets/Models/Floor2/Materials/*
-/Assets/Models/Floor3/Materials/*
-
+/Assets/Models/Textures
 
 # Visual Scripting auto-generated files
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db
