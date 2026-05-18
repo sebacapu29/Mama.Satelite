@@ -5518,62 +5518,6 @@ Light:
   m_LightUnit: 1
   m_LuxAtDistance: 1
   m_EnableSpotReflector: 1
---- !u!1 &1704400977
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1704400979}
-  - component: {fileID: 1704400978}
-  m_Layer: 0
-  m_Name: WeatherSystem
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1704400978
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1704400977}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4a0c425a7f18a0e4c8fb20c8fdeec6bc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  endpointUrl: https://weatherapi-com.p.rapidapi.com/current.json?q=-34.612%2C-58.375
-  rapidApiKey: bf6e6c7941msha594ccce77dd083p1210bejsn2df16fd2345d
-  rapidApiHost: weather-api167.p.rapidapi.com
-  refreshSeconds: 300
-  fetchOnStart: 1
-  daySkybox: {fileID: 2100000, guid: 57eb7e0c0a5b09243a685b9e086c1ca2, type: 2}
-  nightSkybox: {fileID: 2100000, guid: def840f88ef75b34abcf5777703bcfb6, type: 2}
-  mainDirectionalLight: {fileID: 410087040}
-  dayLightIntensity: 1.1
-  nightLightIntensity: 0.25
-  dayAmbient: {r: 0.75, g: 0.75, b: 0.8, a: 1}
-  nightAmbient: {r: 0.08, g: 0.08, b: 0.12, a: 1}
---- !u!4 &1704400979
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1704400977}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 17.287018, y: 1.9597108, z: 4.6290474}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1740639521
 GameObject:
   m_ObjectHideFlags: 0
@@ -6713,6 +6657,67 @@ Light:
   m_LightUnit: 1
   m_LuxAtDistance: 1
   m_EnableSpotReflector: 1
+--- !u!1001 &3005239625568600985
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1997239862176570899, guid: ef91522381dfed84b92d81fcf2efeeda, type: 3}
+      propertyPath: mainDirectionalLight
+      value: 
+      objectReference: {fileID: 410087040}
+    - target: {fileID: 2479253624326433397, guid: ef91522381dfed84b92d81fcf2efeeda, type: 3}
+      propertyPath: m_Name
+      value: WeatherSystem
+      objectReference: {fileID: 0}
+    - target: {fileID: 3289025563634504820, guid: ef91522381dfed84b92d81fcf2efeeda, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 17.287018
+      objectReference: {fileID: 0}
+    - target: {fileID: 3289025563634504820, guid: ef91522381dfed84b92d81fcf2efeeda, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.9597108
+      objectReference: {fileID: 0}
+    - target: {fileID: 3289025563634504820, guid: ef91522381dfed84b92d81fcf2efeeda, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.6290474
+      objectReference: {fileID: 0}
+    - target: {fileID: 3289025563634504820, guid: ef91522381dfed84b92d81fcf2efeeda, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3289025563634504820, guid: ef91522381dfed84b92d81fcf2efeeda, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3289025563634504820, guid: ef91522381dfed84b92d81fcf2efeeda, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3289025563634504820, guid: ef91522381dfed84b92d81fcf2efeeda, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3289025563634504820, guid: ef91522381dfed84b92d81fcf2efeeda, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3289025563634504820, guid: ef91522381dfed84b92d81fcf2efeeda, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3289025563634504820, guid: ef91522381dfed84b92d81fcf2efeeda, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ef91522381dfed84b92d81fcf2efeeda, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -6722,5 +6727,5 @@ SceneRoots:
   - {fileID: 232799624}
   - {fileID: 1932888772}
   - {fileID: 1399177042}
-  - {fileID: 1704400979}
+  - {fileID: 3005239625568600985}
   - {fileID: 1042942248}
