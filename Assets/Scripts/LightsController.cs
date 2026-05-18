@@ -16,6 +16,7 @@ public class LightsController : MonoBehaviour
     // Control de corrutinas activas de tintineos
     private Dictionary<string, Coroutine> activeFlashes = new Dictionary<string, Coroutine>();
 
+    [System.Obsolete]
     public static LightsController Instance
     {
         get
@@ -46,6 +47,7 @@ public class LightsController : MonoBehaviour
         DontDestroyOnLoad(gameObject);
     }
 
+    [System.Obsolete]
     private void Start()
     {
         // Cargar todas las luces de la escena automáticamente
@@ -55,6 +57,7 @@ public class LightsController : MonoBehaviour
     /// <summary>
     /// Registra todas las luces de la escena actual en el diccionario.
     /// </summary>
+    [System.Obsolete]
     private void RegisterAllLights()
     {
         Light[] allLights = FindObjectsOfType<Light>();

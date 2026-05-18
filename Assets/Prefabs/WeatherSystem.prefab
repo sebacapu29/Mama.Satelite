@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2479253624326433397
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3289025563634504820}
+  - component: {fileID: 1997239862176570899}
+  m_Layer: 0
+  m_Name: WeatherSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3289025563634504820
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2479253624326433397}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 17.287018, y: 1.9597108, z: 4.6290474}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1997239862176570899
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2479253624326433397}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a0c425a7f18a0e4c8fb20c8fdeec6bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  endpointUrl: https://weatherapi-com.p.rapidapi.com/current.json?q=-34.612%2C-58.375
+  rapidApiKey: bf6e6c7941msha594ccce77dd083p1210bejsn2df16fd2345d
+  rapidApiHost: weather-api167.p.rapidapi.com
+  refreshSeconds: 300
+  fetchOnStart: 1
+  daySkybox: {fileID: 2100000, guid: 57eb7e0c0a5b09243a685b9e086c1ca2, type: 2}
+  nightSkybox: {fileID: 2100000, guid: def840f88ef75b34abcf5777703bcfb6, type: 2}
+  mainDirectionalLight: {fileID: 0}
+  dayLightIntensity: 1.1
+  nightLightIntensity: 0.25
+  dayAmbient: {r: 0.75, g: 0.75, b: 0.8, a: 1}
+  nightAmbient: {r: 0.08, g: 0.08, b: 0.12, a: 1}
