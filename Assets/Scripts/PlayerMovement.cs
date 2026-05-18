@@ -11,14 +11,14 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float sensibilidadMouse = 2f;
     [SerializeField] private float rotacionMaximaArriba = 90f;
 
-    [Header("Gravedad")]
-    [SerializeField] private float gravedad = 9.81f;
+    // [Header("Gravedad")]
+    // [SerializeField] private float gravedad = 9.81f;
 
     private Rigidbody rb;
     private Transform cameraHolder;
     private Vector3 velocidad = Vector3.zero;
     private float velocidadCaida = 0f;
-    private bool estaEnSuelo = true;
+    // private bool estaEnSuelo = true;
     private float rotacionX = 0f;
 
     void Start()
