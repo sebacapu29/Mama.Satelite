@@ -4,22 +4,29 @@ using UnityEngine.InputSystem;
 public class PlayerMovement : MonoBehaviour
 {
     [Header("Movimiento")]
-    [SerializeField] private float velocidadMovimiento = 5f;
+    [SerializeField] private float velocidadCaminar = 1f;
+    [SerializeField] private float velocidadCorrer = 5f;
     [SerializeField] private float friccion = 0.9f; // 0.9 = pequeña reducción cada frame sin input
 
     [Header("Rotación Cámara")]
     [SerializeField] private float sensibilidadMouse = 2f;
     [SerializeField] private float rotacionMaximaArriba = 90f;
 
-    // [Header("Gravedad")]
-    // [SerializeField] private float gravedad = 9.81f;
+    [Header("Agarrar Objetos")]
+    [SerializeField] private float distanciaAgarrar = 2f; // Distancia adelante de la cámara
 
     private Rigidbody rb;
     private Transform cameraHolder;
+    private Transform cameraTransform;
     private Vector3 velocidad = Vector3.zero;
     private float velocidadCaida = 0f;
     // private bool estaEnSuelo = true;
     private float rotacionX = 0f;
+    
+    // Variables para agarrar objetos
+    private GameObject objetoAgarrado;
+    private Rigidbody rbObjeto;
+    private Collider colliderObjeto;
 
     void Start()
     {
@@ -47,9 +54,12 @@ public class PlayerMovement : MonoBehaviour
             return;
         }
 
+        // Guardar referencia a la transformada de la cámara
+        cameraTransform = fpsCamera.transform;
+
         // Asegurar que la cámara esté en el centro del CameraHolder
-        fpsCamera.transform.localPosition = Vector3.zero;
-        fpsCamera.transform.localRotation = Quaternion.identity;
+        cameraTransform.localPosition = Vector3.zero;
+        cameraTransform.localRotation = Quaternion.identity;
 
         // Configurar Rigidbody
         rb.freezeRotation = true;
@@ -84,6 +94,15 @@ public class PlayerMovement : MonoBehaviour
             Cursor.lockState = Cursor.lockState == CursorLockMode.Locked ? CursorLockMode.Confined : CursorLockMode.Locked;
         }
 
+        // Input para agarrar/soltar con E
+        if (Keyboard.current[Key.E].wasPressedThisFrame)
+        {
+            if (objetoAgarrado != null)
+            {
+                SoltarObjeto();
+            }
+        }
+
         // Obtener input de movimiento
         float inputX = 0f;
         float inputZ = 0f;
@@ -104,22 +123,35 @@ public class PlayerMovement : MonoBehaviour
             direccionMovimiento = (adelante * direccionMovimiento.z + derecha * direccionMovimiento.x).normalized;
         }
 
+        // Implementar correr al presionar tecla shift
+        float velocidadActual = velocidadCaminar;
+        if(Keyboard.current[Key.LeftShift].isPressed)
+        {
+            velocidadActual = velocidadCorrer;
+        }
+
         // Aplicar movimiento
-        AplicarMovimiento(direccionMovimiento);
+        AplicarMovimiento(direccionMovimiento, velocidadActual);
+
+        // Actualizar posición del objeto agarrado
+        if (objetoAgarrado != null)
+        {
+            ActualizarPosicionObjeto();
+        }
 
         // Aplicar gravedad
         // AplicarGravedad();
     }
 
-    void AplicarMovimiento(Vector3 direccion)
+    void AplicarMovimiento(Vector3 direccion, float velocidadActual)
     {
         if (rb == null) return;
 
         // Si hay input, aplicar velocidad directa
         if (direccion.magnitude > 0.01f)
         {
-            velocidad.x = direccion.x * velocidadMovimiento;
-            velocidad.z = direccion.z * velocidadMovimiento;
+            velocidad.x = direccion.x * velocidadActual;
+            velocidad.z = direccion.z * velocidadActual;
         }
         else
         {
@@ -135,21 +167,76 @@ public class PlayerMovement : MonoBehaviour
         rb.linearVelocity = velocidad;
     }
 
-    // void AplicarGravedad()
-    // {
-    //     if (rb == null) return;
+    // Sistema de agarrar objetos
+    void OnTriggerEnter(Collider other)
+    {
+        // Solo permitir agarrar si no hay objeto agarrado
+        if (objetoAgarrado == null && other.CompareTag("Agarra"))
+        {
+            // Cambiar color para indicar que puede ser agarrado (opcional)
+            Debug.Log("Objeto cerca - Presiona E para agarrar: " + other.gameObject.name);
+        }
+    }
 
-    //     // Verificar si está en el suelo usando raycast
-    //     estaEnSuelo = Physics.Raycast(transform.position, Vector3.down, 0.1f);
+    void OnTriggerStay(Collider other)
+    {
+        // Mantener la referencia del objeto cuando está en el trigger
+        if (objetoAgarrado == null && Keyboard.current[Key.E].wasPressedThisFrame && other.CompareTag("Agarra"))
+        {
+            AgarrarObjeto(other.gameObject);
+        }
+    }
 
-    //     if (estaEnSuelo)
-    //     {
-    //         velocidadCaida = 0f; // En suelo, sin caída
-    //     }
-    //     else
-    //     {
-    //         velocidadCaida -= gravedad * Time.deltaTime;
-    //     }
-    // }
-}
+    void AgarrarObjeto(GameObject objeto)
+    {
+        objetoAgarrado = objeto;
+        rbObjeto = objeto.GetComponent<Rigidbody>();
+        colliderObjeto = objeto.GetComponent<Collider>();
+
+        if (rbObjeto != null)
+        {
+            rbObjeto.isKinematic = true; // Hacer kinematic para que se mueva con la cámara
+        }
+
+        if (colliderObjeto != null)
+        {
+            colliderObjeto.enabled = false; // Desactivar colisión mientras está agarrado
+        }
+
+        Debug.Log("Objeto agarrado: " + objeto.name);
+    }
+
+    void SoltarObjeto()
+    {
+        if (objetoAgarrado == null) return;
+
+        if (rbObjeto != null)
+        {
+            rbObjeto.isKinematic = false;
+        }
+
+        if (colliderObjeto != null)
+        {
+            colliderObjeto.enabled = true;
+        }
+
+        Debug.Log("Objeto soltado: " + objetoAgarrado.name);
+        objetoAgarrado = null;
+        rbObjeto = null;
+        colliderObjeto = null;
+    }
+
+    void ActualizarPosicionObjeto()
+    {
+        if (objetoAgarrado == null || cameraTransform == null) return;
+
+        // Posicionar el objeto adelante de la cámara
+        Vector3 posicionCamara = gameObject.transform.position;
+        Vector3 adelanteCamara = gameObject.transform.forward * distanciaAgarrar;
+        
+        objetoAgarrado.transform.position = posicionCamara + adelanteCamara;
+        objetoAgarrado.transform.rotation = cameraTransform.rotation;
+    }
+    
+    }
 
