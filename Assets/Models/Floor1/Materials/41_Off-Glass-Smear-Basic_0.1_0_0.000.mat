@@ -236,7 +236,7 @@ Material:
     - transmissionTextureTexCoord: 0
     m_Colors:
     - attenuationColor: {r: 1, g: 1, b: 1, a: 0}
-    - baseColorFactor: {r: 1, g: 1, b: 1, a: 1}
+    - baseColorFactor: {r: 1, g: 1, b: 1, a: 0.39215687}
     - emissiveFactor: {r: 0, g: 0, b: 0, a: 0}
     - sheenColorFactor: {r: 0, g: 0, b: 0, a: 0}
     - specularColorFactor: {r: 1, g: 1, b: 1, a: 1}
