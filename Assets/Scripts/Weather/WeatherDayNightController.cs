@@ -162,7 +162,9 @@ public class WeatherDayNightController : MonoBehaviour
     {
         if (IsDay == newIsDay) return;
 
-        IsDay = newIsDay;
+         IsDay = newIsDay;
+
+        //IsDay = true; // FORZAR DÍA para pruebas (quitar esta línea para usar el valor real)
 
         // Skybox global
         RenderSettings.skybox =  IsDay ? daySkybox : nightSkybox ;
