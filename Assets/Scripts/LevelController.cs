@@ -29,10 +29,10 @@ public class LevelController : MonoBehaviour
     }
     void TriggerFlash()
     {
-            bool success = LightsController.Instance.StartFlashing("Point Light Wall Lamp 1a");
+            bool success = LightsController.Instance.StartFlashing("Point Light Wall Lamp 1a - entrada");
             if (!success)
             {
-                Debug.LogWarning($"[LevelController] No se pudo iniciar el parpadeo para la luz '{"Point Light Wall Lamp 1a"}'.");
+                Debug.LogWarning($"[LevelController] No se pudo iniciar el parpadeo para la luz '{"PPoint Light Wall Lamp 1a - entrada"}'.");
             }
     }
 }
