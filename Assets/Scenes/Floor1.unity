@@ -5450,6 +5450,91 @@ Light:
   m_LightUnit: 1
   m_LuxAtDistance: 1
   m_EnableSpotReflector: 1
+--- !u!1001 &1426348027
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5568632830131690758, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.16453
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568632830131690758, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.019
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568632830131690758, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.102
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568632830131690758, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.719
+      objectReference: {fileID: 0}
+    - target: {fileID: 5594946681529965475, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 5594946681529965475, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.685
+      objectReference: {fileID: 0}
+    - target: {fileID: 5594946681529965475, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.11
+      objectReference: {fileID: 0}
+    - target: {fileID: 5594946681529965475, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5594946681529965475, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5594946681529965475, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5594946681529965475, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5594946681529965475, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5594946681529965475, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5594946681529965475, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6717441107224164043, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: m_Name
+      value: Canilla
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561111120113691720, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: ShapeModule.angle
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561111120113691720, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: InitialModule.size3D
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561111120113691720, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: ShapeModule.radius.value
+      value: 0.012071967
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
 --- !u!1 &1447218560 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5899173357278694085, guid: d1c9dee2125f0d940874ee53712ca1ed, type: 3}
@@ -7901,7 +7986,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4691771847654097866, guid: fa02b9c8fc43e134095cb33b872db537, type: 3}
       propertyPath: m_Name
-      value: Point Light Wall Lamp 1a
+      value: Point Light Wall Lamp 1a - entrada
       objectReference: {fileID: 0}
     - target: {fileID: 6440274349364364519, guid: fa02b9c8fc43e134095cb33b872db537, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7955,6 +8040,7 @@ SceneRoots:
   - {fileID: 410087041}
   - {fileID: 832575519}
   - {fileID: 232799624}
+  - {fileID: 1426348027}
   - {fileID: 1932888772}
   - {fileID: 2030891551}
   - {fileID: 292639849}
