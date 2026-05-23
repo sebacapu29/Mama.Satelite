@@ -16,14 +16,14 @@ public class LightsController : MonoBehaviour
     // Control de corrutinas activas de tintineos
     private Dictionary<string, Coroutine> activeFlashes = new Dictionary<string, Coroutine>();
 
-    [System.Obsolete]
+    
     public static LightsController Instance
     {
         get
         {
             if (instance == null)
             {
-                instance = FindObjectOfType<LightsController>();
+                instance = FindFirstObjectByType<LightsController>();
                 if (instance == null)
                 {
                     GameObject controller = new GameObject("LightsController");
@@ -47,7 +47,7 @@ public class LightsController : MonoBehaviour
         DontDestroyOnLoad(gameObject);
     }
 
-    [System.Obsolete]
+
     private void Start()
     {
         // Cargar todas las luces de la escena automáticamente
@@ -57,10 +57,10 @@ public class LightsController : MonoBehaviour
     /// <summary>
     /// Registra todas las luces de la escena actual en el diccionario.
     /// </summary>
-    [System.Obsolete]
+
     private void RegisterAllLights()
     {
-        Light[] allLights = FindObjectsOfType<Light>();
+        Light[] allLights = FindObjectsByType<Light>(FindObjectsSortMode.None);
         foreach (Light light in allLights)
         {
             string lightName = light.gameObject.name;
@@ -147,12 +147,12 @@ public class LightsController : MonoBehaviour
     /// <summary>
     /// Hace que una luz parpadee (tintinee) durante un tiempo.
     /// </summary>
-    public void StartFlashing(string lightID, float flashDuration = 2f, float flashSpeed = 0.1f)
+    public bool StartFlashing(string lightID, float flashDuration = 2f, float flashSpeed = 0.1f)
     {
         if (!lights.TryGetValue(lightID, out Light light))
         {
-            Debug.LogWarning($"[LightsController] Luz '{lightID}' no encontrada.");
-            return;
+            // Debug.LogWarning($"[LightsController] Luz '{lightID}' no encontrada.");
+            return false;
         }
 
         // Detener parpadeo anterior si existe
@@ -162,7 +162,8 @@ public class LightsController : MonoBehaviour
         Coroutine flashCoroutine = StartCoroutine(FlashCoroutine(light, flashDuration, flashSpeed));
         activeFlashes[lightID] = flashCoroutine;
 
-        Debug.Log($"[LightsController] Luz '{lightID}' iniciando parpadeo.");
+        // Debug.Log($"[LightsController] Luz '{lightID}' iniciando parpadeo.");
+        return true;
     }
 
     /// <summary>
