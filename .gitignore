@@ -94,6 +94,7 @@ InitTestScene*.unity*
 /[Aa]ssets/AddressableAssetsData/*/*.bin*
 /Assets/Textures/*
 /Assets/Materials/*
+/Assets/Skybox/*
 
 
 # Visual Scripting auto-generated files
