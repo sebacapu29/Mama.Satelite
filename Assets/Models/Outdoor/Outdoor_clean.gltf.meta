@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: b8e26380b2089f045a83bf8fdafd8491
+importerOverride:
+  nativeImporterType: 2089858483
+  scriptedImporterType:
+    serializedVersion: 2
+    Hash: b0f0efd5afe97376296c08894c84a3f1
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back_Wooden_Boundary-1
+    second: {fileID: 2100000, guid: e9d2f4605d2215140b8e7ae364fad447, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black_Metal-18
+    second: {fileID: 2100000, guid: 623403d475552c34190ce1e395cf14c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default
+    second: {fileID: 2100000, guid: 315094c8f526dac4a93302b1d94ab7c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Font_Wooden_Boundary-1
+    second: {fileID: 2100000, guid: 2a92b6583338b424e9d2e9c5ec41f7b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ground-1
+    second: {fileID: 2100000, guid: 8a3c114c5aa571e469e76d84ce1f6135, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ground_Floor-1
+    second: {fileID: 2100000, guid: a10c5ecd554df7b41b694bd681929e49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Left_Side_Wooden_Boundary-1
+    second: {fileID: 2100000, guid: d1837ca48cb46e34ca94a6726bc5d446, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Right_Side_Wooden_Boundary-1
+    second: {fileID: 2100000, guid: 59ac8789e89a288479c2ae51778516ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Swimming_Pool_Stair-1
+    second: {fileID: 2100000, guid: e93edad345f41024db1a4d46e1aff9c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Swimming_Pool_Water-1
+    second: {fileID: 2100000, guid: fbbf9fd5b52dad54d89283192576313f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wooden_Boundary-1
+    second: {fileID: 2100000, guid: 4d4d3a0572c3c244eb09ead9a8ffcc83, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 804e1ce4c496647cfa3f1a1134187c71, type: 3}
+  _removeEmptyRootObjects: 1
+  _scaleFactor: 1
+  _deduplicateResources: 0
+  _deduplicatedStatistics:
+    meshCountBefore: 0
+    meshCountAfter: 0
+    textureCountBefore: 0
+    textureCountAfter: 0
+  _maximumLod: 300
+  _readWriteEnabled: 1
+  _generateColliders: 0
+  _addColliders: 0
+  _swapUvs: 0
+  _generateLightmapUVs: 0
+  _importBlendShapeNames: 1
+  _blendShapeFrameWeight:
+    _option: 0
+    _multiplier: 1
+  _importNormals: 0
+  _importTangents: 0
+  _importCamera: 2
+  _importAnimations: 2
+  _mecanimHumanoidFlip: 0
+  _addAnimatorComponent: 0
+  _animationLoopTime: 1
+  _animationLoopPose: 0
+  _importMaterials: 1
+  _enableGpuInstancing: 0
+  _texturesReadWriteEnabled: 1
+  _generateMipMaps: 1
+  _useSceneNameIdentifier: 1
+  _textureCompression: -50
+  _gltfAsset: '<b>Generator: </b>Khronos glTF Blender I/O v5.1.18
+
+    <b>Version:
+    </b>2.0
+
+    
+
+    <b>Extras: </b>
+
+'
+  optimizeGameObjects: 0
+  materials:
+  - {fileID: -8771166627424403242, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: -3758024392002896136, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: 8239336325185854489, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: 8622583346432225095, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: 4431327447042374910, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: -5785040568840776143, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  textures:
+  - {fileID: -2807730217662284679, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: -4089272869141856760, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: 3407090589095177897, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: -9127961044782413866, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: -6449109861325554634, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: 8008600429251818945, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: 1387389815110719147, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: 7793919965005765025, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: -2572456874196481761, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: -648782006672110984, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: 4914045288858229318, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: 8407369142468585470, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  hasSceneData: 1
+  hasAnimationData: 0
+  hasMaterialData: 1
+  hasTextureData: 1
+  animations: []
+  _extensions:
+  - name: KHR_materials_clearcoat
+    supported: 1
+    used: 1
+    required: 0
+  - name: KHR_materials_transmission
+    supported: 1
+    used: 1
+    required: 0
+  - name: KHR_materials_specular
+    supported: 1
+    used: 1
+    required: 0
+  - name: KHR_materials_ior
+    supported: 1
+    used: 1
+    required: 0
+  _textures:
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  _mainAssetIdentifier: scenes/Scene
+  _importPlugins: []
