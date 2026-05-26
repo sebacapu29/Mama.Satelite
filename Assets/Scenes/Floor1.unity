@@ -93,7 +93,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 112000000, guid: ecf39a7bbeda28e42bdc1e31ac4b440f, type: 2}
+  m_LightingDataAsset: {fileID: 0}
   m_LightingSettings: {fileID: 4890085278179872738, guid: d1268aa331be0b142b9233db1e925241, type: 2}
 --- !u!196 &4
 NavMeshSettings:
@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 24222520}
   - component: {fileID: 24222519}
   m_Layer: 0
-  m_Name: Spot Light (2)
+  m_Name: BSpot Light (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -320,7 +320,7 @@ GameObject:
   - component: {fileID: 61809765}
   - component: {fileID: 61809764}
   m_Layer: 0
-  m_Name: Spot Light
+  m_Name: DSpot Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -441,7 +441,7 @@ GameObject:
   - component: {fileID: 63193537}
   - component: {fileID: 63193536}
   m_Layer: 0
-  m_Name: Spot Light 5a
+  m_Name: LSpot Light 5a
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -646,7 +646,7 @@ GameObject:
   - component: {fileID: 111455987}
   - component: {fileID: 111455986}
   m_Layer: 0
-  m_Name: Spot Light 3
+  m_Name: KSpot Light 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -767,7 +767,7 @@ GameObject:
   - component: {fileID: 116122473}
   - component: {fileID: 116122472}
   m_Layer: 0
-  m_Name: Point Light Wall Lamp 2a
+  m_Name: LPoint Light Wall Lamp 2a
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1148,7 +1148,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -1316,7 +1316,7 @@ GameObject:
   - component: {fileID: 185719649}
   - component: {fileID: 185719648}
   m_Layer: 0
-  m_Name: Spot Light 5b (1)
+  m_Name: TV
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1666,6 +1666,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 608955877000577845, guid: 0b2165f69fd5f874d92e3265e8847ef2, type: 3}
+      propertyPath: m_Intensity
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 762018509894163493, guid: 0b2165f69fd5f874d92e3265e8847ef2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1675282925512096970, guid: 0b2165f69fd5f874d92e3265e8847ef2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.189
+      objectReference: {fileID: 0}
+    - target: {fileID: 1675282925512096970, guid: 0b2165f69fd5f874d92e3265e8847ef2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1675282925512096970, guid: 0b2165f69fd5f874d92e3265e8847ef2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.505
+      objectReference: {fileID: 0}
+    - target: {fileID: 2050294917256488560, guid: 0b2165f69fd5f874d92e3265e8847ef2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2610917023351501801, guid: 0b2165f69fd5f874d92e3265e8847ef2, type: 3}
       propertyPath: m_LocalScale.y
       value: 1.4684592
@@ -1726,12 +1750,13 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 0.027
       objectReference: {fileID: 0}
+    - target: {fileID: 5160484026225794633, guid: 0b2165f69fd5f874d92e3265e8847ef2, type: 3}
+      propertyPath: m_Name
+      value: FireLight
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects:
-    - targetCorrespondingSourceObject: {fileID: 9180554470602162763, guid: 0b2165f69fd5f874d92e3265e8847ef2, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1946232922}
+    m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 3321179997644937779, guid: 0b2165f69fd5f874d92e3265e8847ef2, type: 3}
       insertIndex: -1
@@ -1749,7 +1774,7 @@ GameObject:
   - component: {fileID: 297774990}
   - component: {fileID: 297774989}
   m_Layer: 0
-  m_Name: Spot Light 4
+  m_Name: KSpot Light 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1908,7 +1933,7 @@ GameObject:
   - component: {fileID: 319293632}
   - component: {fileID: 319293631}
   m_Layer: 0
-  m_Name: Spot Light 5
+  m_Name: HSpot Light 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2029,7 +2054,7 @@ GameObject:
   - component: {fileID: 327261082}
   - component: {fileID: 327261081}
   m_Layer: 0
-  m_Name: Point Light
+  m_Name: RoofPoint Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2176,7 +2201,7 @@ GameObject:
   - component: {fileID: 391990797}
   - component: {fileID: 391990796}
   m_Layer: 0
-  m_Name: Spot Light 1b
+  m_Name: LSpot Light 1b
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2497,7 +2522,7 @@ GameObject:
   - component: {fileID: 441630332}
   - component: {fileID: 441630331}
   m_Layer: 0
-  m_Name: Point Light (4)
+  m_Name: RoofPoint Light (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2712,7 +2737,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -2765,7 +2790,7 @@ GameObject:
   - component: {fileID: 472862496}
   - component: {fileID: 472862495}
   m_Layer: 0
-  m_Name: Point Light (1)
+  m_Name: RoofPoint Light (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2957,7 +2982,7 @@ GameObject:
   - component: {fileID: 525303223}
   - component: {fileID: 525303222}
   m_Layer: 0
-  m_Name: Point Light Wall Lamp 1a
+  m_Name: LPoint Light Wall Lamp 1a
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3114,7 +3139,7 @@ GameObject:
   - component: {fileID: 560125104}
   - component: {fileID: 560125103}
   m_Layer: 0
-  m_Name: Spot Light (1)
+  m_Name: BSpot Light (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3235,7 +3260,7 @@ GameObject:
   - component: {fileID: 608329756}
   - component: {fileID: 608329755}
   m_Layer: 0
-  m_Name: Spot Light 4
+  m_Name: HSpot Light 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3356,7 +3381,7 @@ GameObject:
   - component: {fileID: 641372826}
   - component: {fileID: 641372825}
   m_Layer: 0
-  m_Name: Spot Light 4b
+  m_Name: LSpot Light 4b
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3660,7 +3685,7 @@ GameObject:
   - component: {fileID: 679867726}
   - component: {fileID: 679867725}
   m_Layer: 0
-  m_Name: Spot Light 6
+  m_Name: HSpot Light 6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3843,7 +3868,7 @@ GameObject:
   - component: {fileID: 768715853}
   - component: {fileID: 768715852}
   m_Layer: 0
-  m_Name: Spot Light 2a
+  m_Name: LSpot Light 2a
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3964,7 +3989,7 @@ GameObject:
   - component: {fileID: 803723305}
   - component: {fileID: 803723304}
   m_Layer: 0
-  m_Name: Point Light (2)
+  m_Name: RoofPoint Light (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4085,7 +4110,7 @@ GameObject:
   - component: {fileID: 828372630}
   - component: {fileID: 828372629}
   m_Layer: 0
-  m_Name: Spot Light 7
+  m_Name: HSpot Light 7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4255,7 +4280,7 @@ GameObject:
   - component: {fileID: 835707191}
   - component: {fileID: 835707190}
   m_Layer: 0
-  m_Name: Spot Light 2b
+  m_Name: LSpot Light 2b
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4376,7 +4401,7 @@ GameObject:
   - component: {fileID: 837463769}
   - component: {fileID: 837463768}
   m_Layer: 0
-  m_Name: Spot Light (3)
+  m_Name: DSpot Light (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4708,7 +4733,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 3f3d22a7ea5cf2a47a9e43389ee2023a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.94
+      value: -9.66
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3f3d22a7ea5cf2a47a9e43389ee2023a, type: 3}
       propertyPath: m_LocalPosition.y
@@ -4716,7 +4741,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3f3d22a7ea5cf2a47a9e43389ee2023a, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 2
+      value: -2.1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3f3d22a7ea5cf2a47a9e43389ee2023a, type: 3}
       propertyPath: m_LocalRotation.w
@@ -4750,6 +4775,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: salome
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3f3d22a7ea5cf2a47a9e43389ee2023a, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4742473837712756890, guid: 3f3d22a7ea5cf2a47a9e43389ee2023a, type: 3}
       propertyPath: m_LODs.Array.data[0].screenRelativeHeight
       value: 0.85
@@ -4775,7 +4804,7 @@ GameObject:
   - component: {fileID: 1036410766}
   - component: {fileID: 1036410765}
   m_Layer: 0
-  m_Name: Spot Light 5b
+  m_Name: LSpot Light 5b
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5017,7 +5046,7 @@ GameObject:
   - component: {fileID: 1045548597}
   - component: {fileID: 1045548596}
   m_Layer: 0
-  m_Name: Spot Light 1
+  m_Name: HSpot Light 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5126,11 +5155,6 @@ Light:
   m_LightUnit: 1
   m_LuxAtDistance: 1
   m_EnableSpotReflector: 1
---- !u!4 &1065163372 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 9180554470602162763, guid: 0b2165f69fd5f874d92e3265e8847ef2, type: 3}
-  m_PrefabInstance: {fileID: 292639849}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1133735419
 GameObject:
   m_ObjectHideFlags: 0
@@ -5143,7 +5167,7 @@ GameObject:
   - component: {fileID: 1133735422}
   - component: {fileID: 1133735421}
   m_Layer: 0
-  m_Name: Spot Light 3a
+  m_Name: LSpot Light 3a
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6103,7 +6127,7 @@ GameObject:
   - component: {fileID: 1217997857}
   - component: {fileID: 1217997856}
   m_Layer: 0
-  m_Name: Spot Light (2)
+  m_Name: DSpot Light (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6321,7 +6345,7 @@ GameObject:
   - component: {fileID: 1333331378}
   - component: {fileID: 1333331377}
   m_Layer: 0
-  m_Name: Spot Light 1a
+  m_Name: LSpot Light 1a
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6536,7 +6560,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -6561,23 +6585,23 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5568632830131690758, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.16453
+      value: 0.001549137
       objectReference: {fileID: 0}
     - target: {fileID: 5568632830131690758, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.019
+      value: 0.008
       objectReference: {fileID: 0}
     - target: {fileID: 5568632830131690758, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.102
+      value: -0.104
       objectReference: {fileID: 0}
     - target: {fileID: 5568632830131690758, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.719
+      value: -0.262
       objectReference: {fileID: 0}
     - target: {fileID: 5594946681529965475, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.71
+      value: 0.7183
       objectReference: {fileID: 0}
     - target: {fileID: 5594946681529965475, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
       propertyPath: m_LocalPosition.y
@@ -6620,16 +6644,96 @@ PrefabInstance:
       value: Canilla
       objectReference: {fileID: 0}
     - target: {fileID: 8561111120113691720, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: lengthInSec
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561111120113691720, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: ShapeModule.type
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561111120113691720, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
       propertyPath: ShapeModule.angle
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8561111120113691720, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
-      propertyPath: InitialModule.size3D
+      propertyPath: SizeModule.enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561111120113691720, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: InitialModule.size3D
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561111120113691720, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: ShapeModule.arc.value
+      value: 360
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561111120113691720, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: ShapeModule.m_Scale.x
+      value: 0.074046776
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561111120113691720, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: ShapeModule.m_Scale.y
+      value: 0.09098088
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561111120113691720, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: ShapeModule.m_Scale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561111120113691720, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: SizeModule.separateAxes
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561111120113691720, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: ShapeModule.m_Rotation.y
+      value: 360
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561111120113691720, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: ShapeModule.m_Rotation.z
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8561111120113691720, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
       propertyPath: ShapeModule.radius.value
       value: 0.012071967
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561111120113691720, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: SizeBySpeedModule.enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561111120113691720, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: ShapeModule.radiusThickness
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561111120113691720, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: InitialModule.maxNumParticles
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561111120113691720, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: InitialModule.startSize.minMaxState
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561111120113691720, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: InitialModule.startSizeY.minMaxState
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561111120113691720, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: InitialModule.startSizeZ.minMaxState
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561111120113691720, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: SizeModule.curve.maxCurve.m_Curve.Array.data[1].time
+      value: 0.9366455
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561111120113691720, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: SizeModule.curve.maxCurve.m_Curve.Array.data[1].value
+      value: 0.96923065
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561111120113691720, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: SizeModule.curve.maxCurve.m_Curve.Array.data[0].outSlope
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561111120113691720, guid: 3b2b7e6b314b5014f965abdebb6b02ee, type: 3}
+      propertyPath: SizeModule.curve.maxCurve.m_Curve.Array.data[1].outSlope
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6675,7 +6779,7 @@ GameObject:
   - component: {fileID: 1473988692}
   - component: {fileID: 1473988691}
   m_Layer: 0
-  m_Name: Spot Light (1)
+  m_Name: DSpot Light (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6822,7 +6926,7 @@ GameObject:
   - component: {fileID: 1555231640}
   - component: {fileID: 1555231639}
   m_Layer: 0
-  m_Name: Spot Light
+  m_Name: BSpot Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6987,7 +7091,7 @@ MonoBehaviour:
   lowestSubdivLevelOverride: 0
   highestSubdivLevelOverride: 2
   overridesSubdivLevels: 1
-  mightNeedRebaking: 1
+  mightNeedRebaking: 0
   cachedTransform:
     e00: 1
     e01: 0
@@ -7045,7 +7149,7 @@ GameObject:
   - component: {fileID: 1629473327}
   - component: {fileID: 1629473326}
   m_Layer: 0
-  m_Name: Spot Light 5
+  m_Name: KSpot Light 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7199,7 +7303,7 @@ GameObject:
   - component: {fileID: 1660619182}
   - component: {fileID: 1660619181}
   m_Layer: 0
-  m_Name: Spot Light 3b
+  m_Name: LSpot Light 3b
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7414,7 +7518,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -7441,7 +7545,7 @@ GameObject:
   - component: {fileID: 1700174288}
   - component: {fileID: 1700174287}
   m_Layer: 0
-  m_Name: Point Light Wall Lamp 2a
+  m_Name: Point Light Wall Lamp 2a - entrada
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7682,7 +7786,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -7742,7 +7846,7 @@ GameObject:
   - component: {fileID: 1793581423}
   - component: {fileID: 1793581422}
   m_Layer: 0
-  m_Name: Spot Light 3
+  m_Name: HSpot Light 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7863,7 +7967,7 @@ GameObject:
   - component: {fileID: 1817192837}
   - component: {fileID: 1817192836}
   m_Layer: 0
-  m_Name: Spot Light 2
+  m_Name: KSpot Light 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7984,7 +8088,7 @@ GameObject:
   - component: {fileID: 1842227617}
   - component: {fileID: 1842227616}
   m_Layer: 0
-  m_Name: Spot Light 4a
+  m_Name: LSpot Light 4a
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8105,7 +8209,7 @@ GameObject:
   - component: {fileID: 1842310873}
   - component: {fileID: 1842310872}
   m_Layer: 0
-  m_Name: Spot Light 2
+  m_Name: HSpot Light 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8226,7 +8330,7 @@ GameObject:
   - component: {fileID: 1920479977}
   - component: {fileID: 1920479976}
   m_Layer: 0
-  m_Name: Point Light (3)
+  m_Name: RoofPoint Light (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8397,7 +8501,7 @@ GameObject:
   - component: {fileID: 1937883281}
   - component: {fileID: 1937883280}
   m_Layer: 0
-  m_Name: Spot Light 1
+  m_Name: KSpot Light 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8506,55 +8610,6 @@ Light:
   m_LightUnit: 1
   m_LuxAtDistance: 1
   m_EnableSpotReflector: 1
---- !u!1 &1946232921
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1946232922}
-  - component: {fileID: 1946232923}
-  m_Layer: 0
-  m_Name: PostProcessing_Volume
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1946232922
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1946232921}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1065163372}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1946232923
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1946232921}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_IsGlobal: 1
-  priority: 0
-  blendDistance: 0
-  weight: 1
-  sharedProfile: {fileID: 11400000, guid: 358bd469d5d70154a8130fba35ab353b, type: 2}
 --- !u!1 &1972625855
 GameObject:
   m_ObjectHideFlags: 0
@@ -8567,7 +8622,7 @@ GameObject:
   - component: {fileID: 1972625858}
   - component: {fileID: 1972625857}
   m_Layer: 0
-  m_Name: Spot Light 6
+  m_Name: KSpot Light 6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9078,15 +9133,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3289025563634504820, guid: ef91522381dfed84b92d81fcf2efeeda, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 17.287018
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3289025563634504820, guid: ef91522381dfed84b92d81fcf2efeeda, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.9597108
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3289025563634504820, guid: ef91522381dfed84b92d81fcf2efeeda, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 4.6290474
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3289025563634504820, guid: ef91522381dfed84b92d81fcf2efeeda, type: 3}
       propertyPath: m_LocalRotation.w

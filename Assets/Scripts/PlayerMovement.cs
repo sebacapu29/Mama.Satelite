@@ -15,6 +15,9 @@ public class PlayerMovement : MonoBehaviour
     [Header("Agarrar Objetos")]
     [SerializeField] private float distanciaAgarrar = 2f; // Distancia adelante de la cámara
 
+    [Header("Fosforo")]
+    [SerializeField] private GameObject fosforo; // Referencia al GameObject del fosforo
+
     private Rigidbody rb;
     private Transform cameraHolder;
     private Transform cameraTransform;
@@ -92,6 +95,12 @@ public class PlayerMovement : MonoBehaviour
         if (Keyboard.current[Key.Escape].wasPressedThisFrame)
         {
             Cursor.lockState = Cursor.lockState == CursorLockMode.Locked ? CursorLockMode.Confined : CursorLockMode.Locked;
+        }
+
+        // Toggle fosforo con F
+        if (Keyboard.current[Key.F].wasPressedThisFrame && fosforo != null)
+        {
+            fosforo.SetActive(!fosforo.activeSelf);
         }
 
         // Input para agarrar/soltar con E
