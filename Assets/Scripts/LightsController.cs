@@ -1,6 +1,7 @@
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.InputSystem;
 
 /// <summary>
 /// Gestor centralizado de luces para el juego de terror.
@@ -16,7 +17,6 @@ public class LightsController : MonoBehaviour
     // Control de corrutinas activas de tintineos
     private Dictionary<string, Coroutine> activeFlashes = new Dictionary<string, Coroutine>();
 
-    
     public static LightsController Instance
     {
         get
@@ -54,6 +54,19 @@ public class LightsController : MonoBehaviour
         RegisterAllLights();
     }
 
+    private void Update()
+    {
+        // Mock: Apagar todas las luces con tecla O
+        if (Keyboard.current[Key.O].wasPressedThisFrame)
+        {
+            TurnOffAllLights();
+        }
+        if (Keyboard.current[Key.P].wasPressedThisFrame)
+        {
+            TurnOnAllLights();
+        }
+    }
+
     /// <summary>
     /// Registra todas las luces de la escena actual en el diccionario.
     /// </summary>
@@ -64,6 +77,10 @@ public class LightsController : MonoBehaviour
         foreach (Light light in allLights)
         {
             string lightName = light.gameObject.name;
+            if(lightName == "TV Light" || lightName == "FireLight")
+            {
+                continue; // Omitir la luz de la TV si no queremos controlarla
+            }
             if (!lights.ContainsKey(lightName))
             {
                 lights[lightName] = light;
