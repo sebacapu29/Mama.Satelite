@@ -1688,7 +1688,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2050294917256488560, guid: 0b2165f69fd5f874d92e3265e8847ef2, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2610917023351501801, guid: 0b2165f69fd5f874d92e3265e8847ef2, type: 3}
       propertyPath: m_LocalScale.y
@@ -5155,6 +5155,11 @@ Light:
   m_LightUnit: 1
   m_LuxAtDistance: 1
   m_EnableSpotReflector: 1
+--- !u!1 &1114098240 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 3f3d22a7ea5cf2a47a9e43389ee2023a, type: 3}
+  m_PrefabInstance: {fileID: 1025398100}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1133735419
 GameObject:
   m_ObjectHideFlags: 0
@@ -6318,6 +6323,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43bc0ad2c9f7aef488a75b96606beb4a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  stalkerObject: {fileID: 1114098240}
 --- !u!4 &1321030663
 Transform:
   m_ObjectHideFlags: 0

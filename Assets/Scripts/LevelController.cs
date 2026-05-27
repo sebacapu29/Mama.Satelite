@@ -1,9 +1,14 @@
 using System;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class LevelController : MonoBehaviour
 {
     float randomValueForFlash = 0f;
+    
+    [SerializeField]
+    private GameObject stalkerObject;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -21,7 +26,17 @@ public class LevelController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        MockedStalkerBehavior();
     }
+
+    private void MockedStalkerBehavior()
+    {
+        if (Keyboard.current[Key.I].wasPressedThisFrame)
+        {
+            stalkerObject.SetActive(true);
+        }        
+    }
+
     //Metodo para iniciar el parpadeo de una luz por su ID despues de 2 segundos
     public void StartFlashingLight()
     {
