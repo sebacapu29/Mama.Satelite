@@ -5,15 +5,36 @@ using UnityEngine.InputSystem;
 public class LevelController : MonoBehaviour
 {
     float randomValueForFlash = 0f;
+    int fireMatchCount = 5;
     
+
+    public int FireMatchCount
+    {
+        get => fireMatchCount;
+        set
+        {
+            fireMatchCount = value;
+            Debug.Log($"[LevelController] FireMatchCount updated: {fireMatchCount}");
+        }
+    }
     [SerializeField]
     private GameObject stalkerObject;
+    public static LevelController Instance { get; private set; }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         StartRandomFlashValue();
-        StartFlashingLight();        
+        StartFlashingLight();    
+        if (Instance != null && Instance != this)
+        {
+            Debug.LogWarning("[LevelController] Multiple instances detected. Destroying the new one.");
+            Destroy(gameObject);
+        }
+        else
+        {
+            Instance = this;
+        }    
     }
     void StartRandomFlashValue()
     {

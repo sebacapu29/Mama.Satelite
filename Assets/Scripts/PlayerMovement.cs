@@ -100,7 +100,12 @@ public class PlayerMovement : MonoBehaviour
         // Toggle fosforo con F
         if (Keyboard.current[Key.F].wasPressedThisFrame && fosforo != null)
         {
-            fosforo.SetActive(!fosforo.activeSelf);
+            if (!fosforo.activeSelf && LevelController.Instance != null && LevelController.Instance.FireMatchCount <= 0)
+            {
+                Debug.LogWarning("No hay fósforos disponibles para encender.");
+                return;
+            }            
+            fosforo.SetActive(true);
         }
 
         // Input para agarrar/soltar con E
