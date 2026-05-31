@@ -10124,1667 +10124,1667 @@
 		{
 			"mimeType":"image/png",
 			"name":"hom-electric-outlets-roughness.png",
-			"uri":"textures/hom-electric-outlets-roughness.png"
+			"uri":"../Textures/hom-electric-outlets-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-electric-outlets-normal.png",
-			"uri":"textures/hom-electric-outlets-normal.png"
+			"uri":"../Textures/hom-electric-outlets-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-electric-outlets-color.png",
-			"uri":"textures/hom-electric-outlets-color.png"
+			"uri":"../Textures/hom-electric-outlets-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"end-tavern-birdcage-roughness.png",
-			"uri":"textures/end-tavern-birdcage-roughness.png"
+			"uri":"../Textures/end-tavern-birdcage-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"end-tavern-birdcage-normal.png",
-			"uri":"textures/end-tavern-birdcage-normal.png"
+			"uri":"../Textures/end-tavern-birdcage-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"end-tavern-birdcage-color.png",
-			"uri":"textures/end-tavern-birdcage-color.png"
+			"uri":"../Textures/end-tavern-birdcage-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-filing-tray-roughness.png",
-			"uri":"textures/hom-filing-tray-roughness.png"
+			"uri":"../Textures/hom-filing-tray-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-filing-tray-normal.png",
-			"uri":"textures/hom-filing-tray-normal.png"
+			"uri":"../Textures/hom-filing-tray-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-filing-tray-color.png",
-			"uri":"textures/hom-filing-tray-color.png"
+			"uri":"../Textures/hom-filing-tray-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-potted-plant-cactus-color.png",
-			"uri":"textures/hom-potted-plant-cactus-color.png"
+			"uri":"../Textures/hom-potted-plant-cactus-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-table-fan-color.png",
-			"uri":"textures/hom-table-fan-color.png"
+			"uri":"../Textures/hom-table-fan-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"prop-stapler-color.png",
-			"uri":"textures/prop-stapler-color.png"
+			"uri":"../Textures/prop-stapler-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"auc-table-lamp-b-rough.png",
-			"uri":"textures/auc-table-lamp-b-rough.png"
+			"uri":"../Textures/auc-table-lamp-b-rough.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"auc-table-lamp-b-normal.png",
-			"uri":"textures/auc-table-lamp-b-normal.png"
+			"uri":"../Textures/auc-table-lamp-b-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"auc-table-lamp-b-color.png",
-			"uri":"textures/auc-table-lamp-b-color.png"
+			"uri":"../Textures/auc-table-lamp-b-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"cit-ind-metal-beams-01-painted-roughness_result.jpg",
-			"uri":"textures/cit-ind-metal-beams-01-painted-roughness_result.jpg"
+			"uri":"../Textures/cit-ind-metal-beams-01-painted-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"cit-ind-metal-beams-01-painted-normal_result.jpg",
-			"uri":"textures/cit-ind-metal-beams-01-painted-normal_result.jpg"
+			"uri":"../Textures/cit-ind-metal-beams-01-painted-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"cit-ind-metal-beams-01-painted-white-color_result.jpg",
-			"uri":"textures/cit-ind-metal-beams-01-painted-white-color_result.jpg"
+			"uri":"../Textures/cit-ind-metal-beams-01-painted-white-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"div-office-paper-stack-a-roughness_result.jpg",
-			"uri":"textures/div-office-paper-stack-a-roughness_result.jpg"
+			"uri":"../Textures/div-office-paper-stack-a-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"a.png",
-			"uri":"textures/a.png"
+			"uri":"../Textures/a.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"div-office-paper-stack-a-color.png",
-			"uri":"textures/div-office-paper-stack-a-color.png"
+			"uri":"../Textures/div-office-paper-stack-a-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"end-baskets-shelf-roughness.png",
-			"uri":"textures/end-baskets-shelf-roughness.png"
+			"uri":"../Textures/end-baskets-shelf-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"end-baskets-shelf-color.png",
-			"uri":"textures/end-baskets-shelf-color.png"
+			"uri":"../Textures/end-baskets-shelf-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"end-cassie-art-trolley-roughness_result.jpg",
-			"uri":"textures/end-cassie-art-trolley-roughness_result.jpg"
+			"uri":"../Textures/end-cassie-art-trolley-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"end-cassie-art-trolley-normal_result.jpg",
-			"uri":"textures/end-cassie-art-trolley-normal_result.jpg"
+			"uri":"../Textures/end-cassie-art-trolley-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"end-cassie-art-trolley-color_result.jpg",
-			"uri":"textures/end-cassie-art-trolley-color_result.jpg"
+			"uri":"../Textures/end-cassie-art-trolley-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"end-cassie-clothes-hanging-roughness.png",
-			"uri":"textures/end-cassie-clothes-hanging-roughness.png"
+			"uri":"../Textures/end-cassie-clothes-hanging-roughness.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"end-cassie-clothes-hanging-normal_result.jpg",
-			"uri":"textures/end-cassie-clothes-hanging-normal_result.jpg"
+			"uri":"../Textures/end-cassie-clothes-hanging-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"end-cassie-clothes-hanging-color_result.jpg",
-			"uri":"textures/end-cassie-clothes-hanging-color_result.jpg"
+			"uri":"../Textures/end-cassie-clothes-hanging-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"end-cassie-clothes-scatter-roughness_result.jpg",
-			"uri":"textures/end-cassie-clothes-scatter-roughness_result.jpg"
+			"uri":"../Textures/end-cassie-clothes-scatter-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"end-cassie-clothes-scatter-color_result.jpg",
-			"uri":"textures/end-cassie-clothes-scatter-color_result.jpg"
+			"uri":"../Textures/end-cassie-clothes-scatter-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"end-cassie-elephant-statue-roughness.png",
-			"uri":"textures/end-cassie-elephant-statue-roughness.png"
+			"uri":"../Textures/end-cassie-elephant-statue-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"end-cassie-elephant-statue-normal.png",
-			"uri":"textures/end-cassie-elephant-statue-normal.png"
+			"uri":"../Textures/end-cassie-elephant-statue-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"end-cassie-elephant-statue-color.png",
-			"uri":"textures/end-cassie-elephant-statue-color.png"
+			"uri":"../Textures/end-cassie-elephant-statue-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"end-cassie-laundry-basket-roughness_result.jpg",
-			"uri":"textures/end-cassie-laundry-basket-roughness_result.jpg"
+			"uri":"../Textures/end-cassie-laundry-basket-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"end-cassie-laundry-basket-color_result.jpg",
-			"uri":"textures/end-cassie-laundry-basket-color_result.jpg"
+			"uri":"../Textures/end-cassie-laundry-basket-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"end-chair-roughness.png",
-			"uri":"textures/end-chair-roughness.png"
+			"uri":"../Textures/end-chair-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"end-chair-color.png",
-			"uri":"textures/end-chair-color.png"
+			"uri":"../Textures/end-chair-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"end-dining-chair-roughness.png",
-			"uri":"textures/end-dining-chair-roughness.png"
+			"uri":"../Textures/end-dining-chair-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"end-dining-chair-color.png",
-			"uri":"textures/end-dining-chair-color.png"
+			"uri":"../Textures/end-dining-chair-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"end-knob-metal-emboss-roughness.png",
-			"uri":"textures/end-knob-metal-emboss-roughness.png"
+			"uri":"../Textures/end-knob-metal-emboss-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"end-knob-metal-emboss-normal.png",
-			"uri":"textures/end-knob-metal-emboss-normal.png"
+			"uri":"../Textures/end-knob-metal-emboss-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"end-knob-metal-emboss-color.png",
-			"uri":"textures/end-knob-metal-emboss-color.png"
+			"uri":"../Textures/end-knob-metal-emboss-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"end-shelf-planks-wood-paint-roughness_result.jpg",
-			"uri":"textures/end-shelf-planks-wood-paint-roughness_result.jpg"
+			"uri":"../Textures/end-shelf-planks-wood-paint-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"end-shelf-planks-wood-paint-normal_result.jpg",
-			"uri":"textures/end-shelf-planks-wood-paint-normal_result.jpg"
+			"uri":"../Textures/end-shelf-planks-wood-paint-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"end-shelf-planks-wood-paint-white-color_result.jpg",
-			"uri":"textures/end-shelf-planks-wood-paint-white-color_result.jpg"
+			"uri":"../Textures/end-shelf-planks-wood-paint-white-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"end-shelf-planks-wood-paint-color_result.jpg",
-			"uri":"textures/end-shelf-planks-wood-paint-color_result.jpg"
+			"uri":"../Textures/end-shelf-planks-wood-paint-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"end-tavern-stool-roughness.png",
-			"uri":"textures/end-tavern-stool-roughness.png"
+			"uri":"../Textures/end-tavern-stool-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"end-tavern-stool-color.png",
-			"uri":"textures/end-tavern-stool-color.png"
+			"uri":"../Textures/end-tavern-stool-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-ac-vents-panel-roughness.png",
-			"uri":"textures/hom-ac-vents-panel-roughness.png"
+			"uri":"../Textures/hom-ac-vents-panel-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-ac-vents-panel-color.png",
-			"uri":"textures/hom-ac-vents-panel-color.png"
+			"uri":"../Textures/hom-ac-vents-panel-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-alarm-clock-roughness.png",
-			"uri":"textures/hom-alarm-clock-roughness.png"
+			"uri":"../Textures/hom-alarm-clock-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-alarm-clock-color.png",
-			"uri":"textures/hom-alarm-clock-color.png"
+			"uri":"../Textures/hom-alarm-clock-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-attic-box-singles-roughness_result.jpg",
-			"uri":"textures/hom-attic-box-singles-roughness_result.jpg"
+			"uri":"../Textures/hom-attic-box-singles-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-attic-box-singles-normal_result.jpg",
-			"uri":"textures/hom-attic-box-singles-normal_result.jpg"
+			"uri":"../Textures/hom-attic-box-singles-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-attic-box-singles-color_result.jpg",
-			"uri":"textures/hom-attic-box-singles-color_result.jpg"
+			"uri":"../Textures/hom-attic-box-singles-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-attic-boxpile-03-roughness_result.jpg",
-			"uri":"textures/hom-attic-boxpile-03-roughness_result.jpg"
+			"uri":"../Textures/hom-attic-boxpile-03-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-attic-boxpile-03-color_result.jpg",
-			"uri":"textures/hom-attic-boxpile-03-color_result.jpg"
+			"uri":"../Textures/hom-attic-boxpile-03-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-attic-ladder-roughness_result.jpg",
-			"uri":"textures/hom-attic-ladder-roughness_result.jpg"
+			"uri":"../Textures/hom-attic-ladder-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-attic-ladder-normal_result.jpg",
-			"uri":"textures/hom-attic-ladder-normal_result.jpg"
+			"uri":"../Textures/hom-attic-ladder-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-attic-ladder-color_result.jpg",
-			"uri":"textures/hom-attic-ladder-color_result.jpg"
+			"uri":"../Textures/hom-attic-ladder-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-bath-floor-vintage-tile-roughness.png",
-			"uri":"textures/hom-bath-floor-vintage-tile-roughness.png"
+			"uri":"../Textures/hom-bath-floor-vintage-tile-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-bath-floor-vintage-tile-color.png",
-			"uri":"textures/hom-bath-floor-vintage-tile-color.png"
+			"uri":"../Textures/hom-bath-floor-vintage-tile-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-bath-towels-roughness_result.jpg",
-			"uri":"textures/hom-bath-towels-roughness_result.jpg"
+			"uri":"../Textures/hom-bath-towels-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-bath-towels-color_result.jpg",
-			"uri":"textures/hom-bath-towels-color_result.jpg"
+			"uri":"../Textures/hom-bath-towels-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-bath-tub-set-acc-roughness_result.jpg",
-			"uri":"textures/hom-bath-tub-set-acc-roughness_result.jpg"
+			"uri":"../Textures/hom-bath-tub-set-acc-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-bath-tub-set-acc-normal.png",
-			"uri":"textures/hom-bath-tub-set-acc-normal.png"
+			"uri":"../Textures/hom-bath-tub-set-acc-normal.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-bath-tub-set-acc-color_result.jpg",
-			"uri":"textures/hom-bath-tub-set-acc-color_result.jpg"
+			"uri":"../Textures/hom-bath-tub-set-acc-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-bath-tub-set-tub-roughness.png",
-			"uri":"textures/hom-bath-tub-set-tub-roughness.png"
+			"uri":"../Textures/hom-bath-tub-set-tub-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-bath-tub-set-tub-color.png",
-			"uri":"textures/hom-bath-tub-set-tub-color.png"
+			"uri":"../Textures/hom-bath-tub-set-tub-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-bath-wall-tile-roughness.png",
-			"uri":"textures/hom-bath-wall-tile-roughness.png"
+			"uri":"../Textures/hom-bath-wall-tile-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-bath-wall-tile-alt-color.png",
-			"uri":"textures/hom-bath-wall-tile-alt-color.png"
+			"uri":"../Textures/hom-bath-wall-tile-alt-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-bath-wall-tile-color_result.jpg",
-			"uri":"textures/hom-bath-wall-tile-color_result.jpg"
+			"uri":"../Textures/hom-bath-wall-tile-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-bathroom-cabinet-green-roughness_result.jpg",
-			"uri":"textures/hom-bathroom-cabinet-green-roughness_result.jpg"
+			"uri":"../Textures/hom-bathroom-cabinet-green-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-bathroom-cabinet-green-normal_result.jpg",
-			"uri":"textures/hom-bathroom-cabinet-green-normal_result.jpg"
+			"uri":"../Textures/hom-bathroom-cabinet-green-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-bathroom-cabinet-green-color_result.jpg",
-			"uri":"textures/hom-bathroom-cabinet-green-color_result.jpg"
+			"uri":"../Textures/hom-bathroom-cabinet-green-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-bathroom-cabinets-wood-color_result.jpg",
-			"uri":"textures/hom-bathroom-cabinets-wood-color_result.jpg"
+			"uri":"../Textures/hom-bathroom-cabinets-wood-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-bathroom-cabinets-color_result.jpg",
-			"uri":"textures/hom-bathroom-cabinets-color_result.jpg"
+			"uri":"../Textures/hom-bathroom-cabinets-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-bathroom-scale-roughness.png",
-			"uri":"textures/hom-bathroom-scale-roughness.png"
+			"uri":"../Textures/hom-bathroom-scale-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-bathroom-scale-normal.png",
-			"uri":"textures/hom-bathroom-scale-normal.png"
+			"uri":"../Textures/hom-bathroom-scale-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-bathroom-scale-color.png",
-			"uri":"textures/hom-bathroom-scale-color.png"
+			"uri":"../Textures/hom-bathroom-scale-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-bathroom-wood-green-roughness.png",
-			"uri":"textures/hom-bathroom-wood-green-roughness.png"
+			"uri":"../Textures/hom-bathroom-wood-green-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-bathroom-wood-green-color.png",
-			"uri":"textures/hom-bathroom-wood-green-color.png"
+			"uri":"../Textures/hom-bathroom-wood-green-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-bed-frame-roughness.png",
-			"uri":"textures/hom-bed-frame-roughness.png"
+			"uri":"../Textures/hom-bed-frame-roughness.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-bed-frame-normal_result.jpg",
-			"uri":"textures/hom-bed-frame-normal_result.jpg"
+			"uri":"../Textures/hom-bed-frame-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-bed-frame-color.png",
-			"uri":"textures/hom-bed-frame-color.png"
+			"uri":"../Textures/hom-bed-frame-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-bench-roughness.png",
-			"uri":"textures/hom-bench-roughness.png"
+			"uri":"../Textures/hom-bench-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-bench-normal.png",
-			"uri":"textures/hom-bench-normal.png"
+			"uri":"../Textures/hom-bench-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-bench-color.png",
-			"uri":"textures/hom-bench-color.png"
+			"uri":"../Textures/hom-bench-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-big-screen-tv-roughness_result.jpg",
-			"uri":"textures/hom-big-screen-tv-roughness_result.jpg"
+			"uri":"../Textures/hom-big-screen-tv-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-big-screen-tv-normal.png",
-			"uri":"textures/hom-big-screen-tv-normal.png"
+			"uri":"../Textures/hom-big-screen-tv-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-big-screen-tv-color.png",
-			"uri":"textures/hom-big-screen-tv-color.png"
+			"uri":"../Textures/hom-big-screen-tv-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-blowdryer-roughness.png",
-			"uri":"textures/hom-blowdryer-roughness.png"
+			"uri":"../Textures/hom-blowdryer-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-blowdryer-normal.png",
-			"uri":"textures/hom-blowdryer-normal.png"
+			"uri":"../Textures/hom-blowdryer-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-blowdryer-color.png",
-			"uri":"textures/hom-blowdryer-color.png"
+			"uri":"../Textures/hom-blowdryer-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-bottle-set-a-roughness_result.jpg",
-			"uri":"textures/hom-bottle-set-a-roughness_result.jpg"
+			"uri":"../Textures/hom-bottle-set-a-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-bottle-set-a-color_result.jpg",
-			"uri":"textures/hom-bottle-set-a-color_result.jpg"
+			"uri":"../Textures/hom-bottle-set-a-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-bottle-set-b-roughness_result.jpg",
-			"uri":"textures/hom-bottle-set-b-roughness_result.jpg"
+			"uri":"../Textures/hom-bottle-set-b-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-bottle-set-b-color_result.jpg",
-			"uri":"textures/hom-bottle-set-b-color_result.jpg"
+			"uri":"../Textures/hom-bottle-set-b-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-candlestick-lamp-roughness.png",
-			"uri":"textures/hom-candlestick-lamp-roughness.png"
+			"uri":"../Textures/hom-candlestick-lamp-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-candlestick-lamp-normal.png",
-			"uri":"textures/hom-candlestick-lamp-normal.png"
+			"uri":"../Textures/hom-candlestick-lamp-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-candlestick-lamp-color.png",
-			"uri":"textures/hom-candlestick-lamp-color.png"
+			"uri":"../Textures/hom-candlestick-lamp-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-carpet-01-roughness.png",
-			"uri":"textures/hom-carpet-01-roughness.png"
+			"uri":"../Textures/hom-carpet-01-roughness.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-carpet-color_result.jpg",
-			"uri":"textures/hom-carpet-color_result.jpg"
+			"uri":"../Textures/hom-carpet-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-ceiling-light-roughness.png",
-			"uri":"textures/hom-ceiling-light-roughness.png"
+			"uri":"../Textures/hom-ceiling-light-roughness.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-ceiling-light-normal_result.jpg",
-			"uri":"textures/hom-ceiling-light-normal_result.jpg"
+			"uri":"../Textures/hom-ceiling-light-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-ceiling-light-color.png",
-			"uri":"textures/hom-ceiling-light-color.png"
+			"uri":"../Textures/hom-ceiling-light-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-ceramic-bath-containers-roughness.png",
-			"uri":"textures/hom-ceramic-bath-containers-roughness.png"
+			"uri":"../Textures/hom-ceramic-bath-containers-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-ceramic-bath-containers-normal.png",
-			"uri":"textures/hom-ceramic-bath-containers-normal.png"
+			"uri":"../Textures/hom-ceramic-bath-containers-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-ceramic-bath-containers-color.png",
-			"uri":"textures/hom-ceramic-bath-containers-color.png"
+			"uri":"../Textures/hom-ceramic-bath-containers-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-chandelier-roughness.png",
-			"uri":"textures/hom-chandelier-roughness.png"
+			"uri":"../Textures/hom-chandelier-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-chandelier-normal.png",
-			"uri":"textures/hom-chandelier-normal.png"
+			"uri":"../Textures/hom-chandelier-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-chandelier-color.png",
-			"uri":"textures/hom-chandelier-color.png"
+			"uri":"../Textures/hom-chandelier-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-clothes-hanging-01-roughness.png",
-			"uri":"textures/hom-clothes-hanging-01-roughness.png"
+			"uri":"../Textures/hom-clothes-hanging-01-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-clothes-hanging-01-normal.png",
-			"uri":"textures/hom-clothes-hanging-01-normal.png"
+			"uri":"../Textures/hom-clothes-hanging-01-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-clothes-hanging-01-color.png",
-			"uri":"textures/hom-clothes-hanging-01-color.png"
+			"uri":"../Textures/hom-clothes-hanging-01-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-clothes-hanging-long-sleeves-roughness.png",
-			"uri":"textures/hom-clothes-hanging-long-sleeves-roughness.png"
+			"uri":"../Textures/hom-clothes-hanging-long-sleeves-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-clothes-hanging-long-sleeves-normal.png",
-			"uri":"textures/hom-clothes-hanging-long-sleeves-normal.png"
+			"uri":"../Textures/hom-clothes-hanging-long-sleeves-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-clothes-hanging-long-sleeves-color.png",
-			"uri":"textures/hom-clothes-hanging-long-sleeves-color.png"
+			"uri":"../Textures/hom-clothes-hanging-long-sleeves-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-clothes-hanging-short-sleeves-roughness.png",
-			"uri":"textures/hom-clothes-hanging-short-sleeves-roughness.png"
+			"uri":"../Textures/hom-clothes-hanging-short-sleeves-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-clothes-hanging-short-sleeves-normal.png",
-			"uri":"textures/hom-clothes-hanging-short-sleeves-normal.png"
+			"uri":"../Textures/hom-clothes-hanging-short-sleeves-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-clothes-hanging-short-sleeves-color.png",
-			"uri":"textures/hom-clothes-hanging-short-sleeves-color.png"
+			"uri":"../Textures/hom-clothes-hanging-short-sleeves-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-designer-computer-roughness.png",
-			"uri":"textures/hom-designer-computer-roughness.png"
+			"uri":"../Textures/hom-designer-computer-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-designer-computer-normal.png",
-			"uri":"textures/hom-designer-computer-normal.png"
+			"uri":"../Textures/hom-designer-computer-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-designer-computer-color.png",
-			"uri":"textures/hom-designer-computer-color.png"
+			"uri":"../Textures/hom-designer-computer-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-dining-hutch-inside-roughness_result.jpg",
-			"uri":"textures/hom-dining-hutch-inside-roughness_result.jpg"
+			"uri":"../Textures/hom-dining-hutch-inside-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-dining-hutch-inside-white-color_result.jpg",
-			"uri":"textures/hom-dining-hutch-inside-white-color_result.jpg"
+			"uri":"../Textures/hom-dining-hutch-inside-white-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-dining-hutch-outside-roughness_result.jpg",
-			"uri":"textures/hom-dining-hutch-outside-roughness_result.jpg"
+			"uri":"../Textures/hom-dining-hutch-outside-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-dining-hutch-outside-normal_result.jpg",
-			"uri":"textures/hom-dining-hutch-outside-normal_result.jpg"
+			"uri":"../Textures/hom-dining-hutch-outside-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-dining-hutch-outside-white-color_result.jpg",
-			"uri":"textures/hom-dining-hutch-outside-white-color_result.jpg"
+			"uri":"../Textures/hom-dining-hutch-outside-white-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-door-roughness_result.jpg",
-			"uri":"textures/hom-door-roughness_result.jpg"
+			"uri":"../Textures/hom-door-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-door-normal_result.jpg",
-			"uri":"textures/hom-door-normal_result.jpg"
+			"uri":"../Textures/hom-door-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-door-color.png",
-			"uri":"textures/hom-door-color.png"
+			"uri":"../Textures/hom-door-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-drake-sweater-ao.png",
-			"uri":"textures/hom-drake-sweater-ao.png"
+			"uri":"../Textures/hom-drake-sweater-ao.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-drake-sweater-color.png",
-			"uri":"textures/hom-drake-sweater-color.png"
+			"uri":"../Textures/hom-drake-sweater-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-drake-tshirt-ao.png",
-			"uri":"textures/hom-drake-tshirt-ao.png"
+			"uri":"../Textures/hom-drake-tshirt-ao.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-drake-tshirt-color.png",
-			"uri":"textures/hom-drake-tshirt-color.png"
+			"uri":"../Textures/hom-drake-tshirt-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-drake-therm-sweater-ao.png",
-			"uri":"textures/hom-drake-therm-sweater-ao.png"
+			"uri":"../Textures/hom-drake-therm-sweater-ao.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-drake-therm-sweater-color.png",
-			"uri":"textures/hom-drake-therm-sweater-color.png"
+			"uri":"../Textures/hom-drake-therm-sweater-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-dresser-hallway-roughness.png",
-			"uri":"textures/hom-dresser-hallway-roughness.png"
+			"uri":"../Textures/hom-dresser-hallway-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-dresser-hallway-color.png",
-			"uri":"textures/hom-dresser-hallway-color.png"
+			"uri":"../Textures/hom-dresser-hallway-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-dresser-a-roughness.png",
-			"uri":"textures/hom-dresser-a-roughness.png"
+			"uri":"../Textures/hom-dresser-a-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-dresser-a-normal.png",
-			"uri":"textures/hom-dresser-a-normal.png"
+			"uri":"../Textures/hom-dresser-a-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-dresser-a-color.png",
-			"uri":"textures/hom-dresser-a-color.png"
+			"uri":"../Textures/hom-dresser-a-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-dresser-large-roughness.png",
-			"uri":"textures/hom-dresser-large-roughness.png"
+			"uri":"../Textures/hom-dresser-large-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-dresser-large-normal.png",
-			"uri":"textures/hom-dresser-large-normal.png"
+			"uri":"../Textures/hom-dresser-large-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-dresser-large-color.png",
-			"uri":"textures/hom-dresser-large-color.png"
+			"uri":"../Textures/hom-dresser-large-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-elena-binder-box-roughness_result.jpg",
-			"uri":"textures/hom-elena-binder-box-roughness_result.jpg"
+			"uri":"../Textures/hom-elena-binder-box-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-elena-binder-box-color-alt-var_result.jpg",
-			"uri":"textures/hom-elena-binder-box-color-alt-var_result.jpg"
+			"uri":"../Textures/hom-elena-binder-box-color-alt-var_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-elena-binder-box-normal_result.jpg",
-			"uri":"textures/hom-elena-binder-box-normal_result.jpg"
+			"uri":"../Textures/hom-elena-binder-box-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-elena-binder-box-color-alt_result.jpg",
-			"uri":"textures/hom-elena-binder-box-color-alt_result.jpg"
+			"uri":"../Textures/hom-elena-binder-box-color-alt_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-elena-binder-box-color_result.jpg",
-			"uri":"textures/hom-elena-binder-box-color_result.jpg"
+			"uri":"../Textures/hom-elena-binder-box-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-elena-clothes-folded-roughness_result.jpg",
-			"uri":"textures/hom-elena-clothes-folded-roughness_result.jpg"
+			"uri":"../Textures/hom-elena-clothes-folded-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-elena-clothes-folded-color_result.jpg",
-			"uri":"textures/hom-elena-clothes-folded-color_result.jpg"
+			"uri":"../Textures/hom-elena-clothes-folded-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-elena-clothes-shoes-roughness.png",
-			"uri":"textures/hom-elena-clothes-shoes-roughness.png"
+			"uri":"../Textures/hom-elena-clothes-shoes-roughness.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-elena-clothes-shoes-normal_result.jpg",
-			"uri":"textures/hom-elena-clothes-shoes-normal_result.jpg"
+			"uri":"../Textures/hom-elena-clothes-shoes-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-elena-clothes-shoes-color.png",
-			"uri":"textures/hom-elena-clothes-shoes-color.png"
+			"uri":"../Textures/hom-elena-clothes-shoes-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-elena-clothes-hanging-coats-roughness.png",
-			"uri":"textures/hom-elena-clothes-hanging-coats-roughness.png"
+			"uri":"../Textures/hom-elena-clothes-hanging-coats-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-elena-clothes-hanging-coats-color.png",
-			"uri":"textures/hom-elena-clothes-hanging-coats-color.png"
+			"uri":"../Textures/hom-elena-clothes-hanging-coats-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-elena-home-shirt-ao.png",
-			"uri":"textures/hom-elena-home-shirt-ao.png"
+			"uri":"../Textures/hom-elena-home-shirt-ao.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-elena-home-shirt-color.png",
-			"uri":"textures/hom-elena-home-shirt-color.png"
+			"uri":"../Textures/hom-elena-home-shirt-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-elena-jewelry-box-roughness.png",
-			"uri":"textures/hom-elena-jewelry-box-roughness.png"
+			"uri":"../Textures/hom-elena-jewelry-box-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-elena-jewelry-box-normal.png",
-			"uri":"textures/hom-elena-jewelry-box-normal.png"
+			"uri":"../Textures/hom-elena-jewelry-box-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-elena-jewelry-box-color.png",
-			"uri":"textures/hom-elena-jewelry-box-color.png"
+			"uri":"../Textures/hom-elena-jewelry-box-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-elena-mad-shirt-ao.png",
-			"uri":"textures/hom-elena-mad-shirt-ao.png"
+			"uri":"../Textures/hom-elena-mad-shirt-ao.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-elena-mad-shirt-color.png",
-			"uri":"textures/hom-elena-mad-shirt-color.png"
+			"uri":"../Textures/hom-elena-mad-shirt-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-elena-makeup-roughness.png",
-			"uri":"textures/hom-elena-makeup-roughness.png"
+			"uri":"../Textures/hom-elena-makeup-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-elena-makeup-normal.png",
-			"uri":"textures/hom-elena-makeup-normal.png"
+			"uri":"../Textures/hom-elena-makeup-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-elena-makeup-color.png",
-			"uri":"textures/hom-elena-makeup-color.png"
+			"uri":"../Textures/hom-elena-makeup-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-elena-sofa-roughness_result.jpg",
-			"uri":"textures/hom-elena-sofa-roughness_result.jpg"
+			"uri":"../Textures/hom-elena-sofa-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-elena-sofa-normal_result.jpg",
-			"uri":"textures/hom-elena-sofa-normal_result.jpg"
+			"uri":"../Textures/hom-elena-sofa-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-elena-sofa-color_result.jpg",
-			"uri":"textures/hom-elena-sofa-color_result.jpg"
+			"uri":"../Textures/hom-elena-sofa-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-elena-work-desk-roughness.png",
-			"uri":"textures/hom-elena-work-desk-roughness.png"
+			"uri":"../Textures/hom-elena-work-desk-roughness.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-elena-work-desk-normal_result.jpg",
-			"uri":"textures/hom-elena-work-desk-normal_result.jpg"
+			"uri":"../Textures/hom-elena-work-desk-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-elena-work-desk-color.png",
-			"uri":"textures/hom-elena-work-desk-color.png"
+			"uri":"../Textures/hom-elena-work-desk-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-flat-file-roughness.png",
-			"uri":"textures/hom-flat-file-roughness.png"
+			"uri":"../Textures/hom-flat-file-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-flat-file-normal.png",
-			"uri":"textures/hom-flat-file-normal.png"
+			"uri":"../Textures/hom-flat-file-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-flat-file-color.png",
-			"uri":"textures/hom-flat-file-color.png"
+			"uri":"../Textures/hom-flat-file-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-hardwood-floor-roughness_result.jpg",
-			"uri":"textures/hom-hardwood-floor-roughness_result.jpg"
+			"uri":"../Textures/hom-hardwood-floor-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-hardwood-floor-color_result.jpg",
-			"uri":"textures/hom-hardwood-floor-color_result.jpg"
+			"uri":"../Textures/hom-hardwood-floor-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-iron-roughness.png",
-			"uri":"textures/hom-iron-roughness.png"
+			"uri":"../Textures/hom-iron-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-iron-normal.png",
-			"uri":"textures/hom-iron-normal.png"
+			"uri":"../Textures/hom-iron-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-iron-color.png",
-			"uri":"textures/hom-iron-color.png"
+			"uri":"../Textures/hom-iron-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-ironing-board-roughness.png",
-			"uri":"textures/hom-ironing-board-roughness.png"
+			"uri":"../Textures/hom-ironing-board-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-ironing-board-normal.png",
-			"uri":"textures/hom-ironing-board-normal.png"
+			"uri":"../Textures/hom-ironing-board-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-ironing-board-color.png",
-			"uri":"textures/hom-ironing-board-color.png"
+			"uri":"../Textures/hom-ironing-board-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-kitchen-cabinets-roughness_result.jpg",
-			"uri":"textures/hom-kitchen-cabinets-roughness_result.jpg"
+			"uri":"../Textures/hom-kitchen-cabinets-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-kitchen-cabinets-normal_result.jpg",
-			"uri":"textures/hom-kitchen-cabinets-normal_result.jpg"
+			"uri":"../Textures/hom-kitchen-cabinets-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-kitchen-cabinets-color_result.jpg",
-			"uri":"textures/hom-kitchen-cabinets-color_result.jpg"
+			"uri":"../Textures/hom-kitchen-cabinets-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-kitchen-countertop-roughness_result.jpg",
-			"uri":"textures/hom-kitchen-countertop-roughness_result.jpg"
+			"uri":"../Textures/hom-kitchen-countertop-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-kitchen-countertop-sauce-detail-normal_result.jpg",
-			"uri":"textures/hom-kitchen-countertop-sauce-detail-normal_result.jpg"
+			"uri":"../Textures/hom-kitchen-countertop-sauce-detail-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-kitchen-countertop-color_result.jpg",
-			"uri":"textures/hom-kitchen-countertop-color_result.jpg"
+			"uri":"../Textures/hom-kitchen-countertop-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-kitchen-tiles-01-roughness.png",
-			"uri":"textures/hom-kitchen-tiles-01-roughness.png"
+			"uri":"../Textures/hom-kitchen-tiles-01-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-kitchen-tiles-01-normal.png",
-			"uri":"textures/hom-kitchen-tiles-01-normal.png"
+			"uri":"../Textures/hom-kitchen-tiles-01-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-kitchen-tiles-01-color.png",
-			"uri":"textures/hom-kitchen-tiles-01-color.png"
+			"uri":"../Textures/hom-kitchen-tiles-01-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-kitchen-wood-roughness.png",
-			"uri":"textures/hom-kitchen-wood-roughness.png"
+			"uri":"../Textures/hom-kitchen-wood-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-kitchen-wood-color.png",
-			"uri":"textures/hom-kitchen-wood-color.png"
+			"uri":"../Textures/hom-kitchen-wood-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-laundry-hamper-roughness.png",
-			"uri":"textures/hom-laundry-hamper-roughness.png"
+			"uri":"../Textures/hom-laundry-hamper-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-laundry-hamper-normal.png",
-			"uri":"textures/hom-laundry-hamper-normal.png"
+			"uri":"../Textures/hom-laundry-hamper-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-laundry-hamper-color.png",
-			"uri":"textures/hom-laundry-hamper-color.png"
+			"uri":"../Textures/hom-laundry-hamper-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-laundry-sliding-door-roughness.png",
-			"uri":"textures/hom-laundry-sliding-door-roughness.png"
+			"uri":"../Textures/hom-laundry-sliding-door-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-laundry-sliding-door-normal.png",
-			"uri":"textures/hom-laundry-sliding-door-normal.png"
+			"uri":"../Textures/hom-laundry-sliding-door-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-laundry-sliding-door-color.png",
-			"uri":"textures/hom-laundry-sliding-door-color.png"
+			"uri":"../Textures/hom-laundry-sliding-door-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-laundry-supplies-roughness.png",
-			"uri":"textures/hom-laundry-supplies-roughness.png"
+			"uri":"../Textures/hom-laundry-supplies-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-laundry-supplies-color.png",
-			"uri":"textures/hom-laundry-supplies-color.png"
+			"uri":"../Textures/hom-laundry-supplies-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-leather-messenger-bag-roughness_result.jpg",
-			"uri":"textures/hom-leather-messenger-bag-roughness_result.jpg"
+			"uri":"../Textures/hom-leather-messenger-bag-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-leather-messenger-bag-normal_result.jpg",
-			"uri":"textures/hom-leather-messenger-bag-normal_result.jpg"
+			"uri":"../Textures/hom-leather-messenger-bag-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-leather-messenger-bag-color_result.jpg",
-			"uri":"textures/hom-leather-messenger-bag-color_result.jpg"
+			"uri":"../Textures/hom-leather-messenger-bag-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-lightbox-roughness_result.jpg",
-			"uri":"textures/hom-lightbox-roughness_result.jpg"
+			"uri":"../Textures/hom-lightbox-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-lightbox-normal_result.jpg",
-			"uri":"textures/hom-lightbox-normal_result.jpg"
+			"uri":"../Textures/hom-lightbox-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-lightbox-color_result.jpg",
-			"uri":"textures/hom-lightbox-color_result.jpg"
+			"uri":"../Textures/hom-lightbox-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-luggage-softcase-02-roughness_result.jpg",
-			"uri":"textures/hom-luggage-softcase-02-roughness_result.jpg"
+			"uri":"../Textures/hom-luggage-softcase-02-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-luggage-softcase-02-normal_result.jpg",
-			"uri":"textures/hom-luggage-softcase-02-normal_result.jpg"
+			"uri":"../Textures/hom-luggage-softcase-02-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-luggage-softcase-02-color_result.jpg",
-			"uri":"textures/hom-luggage-softcase-02-color_result.jpg"
+			"uri":"../Textures/hom-luggage-softcase-02-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-office-graphics-roughness.png",
-			"uri":"textures/hom-office-graphics-roughness.png"
+			"uri":"../Textures/hom-office-graphics-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-office-graphics-color.png",
-			"uri":"textures/hom-office-graphics-color.png"
+			"uri":"../Textures/hom-office-graphics-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-perfume-bottles-roughness.png",
-			"uri":"textures/hom-perfume-bottles-roughness.png"
+			"uri":"../Textures/hom-perfume-bottles-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-perfume-bottles-normal.png",
-			"uri":"textures/hom-perfume-bottles-normal.png"
+			"uri":"../Textures/hom-perfume-bottles-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-perfume-bottles-color.png",
-			"uri":"textures/hom-perfume-bottles-color.png"
+			"uri":"../Textures/hom-perfume-bottles-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-potted-plant-roughness.png",
-			"uri":"textures/hom-potted-plant-roughness.png"
+			"uri":"../Textures/hom-potted-plant-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-potted-plant-normal.png",
-			"uri":"textures/hom-potted-plant-normal.png"
+			"uri":"../Textures/hom-potted-plant-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-potted-plant-color.png",
-			"uri":"textures/hom-potted-plant-color.png"
+			"uri":"../Textures/hom-potted-plant-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-razor-roughness.png",
-			"uri":"textures/hom-razor-roughness.png"
+			"uri":"../Textures/hom-razor-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-razor-normal.png",
-			"uri":"textures/hom-razor-normal.png"
+			"uri":"../Textures/hom-razor-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-razor-color.png",
-			"uri":"textures/hom-razor-color.png"
+			"uri":"../Textures/hom-razor-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-shoes-elena-01-roughness.png",
-			"uri":"textures/hom-shoes-elena-01-roughness.png"
+			"uri":"../Textures/hom-shoes-elena-01-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-shoes-elena-01-color.png",
-			"uri":"textures/hom-shoes-elena-01-color.png"
+			"uri":"../Textures/hom-shoes-elena-01-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-shoes-nate-02-rough.png",
-			"uri":"textures/hom-shoes-nate-02-rough.png"
+			"uri":"../Textures/hom-shoes-nate-02-rough.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-shoes-nate-02-color.png",
-			"uri":"textures/hom-shoes-nate-02-color.png"
+			"uri":"../Textures/hom-shoes-nate-02-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-shoes-nate-03-rough.png",
-			"uri":"textures/hom-shoes-nate-03-rough.png"
+			"uri":"../Textures/hom-shoes-nate-03-rough.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-shoes-nate-03-color.png",
-			"uri":"textures/hom-shoes-nate-03-color.png"
+			"uri":"../Textures/hom-shoes-nate-03-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-side-table-roughness.png",
-			"uri":"textures/hom-side-table-roughness.png"
+			"uri":"../Textures/hom-side-table-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-side-table-normal.png",
-			"uri":"textures/hom-side-table-normal.png"
+			"uri":"../Textures/hom-side-table-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-side-table-color.png",
-			"uri":"textures/hom-side-table-color.png"
+			"uri":"../Textures/hom-side-table-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-stack-mail-roughness.png",
-			"uri":"textures/hom-stack-mail-roughness.png"
+			"uri":"../Textures/hom-stack-mail-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-stack-mail-color.png",
-			"uri":"textures/hom-stack-mail-color.png"
+			"uri":"../Textures/hom-stack-mail-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-staircase-roughness_result.jpg",
-			"uri":"textures/hom-staircase-roughness_result.jpg"
+			"uri":"../Textures/hom-staircase-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-staircase-color_result.jpg",
-			"uri":"textures/hom-staircase-color_result.jpg"
+			"uri":"../Textures/hom-staircase-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-tissuebox-roughness.png",
-			"uri":"textures/hom-tissuebox-roughness.png"
+			"uri":"../Textures/hom-tissuebox-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-tissuebox-color.png",
-			"uri":"textures/hom-tissuebox-color.png"
+			"uri":"../Textures/hom-tissuebox-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-toilet-residential-roughness.png",
-			"uri":"textures/hom-toilet-residential-roughness.png"
+			"uri":"../Textures/hom-toilet-residential-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-toilet-residential-color.png",
-			"uri":"textures/hom-toilet-residential-color.png"
+			"uri":"../Textures/hom-toilet-residential-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-toilet-sink-single-roughness.png",
-			"uri":"textures/hom-toilet-sink-single-roughness.png"
+			"uri":"../Textures/hom-toilet-sink-single-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-toilet-sink-single-color.png",
-			"uri":"textures/hom-toilet-sink-single-color.png"
+			"uri":"../Textures/hom-toilet-sink-single-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-toothbrush-roughness.png",
-			"uri":"textures/hom-toothbrush-roughness.png"
+			"uri":"../Textures/hom-toothbrush-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-toothbrush-normal.png",
-			"uri":"textures/hom-toothbrush-normal.png"
+			"uri":"../Textures/hom-toothbrush-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-toothbrush-color.png",
-			"uri":"textures/hom-toothbrush-color.png"
+			"uri":"../Textures/hom-toothbrush-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-towel-pile-roughness.png",
-			"uri":"textures/hom-towel-pile-roughness.png"
+			"uri":"../Textures/hom-towel-pile-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-towel-pile-color.png",
-			"uri":"textures/hom-towel-pile-color.png"
+			"uri":"../Textures/hom-towel-pile-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-towels-hanging-roughness_result.jpg",
-			"uri":"textures/hom-towels-hanging-roughness_result.jpg"
+			"uri":"../Textures/hom-towels-hanging-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-towels-hanging-color_result.jpg",
-			"uri":"textures/hom-towels-hanging-color_result.jpg"
+			"uri":"../Textures/hom-towels-hanging-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-trash-bin-roughness.png",
-			"uri":"textures/hom-trash-bin-roughness.png"
+			"uri":"../Textures/hom-trash-bin-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-trashcan-kitchen-color.png",
-			"uri":"textures/hom-trashcan-kitchen-color.png"
+			"uri":"../Textures/hom-trashcan-kitchen-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-trim-basic-roughness.png",
-			"uri":"textures/hom-trim-basic-roughness.png"
+			"uri":"../Textures/hom-trim-basic-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-trim-basic-color.png",
-			"uri":"textures/hom-trim-basic-color.png"
+			"uri":"../Textures/hom-trim-basic-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-trim-basic-black-color.png",
-			"uri":"textures/hom-trim-basic-black-color.png"
+			"uri":"../Textures/hom-trim-basic-black-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-vanity-light-fixture-roughness.png",
-			"uri":"textures/hom-vanity-light-fixture-roughness.png"
+			"uri":"../Textures/hom-vanity-light-fixture-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-vanity-light-fixture-normal.png",
-			"uri":"textures/hom-vanity-light-fixture-normal.png"
+			"uri":"../Textures/hom-vanity-light-fixture-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-vanity-light-fixture-color.png",
-			"uri":"textures/hom-vanity-light-fixture-color.png"
+			"uri":"../Textures/hom-vanity-light-fixture-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-vintage-books-roughness_result.jpg",
-			"uri":"textures/hom-vintage-books-roughness_result.jpg"
+			"uri":"../Textures/hom-vintage-books-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-vintage-books-adventure-normal_result.jpg",
-			"uri":"textures/hom-vintage-books-adventure-normal_result.jpg"
+			"uri":"../Textures/hom-vintage-books-adventure-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-vintage-books-color_result.jpg",
-			"uri":"textures/hom-vintage-books-color_result.jpg"
+			"uri":"../Textures/hom-vintage-books-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-vintage-reflex-camera-roughness.png",
-			"uri":"textures/hom-vintage-reflex-camera-roughness.png"
+			"uri":"../Textures/hom-vintage-reflex-camera-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-vintage-reflex-camera-normal.png",
-			"uri":"textures/hom-vintage-reflex-camera-normal.png"
+			"uri":"../Textures/hom-vintage-reflex-camera-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-vintage-reflex-camera-color.png",
-			"uri":"textures/hom-vintage-reflex-camera-color.png"
+			"uri":"../Textures/hom-vintage-reflex-camera-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-wall-plaster-01-roughness_result.jpg",
-			"uri":"textures/hom-wall-plaster-01-roughness_result.jpg"
+			"uri":"../Textures/hom-wall-plaster-01-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-wall-plaster-01-normal_result.jpg",
-			"uri":"textures/hom-wall-plaster-01-normal_result.jpg"
+			"uri":"../Textures/hom-wall-plaster-01-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-wall-plaster-01-color_result.jpg",
-			"uri":"textures/hom-wall-plaster-01-color_result.jpg"
+			"uri":"../Textures/hom-wall-plaster-01-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-wall-sconce-roughness.png",
-			"uri":"textures/hom-wall-sconce-roughness.png"
+			"uri":"../Textures/hom-wall-sconce-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-wall-sconce-normal.png",
-			"uri":"textures/hom-wall-sconce-normal.png"
+			"uri":"../Textures/hom-wall-sconce-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-wall-sconce-color.png",
-			"uri":"textures/hom-wall-sconce-color.png"
+			"uri":"../Textures/hom-wall-sconce-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"mad-map-on-wall-roughness.png",
-			"uri":"textures/mad-map-on-wall-roughness.png"
+			"uri":"../Textures/mad-map-on-wall-roughness.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"mad-map-on-wall-normal_result.jpg",
-			"uri":"textures/mad-map-on-wall-normal_result.jpg"
+			"uri":"../Textures/mad-map-on-wall-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"mad-map-on-wall-color_result.jpg",
-			"uri":"textures/mad-map-on-wall-color_result.jpg"
+			"uri":"../Textures/mad-map-on-wall-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"off-desk-lamp-01-roughness.png",
-			"uri":"textures/off-desk-lamp-01-roughness.png"
+			"uri":"../Textures/off-desk-lamp-01-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"off-desk-lamp-01-color.png",
-			"uri":"textures/off-desk-lamp-01-color.png"
+			"uri":"../Textures/off-desk-lamp-01-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"off-metal-solid-roughness_result.jpg",
-			"uri":"textures/off-metal-solid-roughness_result.jpg"
+			"uri":"../Textures/off-metal-solid-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"off-metal-solid-light-color_result.jpg",
-			"uri":"textures/off-metal-solid-light-color_result.jpg"
+			"uri":"../Textures/off-metal-solid-light-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"orp-nate-bed-mattress-roughness_result.jpg",
-			"uri":"textures/orp-nate-bed-mattress-roughness_result.jpg"
+			"uri":"../Textures/orp-nate-bed-mattress-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"orp-nate-bed-mattress-normal_result.jpg",
-			"uri":"textures/orp-nate-bed-mattress-normal_result.jpg"
+			"uri":"../Textures/orp-nate-bed-mattress-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"orp-nate-bed-mattress-color-clean_result.jpg",
-			"uri":"textures/orp-nate-bed-mattress-color-clean_result.jpg"
+			"uri":"../Textures/orp-nate-bed-mattress-color-clean_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"prop-electric-sharpener-roughness.png",
-			"uri":"textures/prop-electric-sharpener-roughness.png"
+			"uri":"../Textures/prop-electric-sharpener-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"prop-electric-sharpener-normal.png",
-			"uri":"textures/prop-electric-sharpener-normal.png"
+			"uri":"../Textures/prop-electric-sharpener-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"prop-electric-sharpener-color.png",
-			"uri":"textures/prop-electric-sharpener-color.png"
+			"uri":"../Textures/prop-electric-sharpener-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"prop-washer-dryer-03-roughness.png",
-			"uri":"textures/prop-washer-dryer-03-roughness.png"
+			"uri":"../Textures/prop-washer-dryer-03-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"prop-washer-dryer-03-normal.png",
-			"uri":"textures/prop-washer-dryer-03-normal.png"
+			"uri":"../Textures/prop-washer-dryer-03-normal.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"prop-washer-dryer-03-color_result.jpg",
-			"uri":"textures/prop-washer-dryer-03-color_result.jpg"
+			"uri":"../Textures/prop-washer-dryer-03-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"aml-bed-a-02-normal_result.jpg",
-			"uri":"textures/aml-bed-a-02-normal_result.jpg"
+			"uri":"../Textures/aml-bed-a-02-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"aml-bed-a-02-color_result.jpg",
-			"uri":"textures/aml-bed-a-02-color_result.jpg"
+			"uri":"../Textures/aml-bed-a-02-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"cit-clothing-normal.png",
-			"uri":"textures/cit-clothing-normal.png"
+			"uri":"../Textures/cit-clothing-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"cit-clothing-color.png",
-			"uri":"textures/cit-clothing-color.png"
+			"uri":"../Textures/cit-clothing-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"cit-hanging-clothes-women-a-color.png",
-			"uri":"textures/cit-hanging-clothes-women-a-color.png"
+			"uri":"../Textures/cit-hanging-clothes-women-a-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"cit-hanging-clothes-women-b-color.png",
-			"uri":"textures/cit-hanging-clothes-women-b-color.png"
+			"uri":"../Textures/cit-hanging-clothes-women-b-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"div-painted-metal-color.png",
-			"uri":"textures/div-painted-metal-color.png"
+			"uri":"../Textures/div-painted-metal-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"end-cassie-magazines-color_result.jpg",
-			"uri":"textures/end-cassie-magazines-color_result.jpg"
+			"uri":"../Textures/end-cassie-magazines-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"end-shelf-panels-wood-paint-white-color_result.jpg",
-			"uri":"textures/end-shelf-panels-wood-paint-white-color_result.jpg"
+			"uri":"../Textures/end-shelf-panels-wood-paint-white-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"end-small-curtain-color_result.jpg",
-			"uri":"textures/end-small-curtain-color_result.jpg"
+			"uri":"../Textures/end-small-curtain-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"end-table-wood-normal_result.jpg",
-			"uri":"textures/end-table-wood-normal_result.jpg"
+			"uri":"../Textures/end-table-wood-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"end-table-wood-color_result.jpg",
-			"uri":"textures/end-table-wood-color_result.jpg"
+			"uri":"../Textures/end-table-wood-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-bed-color_result.jpg",
-			"uri":"textures/hom-bed-color_result.jpg"
+			"uri":"../Textures/hom-bed-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-chevron-pattern-lime-color.png",
-			"uri":"textures/hom-chevron-pattern-lime-color.png"
+			"uri":"../Textures/hom-chevron-pattern-lime-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-cloth-attic-color.png",
-			"uri":"textures/hom-cloth-attic-color.png"
+			"uri":"../Textures/hom-cloth-attic-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-craft-rugs-style-02-color_result.jpg",
-			"uri":"textures/hom-craft-rugs-style-02-color_result.jpg"
+			"uri":"../Textures/hom-craft-rugs-style-02-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-curtain-leaves-contemp-color.png",
-			"uri":"textures/hom-curtain-leaves-contemp-color.png"
+			"uri":"../Textures/hom-curtain-leaves-contemp-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-curtains-normal_result.jpg",
-			"uri":"textures/hom-curtains-normal_result.jpg"
+			"uri":"../Textures/hom-curtains-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-curtain-white-color.png",
-			"uri":"textures/hom-curtain-white-color.png"
+			"uri":"../Textures/hom-curtain-white-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-curtain-yellow-color.png",
-			"uri":"textures/hom-curtain-yellow-color.png"
+			"uri":"../Textures/hom-curtain-yellow-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-curtains-color_result.jpg",
-			"uri":"textures/hom-curtains-color_result.jpg"
+			"uri":"../Textures/hom-curtains-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-elena-writing-desk-color_result.jpg",
-			"uri":"textures/hom-elena-writing-desk-color_result.jpg"
+			"uri":"../Textures/hom-elena-writing-desk-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-kitchen-cabinets-wood-color_result.jpg",
-			"uri":"textures/hom-kitchen-cabinets-wood-color_result.jpg"
+			"uri":"../Textures/hom-kitchen-cabinets-wood-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-picture-art-nature-color_result.jpg",
-			"uri":"textures/hom-picture-art-nature-color_result.jpg"
+			"uri":"../Textures/hom-picture-art-nature-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-picture-family-photo-color_result.jpg",
-			"uri":"textures/hom-picture-family-photo-color_result.jpg"
+			"uri":"../Textures/hom-picture-family-photo-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-picture-journalism-color_result.jpg",
-			"uri":"textures/hom-picture-journalism-color_result.jpg"
+			"uri":"../Textures/hom-picture-journalism-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-picture-travel-color_result.jpg",
-			"uri":"textures/hom-picture-travel-color_result.jpg"
+			"uri":"../Textures/hom-picture-travel-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-pillow-floral-green-color.png",
-			"uri":"textures/hom-pillow-floral-green-color.png"
+			"uri":"../Textures/hom-pillow-floral-green-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-rug-kilim-orange-color_result.jpg",
-			"uri":"textures/hom-rug-kilim-orange-color_result.jpg"
+			"uri":"../Textures/hom-rug-kilim-orange-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-smoke-detector-normal.png",
-			"uri":"textures/hom-smoke-detector-normal.png"
+			"uri":"../Textures/hom-smoke-detector-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-smoke-detector-color.png",
-			"uri":"textures/hom-smoke-detector-color.png"
+			"uri":"../Textures/hom-smoke-detector-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-towels-color.png",
-			"uri":"textures/hom-towels-color.png"
+			"uri":"../Textures/hom-towels-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-travel-posters-a-color_result.jpg",
-			"uri":"textures/hom-travel-posters-a-color_result.jpg"
+			"uri":"../Textures/hom-travel-posters-a-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-wood-color_result.jpg",
-			"uri":"textures/hom-wood-color_result.jpg"
+			"uri":"../Textures/hom-wood-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-world-map-vintage-color_result.jpg",
-			"uri":"textures/hom-world-map-vintage-color_result.jpg"
+			"uri":"../Textures/hom-world-map-vintage-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"off-books-color.png",
-			"uri":"textures/off-books-color.png"
+			"uri":"../Textures/off-books-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"off-files-normal.png",
-			"uri":"textures/off-files-normal.png"
+			"uri":"../Textures/off-files-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"off-files-color.png",
-			"uri":"textures/off-files-color.png"
+			"uri":"../Textures/off-files-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"off-glass-smear-basic-color.png",
-			"uri":"textures/off-glass-smear-basic-color.png"
+			"uri":"../Textures/off-glass-smear-basic-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"off-printer-normal.png",
-			"uri":"textures/off-printer-normal.png"
+			"uri":"../Textures/off-printer-normal.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"off-printer-color_result.jpg",
-			"uri":"textures/off-printer-color_result.jpg"
+			"uri":"../Textures/off-printer-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"off-stuff-set02-normal_result.jpg",
-			"uri":"textures/off-stuff-set02-normal_result.jpg"
+			"uri":"../Textures/off-stuff-set02-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"off-stuff-set02-color_result.jpg",
-			"uri":"textures/off-stuff-set02-color_result.jpg"
+			"uri":"../Textures/off-stuff-set02-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"off-wall-clutter-01-color.png",
-			"uri":"textures/off-wall-clutter-01-color.png"
+			"uri":"../Textures/off-wall-clutter-01-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"pas-dirt-ground-01-color_result.jpg",
-			"uri":"textures/pas-dirt-ground-01-color_result.jpg"
+			"uri":"../Textures/pas-dirt-ground-01-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"uni-lab-books-color_result.jpg",
-			"uri":"textures/uni-lab-books-color_result.jpg"
+			"uri":"../Textures/uni-lab-books-color_result.jpg"
 		}
 	],
 	"accessors":[
