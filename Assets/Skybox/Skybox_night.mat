@@ -46,7 +46,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _AtmosphereThickness: 0.1
-    - _Exposure: 1
+    - _Exposure: 3
     - _ImageType: 0
     - _Layout: 0
     - _Mapping: 1
@@ -58,6 +58,6 @@ Material:
     m_Colors:
     - _GroundColor: {r: 0.1814786, g: 0.17911176, b: 0.21698111, a: 1}
     - _SkyTint: {r: 0.18133679, g: 0.18912426, b: 0.23584908, a: 1}
-    - _Tint: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _Tint: {r: 0.26197046, g: 0.26777768, b: 0.2735849, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
