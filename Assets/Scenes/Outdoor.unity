@@ -23,7 +23,7 @@ RenderSettings:
   m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
   m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
   m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
-  m_AmbientIntensity: 1
+  m_AmbientIntensity: 4.3
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
   m_SkyboxMaterial: {fileID: 2100000, guid: def840f88ef75b34abcf5777703bcfb6, type: 2}
@@ -171,6 +171,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_B (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ad6b550833695154b8f26575f85f4085, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -232,6 +236,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f5fa4a9facf17a742971309f04faff78, type: 3}
       propertyPath: m_Name
       value: Tree_A (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f5fa4a9facf17a742971309f04faff78, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -403,6 +411,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_B (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ad6b550833695154b8f26575f85f4085, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -464,6 +476,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ad6b550833695154b8f26575f85f4085, type: 3}
       propertyPath: m_Name
       value: Tree_B (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ad6b550833695154b8f26575f85f4085, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1293,8 +1309,8 @@ Light:
   m_Enabled: 1
   serializedVersion: 11
   m_Type: 1
-  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 1.15
+  m_Color: {r: 0.9103774, g: 0.9261643, b: 1, a: 1}
+  m_Intensity: 2
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -1333,7 +1349,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -1357,7 +1373,7 @@ Transform:
   m_GameObject: {fileID: 203844586}
   serializedVersion: 2
   m_LocalRotation: {x: 0.24013603, y: -0.45827922, z: 0.130112, w: 0.8458048}
-  m_LocalPosition: {x: 3.67, y: 5.2, z: -6.36}
+  m_LocalPosition: {x: 31.54, y: 16.89, z: -6.36}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1508,6 +1524,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_B (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ad6b550833695154b8f26575f85f4085, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1570,7 +1590,7 @@ Light:
   serializedVersion: 11
   m_Type: 2
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 10
+  m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -1691,6 +1711,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Potted_Plant_B
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 224a04a1269d9f047b96fed4fb375588, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1753,6 +1777,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_B
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ad6b550833695154b8f26575f85f4085, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1814,6 +1842,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f5fa4a9facf17a742971309f04faff78, type: 3}
       propertyPath: m_Name
       value: Tree_A (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f5fa4a9facf17a742971309f04faff78, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1942,7 +1974,7 @@ Light:
   serializedVersion: 11
   m_Type: 2
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 8.28
+  m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -2124,6 +2156,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f5fa4a9facf17a742971309f04faff78, type: 3}
       propertyPath: m_Name
       value: Tree_A (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f5fa4a9facf17a742971309f04faff78, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2390,6 +2426,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_A
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f5fa4a9facf17a742971309f04faff78, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2451,6 +2491,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f5fa4a9facf17a742971309f04faff78, type: 3}
       propertyPath: m_Name
       value: Tree_A (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f5fa4a9facf17a742971309f04faff78, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2514,6 +2558,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_B (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ad6b550833695154b8f26575f85f4085, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2538,7 +2586,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1144428952
 Transform:
@@ -2625,6 +2673,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f5fa4a9facf17a742971309f04faff78, type: 3}
       propertyPath: m_Name
       value: Tree_A (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f5fa4a9facf17a742971309f04faff78, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2928,6 +2980,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_B (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ad6b550833695154b8f26575f85f4085, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3051,6 +3107,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ad6b550833695154b8f26575f85f4085, type: 3}
       propertyPath: m_Name
       value: Tree_B (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ad6b550833695154b8f26575f85f4085, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3200,6 +3260,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_A (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f5fa4a9facf17a742971309f04faff78, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3329,11 +3393,23 @@ PrefabInstance:
       value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1301678168668322570, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1301678168668322570, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2177515575232426632, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+      propertyPath: m_ReceiveGI
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2177515575232426632, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
       propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2177515575232426632, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+      propertyPath: m_LightProbeUsage
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2177515575232426632, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
@@ -3346,11 +3422,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2918905471884844716, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2918905471884844716, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4926954918474259487, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
       propertyPath: m_LocalPosition.y
       value: -0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5182745617467590480, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -22.29
       objectReference: {fileID: 0}
     - target: {fileID: 5791223543561391740, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -3364,12 +3448,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Outdoor_clean
       objectReference: {fileID: 0}
+    - target: {fileID: 8771091787928289351, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 9053333507959272228, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 2a92b6583338b424e9d2e9c5ec41f7b3, type: 2}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 2918905471884844716, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: -3283359149251651403, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
@@ -3585,7 +3674,7 @@ Light:
   serializedVersion: 11
   m_Type: 2
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 0.5
+  m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -3740,6 +3829,55 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 6893e2a9900019548ae3ef634c882485, type: 3}
   m_PrefabInstance: {fileID: 2059018018}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2067176724
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2067176726}
+  - component: {fileID: 2067176725}
+  m_Layer: 0
+  m_Name: Global Volume
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &2067176725
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2067176724}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IsGlobal: 1
+  priority: 0
+  blendDistance: 0
+  weight: 1
+  sharedProfile: {fileID: 11400000, guid: 809f18c042f878f409192eca4fa44bd7, type: 2}
+--- !u!4 &2067176726
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2067176724}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 14.4871645, y: 2.0722182, z: 1.8155258}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2104089747
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3791,6 +3929,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7ad7ef0529f663543a0daa4ee61f88b8, type: 3}
       propertyPath: m_Name
       value: Porred_Plant_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7ad7ef0529f663543a0daa4ee61f88b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3858,3 +4000,4 @@ SceneRoots:
   - {fileID: 497644237}
   - {fileID: 1970667374}
   - {fileID: 1980306955}
+  - {fileID: 2067176726}
