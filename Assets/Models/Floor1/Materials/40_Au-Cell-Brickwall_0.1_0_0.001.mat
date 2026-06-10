@@ -184,10 +184,10 @@ Material:
     - iridescenceThicknessMinimum: 100
     - iridescenceThicknessTextureRotation: 0
     - iridescenceThicknessTextureTexCoord: 0
-    - metallicFactor: 0
+    - metallicFactor: 0.318
     - metallicRoughnessTextureRotation: 0
     - metallicRoughnessTextureTexCoord: 0
-    - normalScale: 1
+    - normalScale: 0.264
     - normalTextureRotation: 0
     - normalTextureTexCoord: 0
     - occlusionStrength: 1
