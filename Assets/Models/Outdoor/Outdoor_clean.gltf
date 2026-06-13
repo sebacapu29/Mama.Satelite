@@ -328,62 +328,62 @@
 		{
 			"mimeType":"image/jpeg",
 			"name":"Swimming_Pool_Stair_H",
-			"uri":"../../Textures/Swimming_Pool_Stair_H.jpg"
+			"uri":"./Textures/Swimming_Pool_Stair_H.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Swimming_Pool_Stair_C",
-			"uri":"../../Textures/Swimming_Pool_Stair_C.jpg"
+			"uri":"./Textures/Swimming_Pool_Stair_C.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Swimming_Pool_Stair_R",
-			"uri":"../../Textures/Swimming_Pool_Stair_R.jpg"
+			"uri":"./Textures/Swimming_Pool_Stair_R.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Ground_Floor_H",
-			"uri":"../../Textures/Ground_Floor_H.jpg"
+			"uri":"./Textures/Ground_Floor_H.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Ground_Floor_C",
-			"uri":"../../Textures/Ground_Floor_C.jpg"
+			"uri":"./Textures/Ground_Floor_C.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Ground_Floor_M",
-			"uri":"../../Textures/Ground_Floor_M.jpg"
+			"uri":"./Textures/Ground_Floor_M.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Ground_H",
-			"uri":"../../Textures/Ground_H.jpg"
+			"uri":"./Textures/Ground_H.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Ground_C",
-			"uri":"../../Textures/Ground_C.jpg"
+			"uri":"./Textures/Ground_C.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Ground_R",
-			"uri":"../../Textures/Ground_R.jpg"
+			"uri":"./Textures/Ground_R.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Font_Wooden_Boundary_H",
-			"uri":"../../Textures/Font_Wooden_Boundary_H.jpg"
+			"uri":"./Textures/Font_Wooden_Boundary_H.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Font_Wooden_Boundary_C",
-			"uri":"../../Textures/Font_Wooden_Boundary_C.jpg"
+			"uri":"./Textures/Font_Wooden_Boundary_C.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"Font_Wooden_Boundary_R",
-			"uri":"../../Textures/Font_Wooden_Boundary_R.jpg"
+			"uri":"./Textures/Font_Wooden_Boundary_R.jpg"
 		}
 	],
 	"accessors":[
