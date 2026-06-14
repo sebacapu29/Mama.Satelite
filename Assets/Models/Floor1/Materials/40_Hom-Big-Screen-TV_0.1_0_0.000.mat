@@ -159,7 +159,7 @@ Material:
     - _ZTest: 4
     - _ZWrite: 1
     - _ZWriteControl: 0
-    - alphaCutoff: 0.5
+    - alphaCutoff: 0.469
     - anisotropyRotation: 0
     - anisotropyStrength: 0
     - anisotropyTextureRotation: 0
