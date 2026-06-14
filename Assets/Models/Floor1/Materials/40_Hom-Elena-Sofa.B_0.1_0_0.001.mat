@@ -201,13 +201,13 @@ Material:
     - _NormalMapFormatXYZ: 0
     - _OcclusionStrength: 1
     - _OverrideSurfaceMode: 0
-    - _Parallax: 0.0634
+    - _Parallax: 0.0102
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _SHEEN: 0
     - _SPECULAR: 1
-    - _Smoothness: 0.318
+    - _Smoothness: 0.103
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
