@@ -4751,917 +4751,917 @@
 		{
 			"mimeType":"image/png",
 			"name":"auc-table-lamp-b-normal.png",
-			"uri":"../../Textures/auc-table-lamp-b-normal.png"
+			"uri":"../Textures/auc-table-lamp-b-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"auc-table-lamp-b-color.png",
-			"uri":"../../Textures/auc-table-lamp-b-color.png"
+			"uri":"../Textures/auc-table-lamp-b-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"auc-table-lamp-b-rough.png",
-			"uri":"../../Textures/auc-table-lamp-b-rough.png"
+			"uri":"../Textures/auc-table-lamp-b-rough.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"a.png",
-			"uri":"../../Textures/a.png"
+			"uri":"../Textures/a.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"end-baskets-shelf-color.png",
-			"uri":"../../Textures/end-baskets-shelf-color.png"
+			"uri":"../Textures/end-baskets-shelf-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"end-baskets-shelf-roughness.png",
-			"uri":"../../Textures/end-baskets-shelf-roughness.png"
+			"uri":"../Textures/end-baskets-shelf-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"end-beach-bike-drake-roughness.png",
-			"uri":"../../Textures/end-beach-bike-drake-roughness.png"
+			"uri":"../Textures/end-beach-bike-drake-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"end-beach-bike-drake-normal.png",
-			"uri":"../../Textures/end-beach-bike-drake-normal.png"
+			"uri":"../Textures/end-beach-bike-drake-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"end-beach-bike-drake-color.png",
-			"uri":"../../Textures/end-beach-bike-drake-color.png"
+			"uri":"../Textures/end-beach-bike-drake-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"end-shelf-panels-wood-paint-white-color_result.jpg",
-			"uri":"../../Textures/end-shelf-panels-wood-paint-white-color_result.jpg"
+			"uri":"../Textures/end-shelf-panels-wood-paint-white-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"end-shelf-panels-wood-paint-color_result.jpg",
-			"uri":"../../Textures/end-shelf-panels-wood-paint-color_result.jpg"
+			"uri":"../Textures/end-shelf-panels-wood-paint-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"end-shelf-planks-wood-paint-normal_result.jpg",
-			"uri":"../../Textures/end-shelf-planks-wood-paint-normal_result.jpg"
+			"uri":"../Textures/end-shelf-planks-wood-paint-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"end-shelf-planks-wood-paint-white-color_result.jpg",
-			"uri":"../../Textures/end-shelf-planks-wood-paint-white-color_result.jpg"
+			"uri":"../Textures/end-shelf-planks-wood-paint-white-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"end-shelf-planks-wood-paint-roughness_result.jpg",
-			"uri":"../../Textures/end-shelf-planks-wood-paint-roughness_result.jpg"
+			"uri":"../Textures/end-shelf-planks-wood-paint-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-ammo-boxes-wood-roughness.png",
-			"uri":"../../Textures/hom-ammo-boxes-wood-roughness.png"
+			"uri":"../Textures/hom-ammo-boxes-wood-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-ammo-boxes-wood-normal.png",
-			"uri":"../../Textures/hom-ammo-boxes-wood-normal.png"
+			"uri":"../Textures/hom-ammo-boxes-wood-normal.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-ammo-boxes-wood-color_result.jpg",
-			"uri":"../../Textures/hom-ammo-boxes-wood-color_result.jpg"
+			"uri":"../Textures/hom-ammo-boxes-wood-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-antique-chest-normal_result.jpg",
-			"uri":"../../Textures/hom-antique-chest-normal_result.jpg"
+			"uri":"../Textures/hom-antique-chest-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-antique-chest-color_result.jpg",
-			"uri":"../../Textures/hom-antique-chest-color_result.jpg"
+			"uri":"../Textures/hom-antique-chest-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-antique-chest-roughness_result.jpg",
-			"uri":"../../Textures/hom-antique-chest-roughness_result.jpg"
+			"uri":"../Textures/hom-antique-chest-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-antique-wood-screen-roughness_result.jpg",
-			"uri":"../../Textures/hom-antique-wood-screen-roughness_result.jpg"
+			"uri":"../Textures/hom-antique-wood-screen-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-antique-wood-screen-color_result.jpg",
-			"uri":"../../Textures/hom-antique-wood-screen-color_result.jpg"
+			"uri":"../Textures/hom-antique-wood-screen-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-attic-box-singles-normal_result.jpg",
-			"uri":"../../Textures/hom-attic-box-singles-normal_result.jpg"
+			"uri":"../Textures/hom-attic-box-singles-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-attic-box-singles-color_result.jpg",
-			"uri":"../../Textures/hom-attic-box-singles-color_result.jpg"
+			"uri":"../Textures/hom-attic-box-singles-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-attic-box-singles-roughness_result.jpg",
-			"uri":"../../Textures/hom-attic-box-singles-roughness_result.jpg"
+			"uri":"../Textures/hom-attic-box-singles-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-attic-boxpile-01-color_result.jpg",
-			"uri":"../../Textures/hom-attic-boxpile-01-color_result.jpg"
+			"uri":"../Textures/hom-attic-boxpile-01-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-attic-boxpile-01-roughness_result.jpg",
-			"uri":"../../Textures/hom-attic-boxpile-01-roughness_result.jpg"
+			"uri":"../Textures/hom-attic-boxpile-01-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-attic-card-table-roughness_result.jpg",
-			"uri":"../../Textures/hom-attic-card-table-roughness_result.jpg"
+			"uri":"../Textures/hom-attic-card-table-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-attic-card-table-normal_result.jpg",
-			"uri":"../../Textures/hom-attic-card-table-normal_result.jpg"
+			"uri":"../Textures/hom-attic-card-table-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-attic-card-table-color_result.jpg",
-			"uri":"../../Textures/hom-attic-card-table-color_result.jpg"
+			"uri":"../Textures/hom-attic-card-table-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-attic-wallframe-insulation-wood-roughness_result.jpg",
-			"uri":"../../Textures/hom-attic-wallframe-insulation-wood-roughness_result.jpg"
+			"uri":"../Textures/hom-attic-wallframe-insulation-wood-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-attic-wallframe-insulation-wood-color_result.jpg",
-			"uri":"../../Textures/hom-attic-wallframe-insulation-wood-color_result.jpg"
+			"uri":"../Textures/hom-attic-wallframe-insulation-wood-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-bed-frame-normal_result.jpg",
-			"uri":"../../Textures/hom-bed-frame-normal_result.jpg"
+			"uri":"../Textures/hom-bed-frame-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-bed-frame-color.png",
-			"uri":"../../Textures/hom-bed-frame-color.png"
+			"uri":"../Textures/hom-bed-frame-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-bed-frame-roughness.png",
-			"uri":"../../Textures/hom-bed-frame-roughness.png"
+			"uri":"../Textures/hom-bed-frame-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-clinbing-gear-roughness.png",
-			"uri":"../../Textures/hom-clinbing-gear-roughness.png"
+			"uri":"../Textures/hom-clinbing-gear-roughness.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-clinbing-gear-normal_result.jpg",
-			"uri":"../../Textures/hom-clinbing-gear-normal_result.jpg"
+			"uri":"../Textures/hom-clinbing-gear-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-clinbing-gear-color.png",
-			"uri":"../../Textures/hom-clinbing-gear-color.png"
+			"uri":"../Textures/hom-clinbing-gear-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-clinbing-shoes-normal.png",
-			"uri":"../../Textures/hom-clinbing-shoes-normal.png"
+			"uri":"../Textures/hom-clinbing-shoes-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-clinbing-shoes-color.png",
-			"uri":"../../Textures/hom-clinbing-shoes-color.png"
+			"uri":"../Textures/hom-clinbing-shoes-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-clinbing-shoes-roughness.png",
-			"uri":"../../Textures/hom-clinbing-shoes-roughness.png"
+			"uri":"../Textures/hom-clinbing-shoes-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-drake-laptop-01-roughness.png",
-			"uri":"../../Textures/hom-drake-laptop-01-roughness.png"
+			"uri":"../Textures/hom-drake-laptop-01-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-drake-laptop-01-normal.png",
-			"uri":"../../Textures/hom-drake-laptop-01-normal.png"
+			"uri":"../Textures/hom-drake-laptop-01-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-drake-laptop-01-color.png",
-			"uri":"../../Textures/hom-drake-laptop-01-color.png"
+			"uri":"../Textures/hom-drake-laptop-01-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-drake-laptop-02-color.png",
-			"uri":"../../Textures/hom-drake-laptop-02-color.png"
+			"uri":"../Textures/hom-drake-laptop-02-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-electric-outlets-roughness.png",
-			"uri":"../../Textures/hom-electric-outlets-roughness.png"
+			"uri":"../Textures/hom-electric-outlets-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-electric-outlets-normal.png",
-			"uri":"../../Textures/hom-electric-outlets-normal.png"
+			"uri":"../Textures/hom-electric-outlets-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-electric-outlets-color.png",
-			"uri":"../../Textures/hom-electric-outlets-color.png"
+			"uri":"../Textures/hom-electric-outlets-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-elena-binder-box-alt-var-normal_result.jpg",
-			"uri":"../../Textures/hom-elena-binder-box-alt-var-normal_result.jpg"
+			"uri":"../Textures/hom-elena-binder-box-alt-var-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-elena-binder-box-color-alt-var_result.jpg",
-			"uri":"../../Textures/hom-elena-binder-box-color-alt-var_result.jpg"
+			"uri":"../Textures/hom-elena-binder-box-color-alt-var_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-elena-binder-box-alt-var-roughness_result.jpg",
-			"uri":"../../Textures/hom-elena-binder-box-alt-var-roughness_result.jpg"
+			"uri":"../Textures/hom-elena-binder-box-alt-var-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-elena-binder-box-roughness_result.jpg",
-			"uri":"../../Textures/hom-elena-binder-box-roughness_result.jpg"
+			"uri":"../Textures/hom-elena-binder-box-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-elena-binder-box-normal_result.jpg",
-			"uri":"../../Textures/hom-elena-binder-box-normal_result.jpg"
+			"uri":"../Textures/hom-elena-binder-box-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-elena-binder-box-color-alt_result.jpg",
-			"uri":"../../Textures/hom-elena-binder-box-color-alt_result.jpg"
+			"uri":"../Textures/hom-elena-binder-box-color-alt_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-first-aid-kit-metal-roughness_result.jpg",
-			"uri":"../../Textures/hom-first-aid-kit-metal-roughness_result.jpg"
+			"uri":"../Textures/hom-first-aid-kit-metal-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-first-aid-kit-metal-normal_result.jpg",
-			"uri":"../../Textures/hom-first-aid-kit-metal-normal_result.jpg"
+			"uri":"../Textures/hom-first-aid-kit-metal-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-first-aid-kit-metal-color_result.jpg",
-			"uri":"../../Textures/hom-first-aid-kit-metal-color_result.jpg"
+			"uri":"../Textures/hom-first-aid-kit-metal-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-golden-turtle-normal.png",
-			"uri":"../../Textures/hom-golden-turtle-normal.png"
+			"uri":"../Textures/hom-golden-turtle-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-golden-turtle-color.png",
-			"uri":"../../Textures/hom-golden-turtle-color.png"
+			"uri":"../Textures/hom-golden-turtle-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-golden-turtle-roughness.png",
-			"uri":"../../Textures/hom-golden-turtle-roughness.png"
+			"uri":"../Textures/hom-golden-turtle-roughness.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-kitchen-cabinets-wood-dark-color_result.jpg",
-			"uri":"../../Textures/hom-kitchen-cabinets-wood-dark-color_result.jpg"
+			"uri":"../Textures/hom-kitchen-cabinets-wood-dark-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-kitchen-cabinets-wood-color_result.jpg",
-			"uri":"../../Textures/hom-kitchen-cabinets-wood-color_result.jpg"
+			"uri":"../Textures/hom-kitchen-cabinets-wood-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-leather-suitcase-roughness.png",
-			"uri":"../../Textures/hom-leather-suitcase-roughness.png"
+			"uri":"../Textures/hom-leather-suitcase-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-leather-suitcase-normal.png",
-			"uri":"../../Textures/hom-leather-suitcase-normal.png"
+			"uri":"../Textures/hom-leather-suitcase-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-leather-suitcase-color.png",
-			"uri":"../../Textures/hom-leather-suitcase-color.png"
+			"uri":"../Textures/hom-leather-suitcase-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-magazine-pile-color_result.jpg",
-			"uri":"../../Textures/hom-magazine-pile-color_result.jpg"
+			"uri":"../Textures/hom-magazine-pile-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-magazine-pile-roughness_result.jpg",
-			"uri":"../../Textures/hom-magazine-pile-roughness_result.jpg"
+			"uri":"../Textures/hom-magazine-pile-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-metal-trunk-normal_result.jpg",
-			"uri":"../../Textures/hom-metal-trunk-normal_result.jpg"
+			"uri":"../Textures/hom-metal-trunk-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-metal-trunk-color_result.jpg",
-			"uri":"../../Textures/hom-metal-trunk-color_result.jpg"
+			"uri":"../Textures/hom-metal-trunk-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-metal-trunk-roughness_result.jpg",
-			"uri":"../../Textures/hom-metal-trunk-roughness_result.jpg"
+			"uri":"../Textures/hom-metal-trunk-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-old-gas-lamp-roughness.png",
-			"uri":"../../Textures/hom-old-gas-lamp-roughness.png"
+			"uri":"../Textures/hom-old-gas-lamp-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-old-gas-lamp-normal.png",
-			"uri":"../../Textures/hom-old-gas-lamp-normal.png"
+			"uri":"../Textures/hom-old-gas-lamp-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-old-gas-lamp-color.png",
-			"uri":"../../Textures/hom-old-gas-lamp-color.png"
+			"uri":"../Textures/hom-old-gas-lamp-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-paint-container-set-roughness_result.jpg",
-			"uri":"../../Textures/hom-paint-container-set-roughness_result.jpg"
+			"uri":"../Textures/hom-paint-container-set-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-paint-container-set-normal_result.jpg",
-			"uri":"../../Textures/hom-paint-container-set-normal_result.jpg"
+			"uri":"../Textures/hom-paint-container-set-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-paint-container-set-color_result.jpg",
-			"uri":"../../Textures/hom-paint-container-set-color_result.jpg"
+			"uri":"../Textures/hom-paint-container-set-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-parka-roughness_result.jpg",
-			"uri":"../../Textures/hom-parka-roughness_result.jpg"
+			"uri":"../Textures/hom-parka-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-parka-color_result.jpg",
-			"uri":"../../Textures/hom-parka-color_result.jpg"
+			"uri":"../Textures/hom-parka-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-pelican-trunk-roughness.png",
-			"uri":"../../Textures/hom-pelican-trunk-roughness.png"
+			"uri":"../Textures/hom-pelican-trunk-roughness.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-pelican-trunk-normal_result.jpg",
-			"uri":"../../Textures/hom-pelican-trunk-normal_result.jpg"
+			"uri":"../Textures/hom-pelican-trunk-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-pelican-trunk-color_result.jpg",
-			"uri":"../../Textures/hom-pelican-trunk-color_result.jpg"
+			"uri":"../Textures/hom-pelican-trunk-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-rug-yemen-spec-mask_result.jpg",
-			"uri":"../../Textures/hom-rug-yemen-spec-mask_result.jpg"
+			"uri":"../Textures/hom-rug-yemen-spec-mask_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-rug-yemen-color_result.jpg",
-			"uri":"../../Textures/hom-rug-yemen-color_result.jpg"
+			"uri":"../Textures/hom-rug-yemen-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-salvage-pallet-crates-roughness_result.jpg",
-			"uri":"../../Textures/hom-salvage-pallet-crates-roughness_result.jpg"
+			"uri":"../Textures/hom-salvage-pallet-crates-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-salvage-pallet-crates-normal_result.jpg",
-			"uri":"../../Textures/hom-salvage-pallet-crates-normal_result.jpg"
+			"uri":"../Textures/hom-salvage-pallet-crates-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-salvage-pallet-crates-color_result.jpg",
-			"uri":"../../Textures/hom-salvage-pallet-crates-color_result.jpg"
+			"uri":"../Textures/hom-salvage-pallet-crates-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-shelf-metal-roughness_result.jpg",
-			"uri":"../../Textures/hom-shelf-metal-roughness_result.jpg"
+			"uri":"../Textures/hom-shelf-metal-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-shelf-metal-normal_result.jpg",
-			"uri":"../../Textures/hom-shelf-metal-normal_result.jpg"
+			"uri":"../Textures/hom-shelf-metal-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-shelf-metal-color_result.jpg",
-			"uri":"../../Textures/hom-shelf-metal-color_result.jpg"
+			"uri":"../Textures/hom-shelf-metal-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-shoes-nate-04-color.png",
-			"uri":"../../Textures/hom-shoes-nate-04-color.png"
+			"uri":"../Textures/hom-shoes-nate-04-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-shoes-nate-04-rough.png",
-			"uri":"../../Textures/hom-shoes-nate-04-rough.png"
+			"uri":"../Textures/hom-shoes-nate-04-rough.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-sleeping-bag-rolls-roughness.png",
-			"uri":"../../Textures/hom-sleeping-bag-rolls-roughness.png"
+			"uri":"../Textures/hom-sleeping-bag-rolls-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-sleeping-bag-rolls-color.png",
-			"uri":"../../Textures/hom-sleeping-bag-rolls-color.png"
+			"uri":"../Textures/hom-sleeping-bag-rolls-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-snow-shovel-normal.png",
-			"uri":"../../Textures/hom-snow-shovel-normal.png"
+			"uri":"../Textures/hom-snow-shovel-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-snow-shovel-color.png",
-			"uri":"../../Textures/hom-snow-shovel-color.png"
+			"uri":"../Textures/hom-snow-shovel-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-snow-shovel-roughness.png",
-			"uri":"../../Textures/hom-snow-shovel-roughness.png"
+			"uri":"../Textures/hom-snow-shovel-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-stack-mail-roughness.png",
-			"uri":"../../Textures/hom-stack-mail-roughness.png"
+			"uri":"../Textures/hom-stack-mail-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-stack-mail-color.png",
-			"uri":"../../Textures/hom-stack-mail-color.png"
+			"uri":"../Textures/hom-stack-mail-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-stained-glass-lamp-normal_result.jpg",
-			"uri":"../../Textures/hom-stained-glass-lamp-normal_result.jpg"
+			"uri":"../Textures/hom-stained-glass-lamp-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-stained-glass-lamp-color.png",
-			"uri":"../../Textures/hom-stained-glass-lamp-color.png"
+			"uri":"../Textures/hom-stained-glass-lamp-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-stained-glass-lamp-roughness.png",
-			"uri":"../../Textures/hom-stained-glass-lamp-roughness.png"
+			"uri":"../Textures/hom-stained-glass-lamp-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-tacklebox-normal.png",
-			"uri":"../../Textures/hom-tacklebox-normal.png"
+			"uri":"../Textures/hom-tacklebox-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-tacklebox-color.png",
-			"uri":"../../Textures/hom-tacklebox-color.png"
+			"uri":"../Textures/hom-tacklebox-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-tacklebox-roughness.png",
-			"uri":"../../Textures/hom-tacklebox-roughness.png"
+			"uri":"../Textures/hom-tacklebox-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-tibet-mask-color.png",
-			"uri":"../../Textures/hom-tibet-mask-color.png"
+			"uri":"../Textures/hom-tibet-mask-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-tibet-mask-roughness..png",
-			"uri":"../../Textures/hom-tibet-mask-roughness..png"
+			"uri":"../Textures/hom-tibet-mask-roughness..png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-townhome-concrete-color_result.jpg",
-			"uri":"../../Textures/hom-townhome-concrete-color_result.jpg"
+			"uri":"../Textures/hom-townhome-concrete-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-townhome-concrete-rough_result.jpg",
-			"uri":"../../Textures/hom-townhome-concrete-rough_result.jpg"
+			"uri":"../Textures/hom-townhome-concrete-rough_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-trim-basic-roughness.png",
-			"uri":"../../Textures/hom-trim-basic-roughness.png"
+			"uri":"../Textures/hom-trim-basic-roughness.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-trim-baseboard-normal_result.jpg",
-			"uri":"../../Textures/hom-trim-baseboard-normal_result.jpg"
+			"uri":"../Textures/hom-trim-baseboard-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-trim-set-deco-mask_result.jpg",
-			"uri":"../../Textures/hom-trim-set-deco-mask_result.jpg"
+			"uri":"../Textures/hom-trim-set-deco-mask_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-trim-basic-black-color.png",
-			"uri":"../../Textures/hom-trim-basic-black-color.png"
+			"uri":"../Textures/hom-trim-basic-black-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-vintage-books-adventure-roughness_result.jpg",
-			"uri":"../../Textures/hom-vintage-books-adventure-roughness_result.jpg"
+			"uri":"../Textures/hom-vintage-books-adventure-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-vintage-books-adventure-normal_result.jpg",
-			"uri":"../../Textures/hom-vintage-books-adventure-normal_result.jpg"
+			"uri":"../Textures/hom-vintage-books-adventure-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-vintage-books-adventure-color_result.jpg",
-			"uri":"../../Textures/hom-vintage-books-adventure-color_result.jpg"
+			"uri":"../Textures/hom-vintage-books-adventure-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-vintage-books-roughness_result.jpg",
-			"uri":"../../Textures/hom-vintage-books-roughness_result.jpg"
+			"uri":"../Textures/hom-vintage-books-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-vintage-books-color_result.jpg",
-			"uri":"../../Textures/hom-vintage-books-color_result.jpg"
+			"uri":"../Textures/hom-vintage-books-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-vintage-tins-roughness_result.jpg",
-			"uri":"../../Textures/hom-vintage-tins-roughness_result.jpg"
+			"uri":"../Textures/hom-vintage-tins-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-vintage-tins-normal_result.jpg",
-			"uri":"../../Textures/hom-vintage-tins-normal_result.jpg"
+			"uri":"../Textures/hom-vintage-tins-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-vintage-tins-color_result.jpg",
-			"uri":"../../Textures/hom-vintage-tins-color_result.jpg"
+			"uri":"../Textures/hom-vintage-tins-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-wood-crates-med-roughness.png",
-			"uri":"../../Textures/hom-wood-crates-med-roughness.png"
+			"uri":"../Textures/hom-wood-crates-med-roughness.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-wood-crates-med-normal_result.jpg",
-			"uri":"../../Textures/hom-wood-crates-med-normal_result.jpg"
+			"uri":"../Textures/hom-wood-crates-med-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-wood-crates-med-color_result.jpg",
-			"uri":"../../Textures/hom-wood-crates-med-color_result.jpg"
+			"uri":"../Textures/hom-wood-crates-med-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-sanxingui-stickeye-color.png",
-			"uri":"../../Textures/hom-sanxingui-stickeye-color.png"
+			"uri":"../Textures/hom-sanxingui-stickeye-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-sanxingui-stickeye-roughness.png",
-			"uri":"../../Textures/hom-sanxingui-stickeye-roughness.png"
+			"uri":"../Textures/hom-sanxingui-stickeye-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-u3-col-soup-ladle-color.png",
-			"uri":"../../Textures/hom-u3-col-soup-ladle-color.png"
+			"uri":"../Textures/hom-u3-col-soup-ladle-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-u3-col-soup-ladle-roughness.png",
-			"uri":"../../Textures/hom-u3-col-soup-ladle-roughness.png"
+			"uri":"../Textures/hom-u3-col-soup-ladle-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-u3-gudea-statue-roughness.png",
-			"uri":"../../Textures/hom-u3-gudea-statue-roughness.png"
+			"uri":"../Textures/hom-u3-gudea-statue-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-u3-gudea-statue-color.png",
-			"uri":"../../Textures/hom-u3-gudea-statue-color.png"
+			"uri":"../Textures/hom-u3-gudea-statue-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"off-filing-cabinet-short-normal_result.jpg",
-			"uri":"../../Textures/off-filing-cabinet-short-normal_result.jpg"
+			"uri":"../Textures/off-filing-cabinet-short-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"off-filing-cabinet-short-color_result.jpg",
-			"uri":"../../Textures/off-filing-cabinet-short-color_result.jpg"
+			"uri":"../Textures/off-filing-cabinet-short-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"off-filing-cabinet-short-roughness.png",
-			"uri":"../../Textures/off-filing-cabinet-short-roughness.png"
+			"uri":"../Textures/off-filing-cabinet-short-roughness.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"off-filing-cabinet-tall-roughness.png",
-			"uri":"../../Textures/off-filing-cabinet-tall-roughness.png"
+			"uri":"../Textures/off-filing-cabinet-tall-roughness.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"off-filing-cabinet-tall-normal_result.jpg",
-			"uri":"../../Textures/off-filing-cabinet-tall-normal_result.jpg"
+			"uri":"../Textures/off-filing-cabinet-tall-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"off-filing-cabinet-tall-color_result.jpg",
-			"uri":"../../Textures/off-filing-cabinet-tall-color_result.jpg"
+			"uri":"../Textures/off-filing-cabinet-tall-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"off-magazine-pile-roughness_result.jpg",
-			"uri":"../../Textures/off-magazine-pile-roughness_result.jpg"
+			"uri":"../Textures/off-magazine-pile-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"off-magazine-pile-color_result.jpg",
-			"uri":"../../Textures/off-magazine-pile-color_result.jpg"
+			"uri":"../Textures/off-magazine-pile-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"off-ropes-winches-roughness_result.jpg",
-			"uri":"../../Textures/off-ropes-winches-roughness_result.jpg"
+			"uri":"../Textures/off-ropes-winches-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"off-ropes-winches-normal_result.jpg",
-			"uri":"../../Textures/off-ropes-winches-normal_result.jpg"
+			"uri":"../Textures/off-ropes-winches-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"off-ropes-winches-color_result.jpg",
-			"uri":"../../Textures/off-ropes-winches-color_result.jpg"
+			"uri":"../Textures/off-ropes-winches-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"off-glass-smear-basic-trans-mask_result.jpg",
-			"uri":"../../Textures/off-glass-smear-basic-trans-mask_result.jpg"
+			"uri":"../Textures/off-glass-smear-basic-trans-mask_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"off-glass-smear-basic-color_result.jpg",
-			"uri":"../../Textures/off-glass-smear-basic-color_result.jpg"
+			"uri":"../Textures/off-glass-smear-basic-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"auc-cell-wood-normal_result.jpg",
-			"uri":"../../Textures/auc-cell-wood-normal_result.jpg"
+			"uri":"../Textures/auc-cell-wood-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"auc-cell-metal-color.png",
-			"uri":"../../Textures/auc-cell-metal-color.png"
+			"uri":"../Textures/auc-cell-metal-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-townhome-wide-tile-color_result.jpg",
-			"uri":"../../Textures/hom-townhome-wide-tile-color_result.jpg"
+			"uri":"../Textures/hom-townhome-wide-tile-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"aml-bed-a-02-normal_result.jpg",
-			"uri":"../../Textures/aml-bed-a-02-normal_result.jpg"
+			"uri":"../Textures/aml-bed-a-02-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"aml-bed-a-02-color_result.jpg",
-			"uri":"../../Textures/aml-bed-a-02-color_result.jpg"
+			"uri":"../Textures/aml-bed-a-02-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"auc-cell-picture-frame-color_result.jpg",
-			"uri":"../../Textures/auc-cell-picture-frame-color_result.jpg"
+			"uri":"../Textures/auc-cell-picture-frame-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"auc-study-rug-wave-normal.png",
-			"uri":"../../Textures/auc-study-rug-wave-normal.png"
+			"uri":"../Textures/auc-study-rug-wave-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"auc-study-picture-canvas-01-color.png",
-			"uri":"../../Textures/auc-study-picture-canvas-01-color.png"
+			"uri":"../Textures/auc-study-picture-canvas-01-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"div-painted-metal-color.png",
-			"uri":"../../Textures/div-painted-metal-color.png"
+			"uri":"../Textures/div-painted-metal-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"end-canvas-tarp-normal_result.jpg",
-			"uri":"../../Textures/end-canvas-tarp-normal_result.jpg"
+			"uri":"../Textures/end-canvas-tarp-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"end-canvas-tarp-color_result.jpg",
-			"uri":"../../Textures/end-canvas-tarp-color_result.jpg"
+			"uri":"../Textures/end-canvas-tarp-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"end-shelf-panels-wood-paint-white-color_result.jpg",
-			"uri":"../../Textures/end-shelf-panels-wood-paint-white-color_result.jpg"
+			"uri":"../Textures/end-shelf-panels-wood-paint-white-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"end-stripe-pattern-01-color.png",
-			"uri":"../../Textures/end-stripe-pattern-01-color.png"
+			"uri":"../Textures/end-stripe-pattern-01-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"end-table-wood-normal_result.jpg",
-			"uri":"../../Textures/end-table-wood-normal_result.jpg"
+			"uri":"../Textures/end-table-wood-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"end-table-wood-color_result.jpg",
-			"uri":"../../Textures/end-table-wood-color_result.jpg"
+			"uri":"../Textures/end-table-wood-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-curtains-normal_result.jpg",
-			"uri":"../../Textures/hom-curtains-normal_result.jpg"
+			"uri":"../Textures/hom-curtains-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-curtain-yellow-color.png",
-			"uri":"../../Textures/hom-curtain-yellow-color.png"
+			"uri":"../Textures/hom-curtain-yellow-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-marker-label-u1-mask.png",
-			"uri":"../../Textures/hom-marker-label-u1-mask.png"
+			"uri":"../Textures/hom-marker-label-u1-mask.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-marker-label-u2-mask.png",
-			"uri":"../../Textures/hom-marker-label-u2-mask.png"
+			"uri":"../Textures/hom-marker-label-u2-mask.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-picture-art-nature-color_result.jpg",
-			"uri":"../../Textures/hom-picture-art-nature-color_result.jpg"
+			"uri":"../Textures/hom-picture-art-nature-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-picture-family-photo-color_result.jpg",
-			"uri":"../../Textures/hom-picture-family-photo-color_result.jpg"
+			"uri":"../Textures/hom-picture-family-photo-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-picture-travel-color_result.jpg",
-			"uri":"../../Textures/hom-picture-travel-color_result.jpg"
+			"uri":"../Textures/hom-picture-travel-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-travel-posters-a-color_result.jpg",
-			"uri":"../../Textures/hom-travel-posters-a-color_result.jpg"
+			"uri":"../Textures/hom-travel-posters-a-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-wood-color_result.jpg",
-			"uri":"../../Textures/hom-wood-color_result.jpg"
+			"uri":"../Textures/hom-wood-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"off-wall-clutter-01-color.png",
-			"uri":"../../Textures/off-wall-clutter-01-color.png"
+			"uri":"../Textures/off-wall-clutter-01-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"shi-rope-01-color.png",
-			"uri":"../../Textures/shi-rope-01-color.png"
+			"uri":"../Textures/shi-rope-01-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"sun-chainlink-normal.png",
-			"uri":"../../Textures/sun-chainlink-normal.png"
+			"uri":"../Textures/sun-chainlink-normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"sun-chainlink-color.png",
-			"uri":"../../Textures/sun-chainlink-color.png"
+			"uri":"../Textures/sun-chainlink-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"sun-floor-wood-pieces-01-color_result.jpg",
-			"uri":"../../Textures/sun-floor-wood-pieces-01-color_result.jpg"
+			"uri":"../Textures/sun-floor-wood-pieces-01-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"uni-lab-books-color_result.jpg",
-			"uri":"../../Textures/uni-lab-books-color_result.jpg"
+			"uri":"../Textures/uni-lab-books-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-attic-boxpile-02-color_result.jpg",
-			"uri":"../../Textures/hom-attic-boxpile-02-color_result.jpg"
+			"uri":"../Textures/hom-attic-boxpile-02-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-attic-boxpile-02-color_result.jpg",
-			"uri":"../../Textures/hom-attic-boxpile-02-color_result.jpg"
+			"uri":"../Textures/hom-attic-boxpile-02-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-attic-boxpile-03-color_result.jpg",
-			"uri":"../../Textures/hom-attic-boxpile-03-color_result.jpg"
+			"uri":"../Textures/hom-attic-boxpile-03-color_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-bathroom-cabinets-wood-color_result.jpg",
-			"uri":"../../Textures/hom-bathroom-cabinets-wood-color_result.jpg"
+			"uri":"../Textures/hom-bathroom-cabinets-wood-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-camping-backpack-color.png",
-			"uri":"../../Textures/hom-camping-backpack-color.png"
+			"uri":"../Textures/hom-camping-backpack-color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-marker-label-u3-mask.png",
-			"uri":"../../Textures/hom-marker-label-u3-mask.png"
+			"uri":"../Textures/hom-marker-label-u3-mask.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-rug-persian-color_result.jpg",
-			"uri":"../../Textures/hom-rug-persian-color_result.jpg"
+			"uri":"../Textures/hom-rug-persian-color_result.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"hom-rafter-insulation-color.png",
-			"uri":"../../Textures/hom-rafter-insulation-color.png"
+			"uri":"../Textures/hom-rafter-insulation-color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-attic-ladder-roughness_result.jpg",
-			"uri":"../../Textures/hom-attic-ladder-roughness_result.jpg"
+			"uri":"../Textures/hom-attic-ladder-roughness_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-attic-ladder-normal_result.jpg",
-			"uri":"../../Textures/hom-attic-ladder-normal_result.jpg"
+			"uri":"../Textures/hom-attic-ladder-normal_result.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"hom-attic-ladder-color_result.jpg",
-			"uri":"../../Textures/hom-attic-ladder-color_result.jpg"
+			"uri":"../Textures/hom-attic-ladder-color_result.jpg"
 		}
 	],
 	"accessors":[
