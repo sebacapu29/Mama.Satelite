@@ -197,6 +197,7 @@ MonoBehaviour:
   rotacionMaximaArriba: 90
   distanciaAgarrar: 2
   fosforo: {fileID: 2050294917256488560}
+  playerRenderer: {fileID: 8578967298093827688}
 --- !u!54 &7461803116299906245
 Rigidbody:
   m_ObjectHideFlags: 0

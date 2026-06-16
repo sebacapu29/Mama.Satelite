@@ -16,7 +16,11 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float distanciaAgarrar = 2f; // Distancia adelante de la cámara
 
     [Header("Fosforo")]
-    [SerializeField] private GameObject fosforo; // Referencia al GameObject del fosforo
+    [SerializeField] private GameObject fosforo;
+
+    [Header("Esconderse")]
+    [SerializeField] private Renderer playerRenderer;
+    [SerializeField] private VisionEffect visionEffect;
 
     private Rigidbody rb;
     private Transform cameraHolder;
@@ -26,6 +30,13 @@ public class PlayerMovement : MonoBehaviour
     // private bool estaEnSuelo = true;
     private float rotacionX = 0f;
     
+    private bool isHiding;
+    public bool IsHiding => isHiding;
+
+    private Vector3 savedPosition;
+    private Quaternion savedRotation;
+    private float savedRotacionX;
+
     // Variables para agarrar objetos
     private GameObject objetoAgarrado;
     private Rigidbody rbObjeto;
@@ -79,17 +90,18 @@ public class PlayerMovement : MonoBehaviour
         float mouseX = mouseDelta.x * sensibilidadMouse;
         float mouseY = mouseDelta.y * sensibilidadMouse;
 
-        // Rotación horizontal (cuerpo del jugador)
+        // Rotación horizontal (cuerpo del jugador) — siempre activa
         transform.Rotate(Vector3.up * mouseX);
 
-        // Rotación vertical (cámara)
-        rotacionX -= mouseY;
-        rotacionX = Mathf.Clamp(rotacionX, -rotacionMaximaArriba, rotacionMaximaArriba);
+        // Rotación vertical — bloqueada mientras el jugador está escondido
+        if (!isHiding)
+        {
+            rotacionX -= mouseY;
+            rotacionX = Mathf.Clamp(rotacionX, -rotacionMaximaArriba, rotacionMaximaArriba);
+        }
 
         if (cameraHolder != null)
-        {
             cameraHolder.localRotation = Quaternion.Euler(rotacionX, 0f, 0f);
-        }
 
         // Bloquear/desbloquear cursor con ESC
         if (Keyboard.current[Key.Escape].wasPressedThisFrame)
@@ -108,14 +120,15 @@ public class PlayerMovement : MonoBehaviour
             fosforo.SetActive(true);
         }
 
-        // Input para agarrar/soltar con E
         if (Keyboard.current[Key.E].wasPressedThisFrame)
         {
-            if (objetoAgarrado != null)
-            {
+            if (isHiding)
+                ExitHiding();
+            else if (objetoAgarrado != null)
                 SoltarObjeto();
-            }
         }
+
+        if (isHiding) return;
 
         // Obtener input de movimiento
         float inputX = 0f;
@@ -238,6 +251,45 @@ public class PlayerMovement : MonoBehaviour
         objetoAgarrado = null;
         rbObjeto = null;
         colliderObjeto = null;
+    }
+
+    public void EnterHiding(Transform hidePoint)
+    {
+        if (isHiding) return;
+        isHiding = true;
+
+        savedPosition = transform.position;
+        savedRotation = transform.rotation;
+        savedRotacionX = rotacionX;
+
+        rb.isKinematic = true;
+        rb.linearVelocity = Vector3.zero;
+
+        float hideYaw = hidePoint.eulerAngles.y;
+        transform.SetPositionAndRotation(hidePoint.position, Quaternion.Euler(0f, hideYaw, 0f));
+        rotacionX = 0f;
+        if (cameraHolder != null)
+            cameraHolder.localRotation = Quaternion.identity;
+
+        if (playerRenderer != null)
+            playerRenderer.enabled = false;
+
+        if (visionEffect != null) visionEffect.SetHideEffect(true);
+    }
+
+    public void ExitHiding()
+    {
+        if (!isHiding) return;
+        isHiding = false;
+
+        rb.isKinematic = false;
+        transform.SetPositionAndRotation(savedPosition, savedRotation);
+        rotacionX = savedRotacionX;
+
+        if (playerRenderer != null)
+            playerRenderer.enabled = true;
+
+        if (visionEffect != null) visionEffect.SetHideEffect(false);
     }
 
     void ActualizarPosicionObjeto()
