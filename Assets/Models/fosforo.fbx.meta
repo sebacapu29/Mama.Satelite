@@ -18,32 +18,32 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: madera_Albedo
-    second: {fileID: 2800000, guid: 0a3024d0caf98244cb8fdc98332b3aa7, type: 3}
+    second: {fileID: 2800000, guid: 0a34683520f1d42459be2fcc18dfdf6a, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: madera_Metal
-    second: {fileID: 2800000, guid: a4f6371324e4cca48a5bbf893b0de9ef, type: 3}
+    second: {fileID: 2800000, guid: a3331431a23c9bd4b9f8b99a54141005, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: madera_Normal
-    second: {fileID: 2800000, guid: 5657462402f7e4c4db74b3a9c2d32fbc, type: 3}
+    second: {fileID: 2800000, guid: ec8554d68bea601478ecb2e3d457b10a, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: parte-roja_Albedo
-    second: {fileID: 2800000, guid: 5c68eb701e45f17469bc7c4255ae85d6, type: 3}
+    second: {fileID: 2800000, guid: 70429111bae2e4e47a243a130d832870, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: parte-roja_Metal
-    second: {fileID: 2800000, guid: 32b74c120ce884b419240a9e5f3015aa, type: 3}
+    second: {fileID: 2800000, guid: f8eea1bf498ca3b47add54e9fe8e0a35, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: parte-roja_Normal
-    second: {fileID: 2800000, guid: 391eecddb8db6ee498bbe50ae2315b6e, type: 3}
+    second: {fileID: 2800000, guid: 392160b51cb22304dab243ebfdc7a1f4, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
