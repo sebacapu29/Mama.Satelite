@@ -9,17 +9,17 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Scenes/Floor1.unity
-    guid: fba458b52b56ef142bbc43717591b4bc
-  - enabled: 1
-    path: Assets/Scenes/Outdoor.unity
-    guid: 97e2c7253cd232548a07ecc2b5bf9f3e
-  - enabled: 1
     path: Assets/Scenes/Floor3.unity
     guid: 2dd4fb4673af4cf48abf524de0913126
   - enabled: 1
     path: Assets/Scenes/Floor2.unity
     guid: add3fd2b968cbbf4e97b1a6cb2adad0a
+  - enabled: 1
+    path: Assets/Scenes/Floor1.unity
+    guid: fba458b52b56ef142bbc43717591b4bc
+  - enabled: 1
+    path: Assets/Scenes/Outdoor.unity
+    guid: 97e2c7253cd232548a07ecc2b5bf9f3e
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
