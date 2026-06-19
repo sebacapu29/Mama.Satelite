@@ -1049,7 +1049,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &232799624
 Transform:
   m_ObjectHideFlags: 0
@@ -8545,12 +8545,20 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 762018509894163493, guid: 0b2165f69fd5f874d92e3265e8847ef2, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.75033
+      objectReference: {fileID: 0}
+    - target: {fileID: 762018509894163493, guid: 0b2165f69fd5f874d92e3265e8847ef2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 762018509894163493, guid: 0b2165f69fd5f874d92e3265e8847ef2, type: 3}
       propertyPath: m_LocalPosition.y
       value: 2.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 2050294917256488560, guid: 0b2165f69fd5f874d92e3265e8847ef2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2610917023351501801, guid: 0b2165f69fd5f874d92e3265e8847ef2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10310,9 +10318,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2751350158237049283, guid: 0bf33b99c38e837448a3f616eb87cf93, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2933733226555903604, guid: 0bf33b99c38e837448a3f616eb87cf93, type: 3}
       propertyPath: m_Name
       value: CanvasUI
+      objectReference: {fileID: 0}
+    - target: {fileID: 7740769401492193922, guid: 0bf33b99c38e837448a3f616eb87cf93, type: 3}
+      propertyPath: m_text
+      value: Interaccion
       objectReference: {fileID: 0}
     - target: {fileID: 8662627135096268336, guid: 0bf33b99c38e837448a3f616eb87cf93, type: 3}
       propertyPath: m_Pivot.x
