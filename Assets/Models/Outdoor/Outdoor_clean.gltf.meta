@@ -1,75 +1,169 @@
 fileFormatVersion: 2
 guid: b8e26380b2089f045a83bf8fdafd8491
+importerOverride:
+  nativeImporterType: 2089858483
+  scriptedImporterType:
+    serializedVersion: 2
+    Hash: b0f0efd5afe97376296c08894c84a3f1
 ScriptedImporter:
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default
+    second: {fileID: 2100000, guid: 315094c8f526dac4a93302b1d94ab7c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ground-1
+    second: {fileID: 2100000, guid: 8a3c114c5aa571e469e76d84ce1f6135, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ground_Floor-1
+    second: {fileID: 2100000, guid: a10c5ecd554df7b41b694bd681929e49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Swimming_Pool_Stair-1
+    second: {fileID: 2100000, guid: e93edad345f41024db1a4d46e1aff9c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Swimming_Pool_Water-1
+    second: {fileID: 2100000, guid: fbbf9fd5b52dad54d89283192576313f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wooden_Boundary-1
+    second: {fileID: 2100000, guid: 2a92b6583338b424e9d2e9c5ec41f7b3, type: 2}
   serializedVersion: 2
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
-  editorImportSettings:
-    generateSecondaryUVSet: 0
-  importSettings:
-    nodeNameMethod: 1
-    animationMethod: 2
-    generateMipMaps: 1
-    texturesReadable: 0
-    defaultMinFilterMode: 9729
-    defaultMagFilterMode: 9729
-    anisotropicFilterLevel: 1
-  instantiationSettings:
-    mask: -1
-    layer: 0
-    skinUpdateWhenOffscreen: 1
-    lightIntensityFactor: 1
-    sceneObjectCreation: 2
-  assetDependencies:
-  - type: 0
-    originalUri: Assets\Models\Outdoor\Outdoor_clean.bin
-    assetPath: Assets\Models\Outdoor\Outdoor_clean.bin
-  - type: 1
-    originalUri: Assets\Models\Outdoor\Textures\Swimming_Pool_Stair_H.jpg
-    assetPath: Assets\Models\Outdoor\Textures\Swimming_Pool_Stair_H.jpg
-  - type: 1
-    originalUri: Assets\Models\Outdoor\Textures\Swimming_Pool_Stair_C.jpg
-    assetPath: Assets\Models\Outdoor\Textures\Swimming_Pool_Stair_C.jpg
-  - type: 1
-    originalUri: Assets\Models\Outdoor\Textures\Swimming_Pool_Stair_R.jpg
-    assetPath: Assets\Models\Outdoor\Textures\Swimming_Pool_Stair_R.jpg
-  - type: 1
-    originalUri: Assets\Models\Outdoor\Textures\Ground_Floor_H.jpg
-    assetPath: Assets\Models\Outdoor\Textures\Ground_Floor_H.jpg
-  - type: 1
-    originalUri: Assets\Models\Outdoor\Textures\Ground_Floor_C.jpg
-    assetPath: Assets\Models\Outdoor\Textures\Ground_Floor_C.jpg
-  - type: 1
-    originalUri: Assets\Models\Outdoor\Textures\Ground_Floor_M.jpg
-    assetPath: Assets\Models\Outdoor\Textures\Ground_Floor_M.jpg
-  - type: 1
-    originalUri: Assets\Models\Outdoor\Textures\Ground_H.jpg
-    assetPath: Assets\Models\Outdoor\Textures\Ground_H.jpg
-  - type: 1
-    originalUri: Assets\Models\Outdoor\Textures\Ground_C.jpg
-    assetPath: Assets\Models\Outdoor\Textures\Ground_C.jpg
-  - type: 1
-    originalUri: Assets\Models\Outdoor\Textures\Ground_R.jpg
-    assetPath: Assets\Models\Outdoor\Textures\Ground_R.jpg
-  - type: 1
-    originalUri: Assets\Models\Outdoor\Textures\Font_Wooden_Boundary_H.jpg
-    assetPath: Assets\Models\Outdoor\Textures\Font_Wooden_Boundary_H.jpg
-  - type: 1
-    originalUri: Assets\Models\Outdoor\Textures\Font_Wooden_Boundary_C.jpg
-    assetPath: Assets\Models\Outdoor\Textures\Font_Wooden_Boundary_C.jpg
-  - type: 1
-    originalUri: Assets\Models\Outdoor\Textures\Font_Wooden_Boundary_R.jpg
-    assetPath: Assets\Models\Outdoor\Textures\Font_Wooden_Boundary_R.jpg
-  reportItems:
-  - type: 2
-    code: 20
-    messages:
-    - KHR_materials_specular
-  - type: 2
-    code: 20
-    messages:
-    - KHR_materials_ior
+  script: {fileID: 11500000, guid: 804e1ce4c496647cfa3f1a1134187c71, type: 3}
+  _removeEmptyRootObjects: 1
+  _scaleFactor: 1
+  _deduplicateResources: 0
+  _deduplicatedStatistics:
+    meshCountBefore: 0
+    meshCountAfter: 0
+    textureCountBefore: 0
+    textureCountAfter: 0
+  _maximumLod: 300
+  _readWriteEnabled: 1
+  _generateColliders: 0
+  _addColliders: 0
+  _swapUvs: 0
+  _generateLightmapUVs: 0
+  _importBlendShapeNames: 1
+  _blendShapeFrameWeight:
+    _option: 0
+    _multiplier: 1
+  _importNormals: 0
+  _importTangents: 0
+  _importCamera: 2
+  _importAnimations: 2
+  _mecanimHumanoidFlip: 0
+  _addAnimatorComponent: 0
+  _animationLoopTime: 1
+  _animationLoopPose: 0
+  _importMaterials: 1
+  _enableGpuInstancing: 0
+  _texturesReadWriteEnabled: 1
+  _generateMipMaps: 1
+  _useSceneNameIdentifier: 1
+  _textureCompression: -50
+  _gltfAsset: '<b>Generator: </b>Khronos glTF Blender I/O v5.1.18
+
+    <b>Version:
+    </b>2.0
+
+    
+
+    <b>Extras: </b>
+
+'
+  optimizeGameObjects: 0
+  materials:
+  - {fileID: -8771166627424403242, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: 8239336325185854489, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: 8622583346432225095, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: 4431327447042374910, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: -5785040568840776143, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: -3758024392002896136, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  textures:
+  - {fileID: -2807730217662284679, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: -4089272869141856760, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: 3407090589095177897, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: -9127961044782413866, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: -6449109861325554634, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: 8008600429251818945, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: 1387389815110719147, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: 7793919965005765025, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: -2572456874196481761, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: -648782006672110984, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: 4914045288858229318, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  - {fileID: 8407369142468585470, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+  hasSceneData: 1
+  hasAnimationData: 0
+  hasMaterialData: 1
+  hasTextureData: 1
+  animations: []
+  _extensions:
+  - name: KHR_materials_clearcoat
+    supported: 1
+    used: 1
+    required: 0
+  - name: KHR_materials_transmission
+    supported: 1
+    used: 1
+    required: 0
+  - name: KHR_materials_specular
+    supported: 1
+    used: 1
+    required: 0
+  - name: KHR_materials_ior
+    supported: 1
+    used: 1
+    required: 0
+  _textures:
+  - texture: {fileID: -2807730217662284679, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 1
+  - texture: {fileID: -4089272869141856760, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 3407090589095177897, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 0
+  - texture: {fileID: -9127961044782413866, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 1
+  - texture: {fileID: -6449109861325554634, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 8008600429251818945, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 0
+  - texture: {fileID: 1387389815110719147, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 1
+  - texture: {fileID: 7793919965005765025, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: -2572456874196481761, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 0
+  - texture: {fileID: -648782006672110984, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 1
+  - texture: {fileID: 4914045288858229318, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 8407369142468585470, guid: b8e26380b2089f045a83bf8fdafd8491, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 0
+  _mainAssetIdentifier: scenes/Scene
+  _importPlugins: []
