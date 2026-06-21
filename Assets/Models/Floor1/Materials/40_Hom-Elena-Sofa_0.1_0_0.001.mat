@@ -162,7 +162,7 @@ Material:
     - dispersion: 0
     - emissiveTextureRotation: 0
     - emissiveTextureTexCoord: 0
-    - ior: 1.5
+    - ior: 2.5
     - iridescenceFactor: 0
     - iridescenceIor: 1.3
     - iridescenceTextureRotation: 0
@@ -171,16 +171,16 @@ Material:
     - iridescenceThicknessMinimum: 100
     - iridescenceThicknessTextureRotation: 0
     - iridescenceThicknessTextureTexCoord: 0
-    - metallicFactor: 0
+    - metallicFactor: 0.07
     - metallicRoughnessTextureRotation: 0
     - metallicRoughnessTextureTexCoord: 0
-    - normalScale: 1
+    - normalScale: 0.899
     - normalTextureRotation: 0
-    - normalTextureTexCoord: 0
+    - normalTextureTexCoord: 3.05
     - occlusionStrength: 1
     - occlusionTextureRotation: 0
     - occlusionTextureTexCoord: 0
-    - roughnessFactor: 0.5
+    - roughnessFactor: 0.915
     - sheenColorTextureRotation: 0
     - sheenColorTextureTexCoord: 0
     - sheenRoughnessFactor: 0
@@ -188,7 +188,7 @@ Material:
     - sheenRoughnessTextureTexCoord: 0
     - specularColorTextureRotation: 0
     - specularColorTextureTexCoord: 0
-    - specularFactor: 1
+    - specularFactor: 0.791
     - specularTextureRotation: 0
     - specularTextureTexCoord: 0
     - thicknessFactor: 0
