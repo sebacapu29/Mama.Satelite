@@ -154,6 +154,8 @@ GameObject:
   - component: {fileID: 395940711112210596}
   - component: {fileID: 7461803116299906245}
   - component: {fileID: 5388688661106669525}
+  - component: {fileID: 1547881334956068333}
+  - component: {fileID: 1479981309217191017}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -198,6 +200,21 @@ MonoBehaviour:
   distanciaAgarrar: 2
   fosforo: {fileID: 2050294917256488560}
   playerRenderer: {fileID: 8578967298093827688}
+  visionEffect: {fileID: 0}
+  enableHeadBob: 1
+  bobSmoothing: 8
+  walkBobFrequency: 1.5
+  walkBobAmplitudeY: 0.025
+  walkBobAmplitudeX: 0.02
+  walkBobTiltZ: 1.2
+  runBobFrequency: 2.5
+  runBobAmplitudeY: 0.085
+  runBobAmplitudeX: 0.08
+  runBobTiltZ: 3.5
+  idleBreathFrequency: 0.9
+  idleBreathAmplitude: 0.008
+  idleFidgetAmplitude: 0.45
+  idleFidgetSpeed: 0.4
 --- !u!54 &7461803116299906245
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -248,6 +265,58 @@ CapsuleCollider:
   m_Height: 1
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0.031202316}
+--- !u!114 &1547881334956068333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3321179997644937779}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be1ec56b2e8f43743aea215fe75d81ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  footstepDefault: {fileID: 11400000, guid: f2973ebd726cb5448bfc3c1aab6aea11, type: 2}
+  footstepWood: {fileID: 0}
+  footstepCarpet: {fileID: 0}
+  footstepTile: {fileID: 0}
+  footstepGrass: {fileID: 0}
+  minMoveSpeed: 0.2
+  runThreshold: 1.2
+  walkStepInterval: 0.55
+  runStepInterval: 0.32
+  groundCheckDistance: 1.3
+  groundMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  teleportThreshold: 20
+  breathingCalm: {fileID: 11400000, guid: 34abf9239be8a2348bfbad144c29c7ac, type: 2}
+  breathingPanic: {fileID: 11400000, guid: d961010834b91ac498fd154caeec2e90, type: 2}
+  autoStartBreathing: 1
+  hideEnter: {fileID: 0}
+  hideExit: {fileID: 0}
+  matchStrike: {fileID: 11400000, guid: 41dca7c2c5731ef4486677994ec6943d, type: 2}
+  matchExtinguish: {fileID: 0}
+  doorOpen: {fileID: 0}
+  doorClose: {fileID: 0}
+--- !u!114 &1479981309217191017
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3321179997644937779}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0eaf5e736b026e4da40daf621aae034, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleKey: 96
+  startVisible: 0
+  fontSize: 13
+  panelWidth: 480
+  panelOffset: {x: 10, y: 10}
 --- !u!1 &3632624450215850514
 GameObject:
   m_ObjectHideFlags: 0

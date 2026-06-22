@@ -22,6 +22,34 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Renderer playerRenderer;
     [SerializeField] private VisionEffect visionEffect;
 
+    [Header("Head Bob — Niño 8 años")]
+    [SerializeField] private bool enableHeadBob = true;
+    [Tooltip("Velocidad con la que el bob se intensifica/atenúa al cambiar de estado.")]
+    [SerializeField] private float bobSmoothing = 8f;
+
+    [Header("Bob al caminar")]
+    [SerializeField] private float walkBobFrequency = 8.5f;
+    [Tooltip("Bob vertical pequeño: piernas cortas → cabeza oscila menos en Y.")]
+    [SerializeField] private float walkBobAmplitudeY = 0.045f;
+    [Tooltip("Sway lateral marcado: el niño tambalea de lado a lado.")]
+    [SerializeField] private float walkBobAmplitudeX = 0.05f;
+    [Tooltip("Roll/tilt en grados sobre el eje Z, sincronizado al sway.")]
+    [SerializeField] private float walkBobTiltZ = 2.2f;
+
+    [Header("Bob al correr")]
+    [SerializeField] private float runBobFrequency = 12f;
+    [SerializeField] private float runBobAmplitudeY = 0.085f;
+    [SerializeField] private float runBobAmplitudeX = 0.08f;
+    [SerializeField] private float runBobTiltZ = 3.5f;
+
+    [Header("Idle — siempre activo (respiración + fidget)")]
+    [Tooltip("Respiración: pequeño bob vertical continuo, también suena cuando se mueve.")]
+    [SerializeField] private float idleBreathFrequency = 0.9f;
+    [SerializeField] private float idleBreathAmplitude = 0.008f;
+    [Tooltip("Grados de cabeza moviéndose con Perlin noise (mirar alrededor inquieto).")]
+    [SerializeField] private float idleFidgetAmplitude = 0.45f;
+    [SerializeField] private float idleFidgetSpeed = 0.4f;
+
     private Rigidbody rb;
     private Transform cameraHolder;
     private Transform cameraTransform;
@@ -29,6 +57,12 @@ public class PlayerMovement : MonoBehaviour
     private float velocidadCaida = 0f;
     // private bool estaEnSuelo = true;
     private float rotacionX = 0f;
+
+    private Vector3 cameraBaseLocalPos;
+    private float bobTimer;
+    private float bobBlend; // 0 = idle, 1 = caminar, 2 = correr (interpolado)
+    private float fidgetSeedX;
+    private float fidgetSeedY;
     
     private bool isHiding;
     public bool IsHiding => isHiding;
@@ -74,6 +108,11 @@ public class PlayerMovement : MonoBehaviour
         // Asegurar que la cámara esté en el centro del CameraHolder
         cameraTransform.localPosition = Vector3.zero;
         cameraTransform.localRotation = Quaternion.identity;
+        cameraBaseLocalPos = cameraTransform.localPosition;
+
+        // Seeds distintos para que pitch y yaw del fidget no se muevan en fase
+        fidgetSeedX = Random.value * 100f;
+        fidgetSeedY = Random.value * 100f;
 
         // Configurar Rigidbody
         rb.freezeRotation = true;
@@ -275,6 +314,13 @@ public class PlayerMovement : MonoBehaviour
             playerRenderer.enabled = false;
 
         if (visionEffect != null) visionEffect.SetHideEffect(true);
+
+        var audio = GetComponent<Game.Audio.PlayerAudio>();
+        if (audio != null)
+        {
+            audio.OnHideEnter();
+            audio.SetBreathingPanic(true);
+        }
     }
 
     public void ExitHiding()
@@ -290,6 +336,13 @@ public class PlayerMovement : MonoBehaviour
             playerRenderer.enabled = true;
 
         if (visionEffect != null) visionEffect.SetHideEffect(false);
+
+        var audio = GetComponent<Game.Audio.PlayerAudio>();
+        if (audio != null)
+        {
+            audio.OnHideExit();
+            audio.SetBreathingPanic(false);
+        }
     }
 
     void ActualizarPosicionObjeto()
@@ -299,10 +352,78 @@ public class PlayerMovement : MonoBehaviour
         // Posicionar el objeto adelante de la cámara
         Vector3 posicionCamara = gameObject.transform.position;
         Vector3 adelanteCamara = gameObject.transform.forward * distanciaAgarrar;
-        
+
         objetoAgarrado.transform.position = posicionCamara + adelanteCamara;
         objetoAgarrado.transform.rotation = cameraTransform.rotation;
     }
-    
+
+    // ----------------- HEAD BOB -----------------
+    // Se aplica a cameraTransform (hijo del CameraHolder). El holder sigue manejando
+    // el pitch del mouse; acá sólo se suma micro-offset de posición y un tilt sutil.
+    void LateUpdate()
+    {
+        if (!enableHeadBob || cameraTransform == null) return;
+
+        if (isHiding)
+        {
+            cameraTransform.localPosition = cameraBaseLocalPos;
+            cameraTransform.localRotation = Quaternion.identity;
+            bobTimer = 0f;
+            bobBlend = 0f;
+            return;
+        }
+
+        float horizontalSpeed = rb != null
+            ? new Vector2(rb.linearVelocity.x, rb.linearVelocity.z).magnitude
+            : 0f;
+
+        float walkRunMidpoint = (velocidadCaminar + velocidadCorrer) * 0.5f;
+        float targetBlend = horizontalSpeed < 0.15f ? 0f
+                          : horizontalSpeed < walkRunMidpoint ? 1f
+                          : 2f;
+        bobBlend = Mathf.MoveTowards(bobBlend, targetBlend, bobSmoothing * Time.deltaTime);
+
+        // Interpolar parámetros del bob entre idle(0) → walk(1) → run(2)
+        float freq, ampY, ampX, tiltZ;
+        if (bobBlend <= 1f)
+        {
+            float k = bobBlend;
+            freq  = Mathf.Lerp(0f, walkBobFrequency, k);
+            ampY  = Mathf.Lerp(0f, walkBobAmplitudeY, k);
+            ampX  = Mathf.Lerp(0f, walkBobAmplitudeX, k);
+            tiltZ = Mathf.Lerp(0f, walkBobTiltZ, k);
+        }
+        else
+        {
+            float k = bobBlend - 1f;
+            freq  = Mathf.Lerp(walkBobFrequency, runBobFrequency, k);
+            ampY  = Mathf.Lerp(walkBobAmplitudeY, runBobAmplitudeY, k);
+            ampX  = Mathf.Lerp(walkBobAmplitudeX, runBobAmplitudeX, k);
+            tiltZ = Mathf.Lerp(walkBobTiltZ, runBobTiltZ, k);
+        }
+
+        // Sólo avanza el timer cuando hay bob real → la fase no se desincroniza al detenerse
+        bobTimer += Time.deltaTime * freq;
+
+        // Y oscila a la frecuencia del paso; X y tilt a la mitad (un sway por cada 2 pasos)
+        float yBob  = Mathf.Sin(bobTimer * 2f * Mathf.PI) * ampY;
+        float xBob  = Mathf.Sin(bobTimer * Mathf.PI)      * ampX;
+        float zRoll = Mathf.Sin(bobTimer * Mathf.PI)      * tiltZ;
+
+        // Respiración: bob vertical continuo, también con el jugador quieto
+        float breath = Mathf.Sin(Time.time * idleBreathFrequency * 2f * Mathf.PI) * idleBreathAmplitude;
+
+        // Fidget: Perlin noise en pitch/yaw → cabeza de niño mirando alrededor.
+        // Se atenúa cuando se está moviendo (el bob ya da movimiento sobrado).
+        float idleWeight = Mathf.Clamp01(1f - bobBlend * 0.6f);
+        float fidgetPitch = (Mathf.PerlinNoise(Time.time * idleFidgetSpeed, fidgetSeedX) - 0.5f) * 2f
+                            * idleFidgetAmplitude * idleWeight;
+        float fidgetYaw   = (Mathf.PerlinNoise(fidgetSeedY, Time.time * idleFidgetSpeed) - 0.5f) * 2f
+                            * idleFidgetAmplitude * idleWeight;
+
+        cameraTransform.localPosition = cameraBaseLocalPos + new Vector3(xBob, yBob + breath, 0f);
+        cameraTransform.localRotation = Quaternion.Euler(fidgetPitch, fidgetYaw, zRoll);
+    }
+
     }
 

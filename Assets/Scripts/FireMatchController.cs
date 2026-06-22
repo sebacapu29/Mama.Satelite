@@ -1,51 +1,68 @@
 using UnityEngine;
+using Game.Audio;
 
 public class FireMatchController : MonoBehaviour
 {
-    float timer = 0f;
+    [SerializeField] private int timeToLive = 15; // segundos antes de que el fósforo se apague
 
-    [SerializeField]
-    private int timeToLive = 15; // Time in seconds before the match is destroyed
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    private float timer = 0f;
+    private bool consumedThisActivation;
+    private PlayerAudio playerAudio;
+
+    void Awake()
     {
-        CheckFireMatchCount();
+        playerAudio = FindFirstObjectByType<PlayerAudio>();
     }
 
-    void CheckFireMatchCount()
+    void OnEnable()
     {
-        if (LevelController.Instance != null)
+        // Intentamos consumir un fósforo del inventario. Si no quedan,
+        // desactivamos sin sonido (el fósforo no llegó a prenderse).
+        consumedThisActivation = TryConsumeMatch();
+        if (!consumedThisActivation)
         {
-            if (LevelController.Instance.FireMatchCount > 0)
-            {
-                LevelController.Instance.FireMatchCount--;
-                Debug.Log($"[FireMatchController] Match lit! Remaining matches: {LevelController.Instance.FireMatchCount}");
-            }
-            else
-            {
-                Debug.LogWarning("[FireMatchController] No more matches left to light!");
-                gameObject.SetActive(false); // Deactivate the match if no more are available
-            }
+            gameObject.SetActive(false);
+            return;
         }
-        else
-        {
-            Debug.LogError("[FireMatchController] LevelController instance not found!");
-        }
+
+        timer = 0f;
+        if (playerAudio != null) playerAudio.OnMatchStrike();
     }
-    // Update is called once per frame
+
+    void OnDisable()
+    {
+        // Sólo sonido de apagado si realmente se llegó a prender.
+        if (!consumedThisActivation) return;
+        if (playerAudio != null) playerAudio.OnMatchExtinguish();
+        consumedThisActivation = false;
+    }
+
     void Update()
-    {
-        HandleMatchLifeTime();
-    }
-    void HandleMatchLifeTime()
     {
         timer += Time.deltaTime;
         if (timer >= timeToLive)
         {
+            Debug.Log("[FireMatchController] Match has burned out.");
             gameObject.SetActive(false);
-            Debug.Log("[FireMatchController] Match has burned out and is now inactive.");
-            timer = 0f; // Reset timer in case the match is reactivated later
-            CheckFireMatchCount();
         }
+    }
+
+    bool TryConsumeMatch()
+    {
+        if (LevelController.Instance == null)
+        {
+            Debug.LogError("[FireMatchController] LevelController instance not found!");
+            return false;
+        }
+
+        if (LevelController.Instance.FireMatchCount <= 0)
+        {
+            Debug.LogWarning("[FireMatchController] No more matches left to light!");
+            return false;
+        }
+
+        LevelController.Instance.FireMatchCount--;
+        Debug.Log($"[FireMatchController] Match lit! Remaining matches: {LevelController.Instance.FireMatchCount}");
+        return true;
     }
 }

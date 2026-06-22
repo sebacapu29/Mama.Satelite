@@ -16,6 +16,9 @@ public class SceneTransition : MonoBehaviour
 
     private void LoadScene()
     {
-        SceneManager.LoadScene(sceneName);
+        if (SceneFader.Instance != null)
+            SceneFader.Instance.FadeOutAndLoad(sceneName);
+        else
+            SceneManager.LoadScene(sceneName); // fallback defensivo
     }
 }
