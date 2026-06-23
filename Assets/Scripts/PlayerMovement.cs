@@ -85,7 +85,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        if (IntroUI.IsActive) return;
+        if (IntroUI.IsActive || OutroCreditsUI.IsActive) return;
 
         // Input del ratón para rotar cámara
         Vector2 mouseDelta = Mouse.current.delta.ReadValue();
