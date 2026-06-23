@@ -25,5 +25,9 @@ MonoBehaviour:
     clip: {fileID: 8300000, guid: 8bfead221d6c3d14daf9963b5f76795c, type: 3}
     volume: 0.057
     loop: 1
+  - sceneName: Outdoor
+    clip: {fileID: 8300000, guid: 199c55988f6fa6549a1db058458d2762, type: 3}
+    volume: 0.092
+    loop: 1
   defaultClip: {fileID: 0}
   defaultVolume: 0.442

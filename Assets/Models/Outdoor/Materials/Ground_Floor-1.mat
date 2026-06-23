@@ -193,7 +193,7 @@ Material:
     - occlusionStrength: 1
     - occlusionTextureRotation: 0
     - occlusionTextureTexCoord: 0
-    - roughnessFactor: 1
+    - roughnessFactor: 0
     - sheenColorTextureRotation: 0
     - sheenColorTextureTexCoord: 0
     - sheenRoughnessFactor: 0
