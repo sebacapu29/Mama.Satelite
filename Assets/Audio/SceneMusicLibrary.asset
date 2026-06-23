@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69b66d7cd5f28e34eb4fa5187f3ffa1c, type: 3}
+  m_Name: SceneMusicLibrary
+  m_EditorClassIdentifier: 
+  entries:
+  - sceneName: Floor1
+    clip: {fileID: 8300000, guid: 199c55988f6fa6549a1db058458d2762, type: 3}
+    volume: 0.092
+    loop: 1
+  - sceneName: Floor2
+    clip: {fileID: 8300000, guid: 8bfead221d6c3d14daf9963b5f76795c, type: 3}
+    volume: 0.057
+    loop: 1
+  - sceneName: Floor3
+    clip: {fileID: 8300000, guid: 8bfead221d6c3d14daf9963b5f76795c, type: 3}
+    volume: 0.057
+    loop: 1
+  - sceneName: Outdoor
+    clip: {fileID: 8300000, guid: 199c55988f6fa6549a1db058458d2762, type: 3}
+    volume: 0.092
+    loop: 1
+  defaultClip: {fileID: 0}
+  defaultVolume: 0.442

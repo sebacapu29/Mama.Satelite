@@ -93,7 +93,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 112000000, guid: e2cee74167d273349bec662d2d391e68, type: 2}
+  m_LightingDataAsset: {fileID: 0}
   m_LightingSettings: {fileID: 4890085278179872738, guid: 7e36bc1b677090d4e966f65216fabc09, type: 2}
 --- !u!196 &4
 NavMeshSettings:
@@ -917,6 +917,7 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+  m_IsActive: 1
 --- !u!4 &232799624
 Transform:
   m_ObjectHideFlags: 0
@@ -1234,8 +1235,8 @@ Light:
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 1
   m_Range: 6
-  m_SpotAngle: 138.66197
-  m_InnerSpotAngle: 36.42253
+  m_SpotAngle: 113.39583
+  m_InnerSpotAngle: 36
   m_CookieSize: 10
   m_Shadows:
     m_Type: 2
@@ -2584,8 +2585,8 @@ Light:
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 5
   m_Range: 6
-  m_SpotAngle: 50
-  m_InnerSpotAngle: 36
+  m_SpotAngle: 125.548615
+  m_InnerSpotAngle: 33.23611
   m_CookieSize: 10
   m_Shadows:
     m_Type: 2
@@ -3281,7 +3282,7 @@ Light:
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 6
   m_Range: 6
-  m_SpotAngle: 50
+  m_SpotAngle: 118.36806
   m_InnerSpotAngle: 36
   m_CookieSize: 10
   m_Shadows:
