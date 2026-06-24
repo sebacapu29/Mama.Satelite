@@ -8,6 +8,10 @@ public class OutroCreditsTrigger : MonoBehaviour
     [Tooltip("Arrastrá aquí los Renderers del plano/objeto que tienen el shader/material a desactivar.")]
     [SerializeField] private Renderer[] renderersToDisable;
 
+    void Start()
+    {
+    }
+
     void OnTriggerEnter(Collider other)
     {
         if (!other.CompareTag(playerTag)) return;
